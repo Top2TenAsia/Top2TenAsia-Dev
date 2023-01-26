@@ -1,9 +1,9 @@
 on:
   push:
     branches:
-      - master
+      - main
 
-  name: FTP Deployer
+  - name: FTP Deployer
   uses: sand4rt/ftp-deployer@v1.7
   with:
     sftp: false # optional
