@@ -1,0 +1,31 @@
+.active{
+  		background-color: #3b5998;
+  	}
+  	body {
+    overflow-x: hidden; //horizontal
+    overflow-y: scroll; //vertical
+}
+.checked {
+  color: orange;
+}
+.half{
+  color:orange;
+  color-rendering: 50%;
+}
+h2{
+  font-family: Comic Sans, Comic Sans MS, cursive;
+}
+a:hover{
+  text-decoration: none;
+  color: coral
+  }
+  h3{
+    font-size: 20px;
+  }
+  a:hover{
+      color:coral;
+  }
+
+  .navbar-nav a:hover{
+      color: blue;
+  }
