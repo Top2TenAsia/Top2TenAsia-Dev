@@ -1,11 +1,11 @@
 					<header id="header">
-						<h1><a href="../index">Top2Ten Asia</a></h1>
+						<h1><a href="https://www.top2tenasia.xyz">Top2Ten Asia</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="https://www.top2tenasia.xyz">Trending</a></li>
-								<li><a href="../Top2Ten [Asia]-Quiz">Quiz</a></li>
-								<li><a href="../top-10-lists">Top 10 List</a></li>
-								<li><a href="../about us">About us</a></li>
+								<li><a href="https://www.top2tenasia.xyz">Trending</a> <i class="fa fa-fire trendingIcon" aria-hidden="true"></i></li>
+								<!-- <li><a href="https://www.top2tenasia.xyz/K-Drama&K-POP[Quiz]">Quiz</a> <i class="fa fa-question trendingIcon" aria-hidden="true"></i></li> -->
+								<li><a href="top-10-lists">Top 10 List </a></i></li>
+								<li><a href="about us">About us</a></li>
 							</ul>
 						</nav>
 						<nav class="main">
@@ -22,10 +22,10 @@
 						<!-- Links -->
 							<section>
 								<ul class="links">
-								<li><a href="https://www.top2tenasia.xyz">Trending</a></li>
-								<li><a href="../Top2Ten [Asia]-Quiz">Quiz</a></li>
-								<li><a href="../top-10-lists">Top 10 List</a></li>
-								<li><a href="../about us">About us</a></li>
+								<li><a href="https://www.top2tenasia.xyz">Trending</a> <i class="fa fa-fire trendingIcon" aria-hidden="true"></i></li>
+								<!-- <li><a href="https://www.top2tenasia.xyz/K-Drama&K-POP[Quiz]">Quiz</a> <i class="fa fa-question trendingIcon" aria-hidden="true"></i></li> -->
+								<li><a href="top-10-lists">Top 10 List </a></i></li>
+								<li><a href="about us">About us</a></li>
 								</ul>
 							</section>
 

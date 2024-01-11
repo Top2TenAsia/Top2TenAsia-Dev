@@ -3612,3 +3612,9 @@ input, select, textarea {
 #author {
     display: block;
 }
+.trendingIcon{
+	color: #E4405F;
+}
+.topTenIcon{
+	color: #3b5998;
+}

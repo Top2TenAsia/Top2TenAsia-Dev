@@ -11,16 +11,16 @@
 
   gtag('config', 'UA-160757768-1');
 </script>
-<title>Top2Ten [ASIA]- K-Drama QUIZ</title>
+<title>K-Drama & K-POP QUIZ</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-<link rel="canonical" href="https://www.top2tenasia.xyz/" />
+<link rel="canonical" href="https://www.top2tenasia.xyz/K-Drama&K-POP[Quiz]" />
 <script src="type.js"></script>
-<meta name="description" content="Top2Ten Asia Quiz on K-Drama">
-<meta name="keywords" content="top2ten asia,TOP2TEN ASIA,Top2Ten Asia,top2ten,K-POP BLOG,k-pop blog,k-pop,anime,anime blog,k-drama blog, Anime, K-Drama, K-Drama blog, k-drama, k-drama blog, K-Drama Blog, Korean Drama Blog, Korean Drama, chinese drama ">
+<meta name="description" content="Explore the vibrant world of Korean entertainment on our website, featuring top 10 lists of Kdramas and Kpop hits. Challenge your knowledge with our engaging KDrama Quiz, where you can dive into intriguing plot twists and unforgettable characters. Test your Kpop expertise in our dynamic KPop Quiz, covering everything from chart-toppers to mesmerizing choreography. Immerse yourself further in the richness of Korean culture through our Korean Quiz section, offering insights into traditions, language essentials, and cultural nuances. Elevate your Korean entertainment experience with our thought-provoking quizzes and curated lists that celebrate the best of Kdramas, Kpop, and Korean culture">
+<meta name="keywords" content="Korean Entertainment Website, Kdrama Top 10 Lists, Kpop Chart-Toppers, KDrama and KPop Quizzes, Best Korean Dramas Online, Kpop Hits Quiz, Korean Culture Insights, Kdrama Fan Favorites, Korean Language Quiz, Kpop Dance Challenges, Top Kdrama Recommendations, Kpop MV Reviews, Korean Entertainment Trends, Iconic Kdrama Moments Quiz, Kdrama OST Recommendations, Kpop Idols Trivia, Korean Variety Shows Quiz, Rising Kpop Stars Quiz, Explore Korean Culture, Korean Language Essentials, Kdrama Characters Quiz, Kpop Groups Trivia, Korean Traditions Quiz, Kdrama Plot Twists Quiz, Kpop Choreography Quiz">
 <meta name="Owner" content="Harish Panwar">
 <style>
   h2{
@@ -59,7 +59,7 @@ position:sticky;
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
-<?php include("header.php") ?>
+<?php include 'article/header.php';?>
 <div class="gcse-search"></div>
 <div class="container" style="margin-top: 3ex;">
 <h1><center> <span style="color:#3b5998;text-decoration:underline">K-Drama Quiz</span></center></h1>
@@ -130,6 +130,13 @@ if (a) {
   a.setAttribute('href', 'intent://www.top2ten.xyz/Guess-The-K-Drama-And-Actor-Quiz#Intent;scheme=http;package=com.android.chrome;end')
 }
     }
+    
 </script>
+<!-- Scripts -->
+<script src="article/assets/js/jquery.min.js"></script>
+			<script src="article/assets/js/browser.min.js"></script>
+			<script src="article/assets/js/breakpoints.min.js"></script>
+			<script src="article/assets/js/util.js"></script>
+			<script src="article/assets/js/main.js"></script>
 </body>
 </html>

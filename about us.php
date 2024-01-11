@@ -1,101 +1,103 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160757768-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Top2Ten Asia</title>
+  gtag('config', 'UA-160757768-2');
+</script>
+  <title>Top2Ten Asia [Trending News & Updates On K-Drama & K-pop News]</title>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="fontawesome-free-5.1.1-web/css/fontawesome.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="top.css">
-<style>
- .container{
-		width: 95%
-	}
+  <link rel="canonical" href="https://www.top2tenasia.xyz/" />
+  <link rel="stylesheet" href="article/assets/css/main.css" />
+  <script src="type.js"></script>
+   <meta name="description" content="Top2Ten Asia posts Top 10 list Updates & Trending news on K-drama, J-Drama, K-pop, J-pop">
+  <meta name="keywords" content="top2ten asia,TOP2TEN ASIA,Top2Ten Asia,top2ten,K-POP BLOG,k-pop blog,k-pop,anime,anime blog,k-drama blog, Anime, K-Drama, K-Drama blog, k-drama, k-drama blog, K-Drama Blog, Korean Drama Blog, Korean Drama, chinese drama, japanese drama ">
 
-  h1{
-         font-size:28px;
-         font-family:calibri;
-         letter-spacing:0.2ex;
-     }
-  h2 {
-    font-size:22px;
-    font-family:calibri;
-   
-    
-   
-  }
+  <meta name="Owner" content="Harish Panwar">
+	</head>
+	<body class="is-preload">
+			<div id="wrapper">
+			<?php include 'article/header.php';?>
 
-  h3{
-      font-size:18px;
-      font-family:calibri;
-      letter-spacing:0.2ex;
-      line-height: 1.6;
-  }
- @media only screen and (max-width: 600px) {
-     .container{
-		width: auto;
-	}
-     h1{
-         font-size:19px;
-         font-family:times new roman;
-     }
-  h2 {
-    font-size:18px;
-     font-family:times new roman;
-   
-  }
-  h3{
-      font-size:17px;
-      font-family:times new roman;
-      letter-spacing:0.2ex;
-      line-height: 1.6;
-      
-  }
+				<!-- Menu -->
+					<section id="menu">
 
-html {
-  scroll-behavior: smooth;
-}
- a:hover{
-  color: coral;
-}
+						<!-- Search -->
+							<section>
+								<form class="search" method="get" action="#">
+									<input type="text" name="query" placeholder="Search" />
+								</form>
+							</section>
 
-</style>
-</head>
-<body>
+						<!-- Links -->
+							<section>
+								<ul class="links">
+									<li>
+										<a href="#">
+											<h3>Lorem ipsum</h3>
+											<p>Feugiat tempus veroeros dolor</p>
+										</a>
+									</li>
+									<li>
+										<a href="#">
+											<h3>Dolor sit amet</h3>
+											<p>Sed vitae justo condimentum</p>
+										</a>
+									</li>
+									<li>
+										<a href="#">
+											<h3>Feugiat veroeros</h3>
+											<p>Phasellus sed ultricies mi congue</p>
+										</a>
+									</li>
+									<li>
+										<a href="#">
+											<h3>Etiam sed consequat</h3>
+											<p>Porta lectus amet ultricies</p>
+										</a>
+									</li>
+								</ul>
+							</section>
 
-<?php include("header.php");?>
-<div class="container" style="margin-top: -2ex;">
-  <center><h1 style="font-family: Times new roman">About us</h1></center>
+						<!-- Actions -->
+							<section>
+								<ul class="actions stacked">
+									<li><a href="#" class="button large fit">Log In</a></li>
+								</ul>
+							</section>
 
-<br>
-<h3>Top2Ten Asia is an Korean Entertainment news website developed and owned by Harish Panwar. It provides high quality content, News, Updates and Top 10 lists related to Korean Drama, K-POP and other Asian Entertainment stuff. Top2ten Asia is an indepentent identity and the content posted on it is based on verified data and stuff available on the Internet. Top2Ten Asia have around 50K monthly users .</h3><br><br>
+					</section>
 
-<h2>About Top2Ten Asia</h2>
-<h3>
-Top2Ten Asia (www.top2tenasia.xyz) was launched or got lived on 16<sup>th</sup> of June 2020 and it's Instagram page was created on 21<sup>st</sup> of March 2020.</h3><br><br>
+				<!-- Main -->
+					<div id="main">
+            <div class="title"><h1>About Us<h1></div>
+						<p>Top2Ten Asia is a Korean entertainment media website providing complete coverage of Korean Drama and pop culture.
+            Founded in March 21, 2020, Top2TenAsia has become one of the famous entertainment website for all the latest news on Korean celebrities, 
+            music, TV shows, movies, and style with bringing you exclusive content.</p><br>
 
+						<h2>OUR STORY</h2>
+						<p>Top2Ten Asia Journey began in 2020 when a lonely fan created a Korean Drama and pop music Instagram page named as "top2ten.asia" and after few months on 16, Jun 2020 created a fan site top2tenasia.xyz from his home in New Delhi. As a fan of a K-Drama and K-pop, “Harish Panwar” (Founder of Top2Ten Asia) initially started his site and Instagram page with his brother and Co-Founder “Manish Panwar” with the goal of providing a place where he and his Indian K-Drama and K-pop friends could share their love for the Korean content and their counterparts. However, Top2TenAsia quickly gained attractionin the Korean pop culture fan world and has grown into one of the most distinct media with over 70,000 people following the Instagram and regularly visiting the website.<p>
+						<h2>CONTACT US</h2>
+						Email:
+						Press and Media Inquiries: top2tenasia@gmail.com
+					</div>
 
-</h3>
-<br>
-<br>
-<br>
-<br>
-<h3>
-Developed & Owned by<br>
-Top2Ten Asia<br>
-Harish panwar<br>
-New Delhi,India
-</h3>
-</div>
-<br><br><br>
-<?php include("footer.php");?>
-</body>
-</div>
+			</div>
+
+		<!-- Scripts -->
+			<script src="article/assets/js/jquery.min.js"></script>
+			<script src="article/assets/js/browser.min.js"></script>
+			<script src="article/assets/js/breakpoints.min.js"></script>
+			<script src="article/assets/js/util.js"></script>
+			<script src="article/assets/js/main.js"></script>
+
+	</body>
 </html>

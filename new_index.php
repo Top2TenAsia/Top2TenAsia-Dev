@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="article/assets/css/main.css" />
   <script src="type.js"></script>
   <script src="mainScript.js"></script>
-  <meta name="description" content="Top2Ten Asia posts Top 10 list Updates & Trending news on K-drama, J-Drama, K-pop, J-pop">
+   <meta name="description" content="Top2Ten Asia posts Top 10 list Updates & Trending news on K-drama, J-Drama, K-pop, J-pop">
   <meta name="keywords" content="top2ten asia,TOP2TEN ASIA,Top2Ten Asia,top2ten,K-POP BLOG,k-pop blog,k-pop,anime,anime blog,k-drama blog, Anime, K-Drama, K-Drama blog, k-drama, k-drama blog, K-Drama Blog, Korean Drama Blog, Korean Drama, chinese drama, japanese drama ">
 
   <meta name="Owner" content="Harish Panwar">

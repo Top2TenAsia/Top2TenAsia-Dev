@@ -120,7 +120,7 @@ hr{
   <center><h1>Upcoming K-Drama “Youth” Based On BTS</h1><br>
 </center>
   
-<p style="float:left"><i class="fa fa-clock-o" > </i> 8:00 PM Jul 31, 2021 IST</p>
+<p style="float:left"><i class="fa fa-clock-o" > </i> 8:00 PM Jul 31, 2022 IST</p>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br><br>
 <hr>
 
