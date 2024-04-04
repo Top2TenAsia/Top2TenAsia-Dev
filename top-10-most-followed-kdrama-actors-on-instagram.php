@@ -61,7 +61,7 @@
                         <p>Top 10 List: “Korean Drama Actors” </p>
                     </div>
                     <div class="meta">
-                        <time class="published" datetime="2015-11-01">Mar 7, 2022</time>
+                        <time class="published" datetime="2015-11-01">April 4, 2024</time>
                         <a href="https://www.instagram.com/top2ten.asia" class="author"><span class="name">Top2Ten
                                 Asia</span><img src="article/images/avatar.jpg" alt="" /></a>
                     </div>
@@ -113,7 +113,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/soohyun_k216/"
                             target="_blank">@soohyun_k216</a><br>
-                        <b>Followers:</b> 14.5 million<br>
+                        <b>Followers:</b> 15.7 million<br>
                         <b>Korean:</b> 김수현 (Hanja: 金秀賢)<br>
                         <b>Date of Birth:</b> February 16, 1988<br>
                         <b>About:</b>
@@ -137,7 +137,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/leedongwook_official"
                             target="_blank">@leedongwook_official</a><br>
-                        <b>Followers:</b> 18.1 million<br>
+                        <b>Followers:</b> 18.3 million<br>
                         <b>Korean Name:</b> 이동욱 (Hanja: 李棟旭)<br>
                         <b>Date of Birth:</b> November 6, 1981<br>
                         <b>About:</b> Lee Dong-wook, a versatile South Korean actor, host, model, and entertainer, is
@@ -188,7 +188,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/hi_high_hiy"
                             target="_blank">@hi_high_hiy</a><br>
-                        <b>Followers:</b> 19.4 million<br>
+                        <b>Followers:</b> 19.8 million<br>
                         <b>Korean Name:</b> 황인엽 (Hanja: 黃寅燁)<br>
                         <b>Date of Birth:</b> January 19, 1991<br>
                         <b>About:</b>
@@ -209,7 +209,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/songkang_b"
                             target="_blank">@songkang_b</a><br>
-                        <b>Followers:</b> 21.1 million<br>
+                        <b>Followers:</b> 21.6 million<br>
                         <b>Korean Name:</b> 송강<br>
                         <b>Date of Birth:</b> April 23, 1994<br>
                         <b>About:</b>
@@ -229,7 +229,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/bn_sj2013"
                             target="_blank">@bn_sj2013</a><br>
-                        <b>Followers:</b> 25.9 million<br>
+                        <b>Followers:</b> 26.1 million<br>
                         <b>Korean Name:</b> 박용규 (박서준)<br>
                         <b>Date of Birth:</b> December 16, 1988<br>
                         <b>About:</b>
@@ -279,7 +279,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/jichangwook"
                             target="_blank">@jichangwook</a><br>
-                        <b>Followers:</b> 26.8 million<br>
+                        <b>Followers:</b> 27 million<br>
                         <b>Korean Name:</b> 지창욱<br>
                         <b>Date of Birth:</b> July 5, 1987<br>
                         <b>About:</b>
@@ -302,7 +302,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/actorleeminho"
                             target="_blank">@actorleeminho</a><br>
-                        <b>Followers:</b> 34.9 million<br>
+                        <b>Followers:</b> 35 million<br>
                         <b>Korean Name:</b> 이민호 (Hanja: 李敏鎬)<br>
                         <b>Date of Birth:</b> June 22, 1987<br>
                         <b>About:</b>
@@ -328,7 +328,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/eunwo.o_c"
                             target="_blank">@eunwo.o_c</a><br>
-                        <b>Followers:</b> 42.6 million<br>
+                        <b>Followers:</b> 44.1 million<br>
                         <b>Korean Name:</b> 이동민<br>
                         <b>Date of Birth:</b> March 30, 1997<br>
                         <b>About:</b>
