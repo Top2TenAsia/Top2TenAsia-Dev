@@ -69,10 +69,12 @@
 
                 <span class="image featured"><img src="assets/top 10 most followed kdrama actors on instagram.webp"
                         alt="" /></span>
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                <!-- article -->
+                <script async
+                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                    crossorigin="anonymous"></script>
+                <!-- Shadow -->
                 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
-                    data-ad-slot="6650591452" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    data-ad-slot="7971452142" data-ad-format="auto" data-full-width-responsive="true"></ins>
                 <script>
                 (adsbygoogle = window.adsbygoogle || []).push({});
                 </script>
@@ -107,7 +109,7 @@
                 <div class="content-section">
                     <h3 style="color: #FF5733;">10. Kim Soo Hyun</h3>
                     <br>
-                    <p class="image featured"><img src="article/assets/You-Are-A-Killer.webp" alt="" /></p>
+                    <p class="image featured"><img src="article/assets/kim-soo-hyun.webp" alt="" /></p>
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/soohyun_k216/"
                             target="_blank">@soohyun_k216</a><br>
@@ -170,7 +172,15 @@
                         captivating presence, establishing himself as one of South Korea's most promising talents.
                     </p>
                 </div>
-
+                <script async
+                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                    crossorigin="anonymous"></script>
+                <!-- Alpha -->
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
+                    data-ad-slot="6466798782" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
                 <div class="content-section">
                     <h3 style="color: #FF5733;">7. Hwang InYoup</h3>
                     <br>
@@ -253,7 +263,15 @@
                         a Bonus Book" (2019), and "Big Mouth" (2022).
                     </p>
                 </div>
-
+                <script async
+                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                    crossorigin="anonymous"></script>
+                <!-- Alpha -->
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
+                    data-ad-slot="6466798782" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
                 <div class="content-section">
                     <h3 style="color: #FF5733;">3. Ji ChangWook</h3>
                     <br>
@@ -324,7 +342,15 @@
                     </p>
                 </div>
 
-
+                <script async
+                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                    crossorigin="anonymous"></script>
+                <!-- Shadow -->
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
+                    data-ad-slot="7971452142" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
                 <footer>
                     <ul class="stats">
                         <li><a href="#">Support us</a></li>
