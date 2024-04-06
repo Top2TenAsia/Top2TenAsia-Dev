@@ -43,6 +43,27 @@
         margin-left: 3em;
     } */
     </style>
+    <script async src="https://fundingchoicesmessages.google.com/i/pub-2272028859368526?ers=1"
+        nonce="iRbgNe1IMKSh4e6oSsogsw"></script>
+    <script nonce="iRbgNe1IMKSh4e6oSsogsw">
+    (function() {
+        function signalGooglefcPresent() {
+            if (!window.frames['googlefcPresent']) {
+                if (document.body) {
+                    const iframe = document.createElement('iframe');
+                    iframe.style =
+                        'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;';
+                    iframe.style.display = 'none';
+                    iframe.name = 'googlefcPresent';
+                    document.body.appendChild(iframe);
+                } else {
+                    setTimeout(signalGooglefcPresent, 0);
+                }
+            }
+        }
+        signalGooglefcPresent();
+    })();
+    </script>
 </head>
 
 <body class="is-preload">
@@ -69,15 +90,18 @@
 
                 <span class="image featured"><img src="assets/top 10 most followed kdrama actors on instagram.webp"
                         alt="" /></span>
-                <script async
-                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
-                    crossorigin="anonymous"></script>
-                <!-- Shadow -->
-                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
-                    data-ad-slot="7971452142" data-ad-format="auto" data-full-width-responsive="true"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+                <div class="content-ads">
+
+                    <script async
+                        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                        crossorigin="anonymous"></script>
+                    <!-- Shadow -->
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
+                        data-ad-slot="7971452142" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
                 <div class="intro-section">
                     <p>Welcome, fellow fans of the Korean drama world! Today, let's dive into the exciting realm of
                         Instagram to explore our Korean Drama actors' fan following. In the dynamic landscape of 2024,
@@ -172,15 +196,17 @@
                         captivating presence, establishing himself as one of South Korea's most promising talents.
                     </p>
                 </div>
-                <script async
-                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
-                    crossorigin="anonymous"></script>
-                <!-- Alpha -->
-                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
-                    data-ad-slot="6466798782" data-ad-format="auto" data-full-width-responsive="true"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+                <div class="content-ads">
+                    <script async
+                        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                        crossorigin="anonymous"></script>
+                    <!-- Alpha -->
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
+                        data-ad-slot="6466798782" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
                 <div class="content-section">
                     <h3 style="color: #FF5733;">7. Hwang InYoup</h3>
                     <br>
@@ -221,7 +247,6 @@
                     </p>
 
                 </div>
-
                 <div class="content-section">
                     <h3 style="color: #FF5733;">5. Park Seo Joon</h3>
                     <br>
@@ -263,15 +288,19 @@
                         a Bonus Book" (2019), and "Big Mouth" (2022).
                     </p>
                 </div>
-                <script async
-                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
-                    crossorigin="anonymous"></script>
-                <!-- Alpha -->
-                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
-                    data-ad-slot="6466798782" data-ad-format="auto" data-full-width-responsive="true"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+
+                <div class="content-ads">
+                    <script async
+                        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                        crossorigin="anonymous"></script>
+                    <!-- Delta -->
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
+                        data-ad-slot="6606716818" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+
                 <div class="content-section">
                     <h3 style="color: #FF5733;">3. Ji ChangWook</h3>
                     <br>
@@ -345,9 +374,8 @@
                 <script async
                     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
                     crossorigin="anonymous"></script>
-                <!-- Shadow -->
-                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
-                    data-ad-slot="7971452142" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed"
+                    data-ad-client="ca-pub-2272028859368526" data-ad-slot="8842870052"></ins>
                 <script>
                 (adsbygoogle = window.adsbygoogle || []).push({});
                 </script>
@@ -406,14 +434,6 @@
             </section>
 
         </section>
-        <!-- //Ad Loading -->
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article"
-            data-ad-format="fluid" data-ad-client="ca-pub-2272028859368526" data-ad-slot="5516623126"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-
     </div>
 
     <!-- Scripts -->
