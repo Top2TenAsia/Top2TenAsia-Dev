@@ -76,7 +76,7 @@
                         <p>Top 10 List: “Korean Drama Actresses” </p>
                     </div>
                     <div class="meta">
-                        <time class="published" datetime="2015-11-01">April 4, 2024</time>
+                        <time class="published" datetime="2025-02-02">Feb 2, 2025</time>
                         <a href="https://www.instagram.com/top2ten.asia" class="author"><span class="name">Top2Ten
                                 Asia</span><img src="article/images/avatar.jpg" alt="" /></a>
                     </div>
