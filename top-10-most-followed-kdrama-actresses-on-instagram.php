@@ -132,14 +132,15 @@
                             <p class="image featured"><img src="article/assets/top-10-list/kim-ji-won.webp"
                                     alt="Kim Ji Won" /></p>
                             <p>
-                                <b>Instagram Handle:</b> <a href="https://www.instagram.com/hi_kimjiwon"
-                                    target="_blank">@hi_kimjiwon</a><br>
+                                <b>Instagram Handle:</b> <a href="https://www.instagram.com/geewonii"
+                                    target="_blank">@geewonii</a><br>
                                 <b>Followers:</b> 14.5 million<br>
                                 <b>Korean Name:</b> 김지원<br>
                                 <b>Date of Birth:</b> October 19, 1992<br>
                                 <b>About:</b>
                                 Kim Ji Won is celebrated for her versatile roles in K-dramas such as "Descendants of the
-                                Sun" and "Fight for My Way." Her Instagram offers fans a glimpse into her professional
+                                Sun" and "Fight for My Way and Queen of Tears." Her Instagram offers fans a glimpse into
+                                her professional
                                 endeavors and personal moments.
                             </p>
                         </div>
@@ -195,7 +196,17 @@
                                 Her Instagram offers a mix of professional photoshoots and personal moments.
                             </p>
                         </div>
-
+                        <div class="content-ads">
+                            <script async
+                                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                                crossorigin="anonymous"></script>
+                            <!-- Alpha -->
+                            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
+                                data-ad-slot="6466798782" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
                         <div class="content-section">
                             <h3 style="color: #FF5733;">6. Im Yoona</h3>
                             <br>
@@ -209,7 +220,7 @@
                                 <b>Date of Birth:</b> May 30, 1990<br>
                                 <b>About:</b>
                                 Im Yoona, a member of Girls' Generation, has also made a mark as an actress in dramas
-                                like "The K2" and "The King in Love." Her Instagram features a blend of music
+                                like "The K2" and "King The Land." Her Instagram features a blend of music
                                 promotions, acting updates, and personal moments.
                             </p>
                         </div>
@@ -227,8 +238,9 @@
                                 <b>Korean Name:</b> 송혜교<br>
                                 <b>Date of Birth:</b> November 22, 1981<br>
                                 <b>About:</b>
-                                Song Hye Kyo is a veteran actress known for her roles in "Descendants of the Sun" and
-                                "Encounter." Her Instagram showcases her acting projects, fashion, and personal life.
+                                Song Hye Kyo is a veteran actress known for her roles in "Descendants of the Sun",
+                                "Encounter." and The Glory, Her Instagram showcases her acting projects, fashion, and
+                                personal life.
                             </p>
                         </div>
 
@@ -269,6 +281,18 @@
                             </p>
                         </div>
 
+                        <div class="content-ads">
+                            <script async
+                                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                                crossorigin="anonymous"></script>
+                            <!-- Delta -->
+                            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
+                                data-ad-slot="6606716818" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
+
                         <div class="content-section">
                             <h3 style="color: #FF5733;">2. Lee Ji Eun</h3>
                             <br>
@@ -289,20 +313,21 @@
                         </div>
 
                         <div class="content-section">
-                            <h3 style="color: #FF5733;">1. Kim Ji So</h3>
+                            <h3 style="color: #FF5733;">1. Kim Ji Soo</h3>
                             <br>
                             <p class="image featured"><img src="article/assets/top-10-list/jisoo.webp"
                                     alt="Kim Ji So" /></p>
                             <p>
-                                <b>Instagram Handle:</b> <a href="https://www.instagram.com/kimjiso"
-                                    target="_blank">@kimjiso</a><br>
+                                <b>Instagram Handle:</b> <a href="https://www.instagram.com/sooyaaa"
+                                    target="_blank">@sooyaaa</a><br>
                                 <b>Followers:</b> 79.7 million<br>
                                 <b>Korean Name:</b> 김지소<br>
                                 <b>Date of Birth:</b> January 5, 1992<br>
                                 <b>About:</b>
-                                Kim Ji So is currently the most followed K-drama actress on Instagram. She has gained
-                                immense popularity for her roles in hit K-dramas such as "The Glory" and "The World of
-                                the Married." Her Instagram is a visual diary filled with photos from her glamorous
+                                Kim Ji Soo is currently the most followed K-drama actress on Instagram. She is a memeber
+                                of one of the most famous Kpop girl group BlackPink and also has gained
+                                immense popularity for her roles in K-Drama "Snowdrop". Her Instagram is a visual diary
+                                filled with photos from her glamorous
                                 photoshoots, acting roles, and personal experiences. Her strong performances and
                                 engaging personality have helped her create a large and loyal following, making her one
                                 of the most influential figures in Korean entertainment.

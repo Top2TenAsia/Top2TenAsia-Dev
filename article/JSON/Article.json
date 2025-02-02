@@ -1,83 +1,104 @@
 {
-    "1":{
-       "articles":[
-         {
-           "title":"Yeon Woo Jin And Park Bo Young Are In Talks To Join Upcoming Drama",
-           "date": "Jul 2, 2022",
-           "author": "Art Lover",
-           "category": "K-Drama",
-           "link":"https://www.top2tenasia.xyz/article/Yeon-Woo-Jin-And-Park-Bo-Young-Are-In-Talks-To-Join-Upcoming-Drama",
-           "postImage": "https://www.top2tenasia.xyz/article/assets/Morning-Comes-to-Psychiatric-Wards-Too.webp"
-         },
-          {
-           "title":"Upcoming K-Drama “Youth” Based On BTS",
-           "date": "Jul 31, 2022",
-           "author": "Art Lover",
-           "category": "Upcoming K-Drama",
-           "link":"https://www.top2tenasia.xyz/Upcoming-K-Drama-Youth-Based-On-BTS",
-           "postImage": "assets/BTS-Drama.webp"
-         },
-          {
-           "title":"Bae Suzy And Park Bo Gum Will Be A Couple In Their New Movie ‘Wonderland’",
-           "date": "May 16, 2022",
-           "author": "Art Lover",
-           "category": "Upcoming Korean Movie",
-           "link":"https://www.top2tenasia.xyz/Bae-Suzy-And-Park-Bo-Gum-Will-Be-A-Couple-In-Their-New-Movie",
-           "postImage": "wonderland.webp"
-         }
-         
-       ]
-    },
-
-    "2":{
-      "articles":[
-        {
-          "title":"Top 10 Best Comedy Korean Drama Of All Time",
-          "date": "8 Jul, 2021",
-          "author": "art_lover",
-          "category": "K-Drama Top 10 List",
-          "link":"https://www.top2tenasia.xyz/Top-10-Best-Comedy-Korean-Drama-Of-All-Time",
-          "postImage": "assets/secretary-kim.webp"
-        },
-         {
-          "title":"Top 10 Best Action Korean Dramas",
-          "date": "14 May, 2021",
-          "author": "art_lover",
-          "category": "K-Drama Top 10 List",
-          "link":"https://www.top2tenasia.xyz/top-10-best-action-korean-dramas",
-          "postImage": "des.jpg"
-        },
-         {
-          "title":"Top 10 Best Korean Dramas On Netflix",
-          "date": "14 Jun, 2021",
-          "author": "art_lover",
-          "category": "K-Drama Top 10 List",
-          "link":"https://www.top2tenasia.xyz/top-10-best-korean-dramas-on-netflix",
-          "postImage": "assets/vincenzo.webp"
-        }
-        
-      ]
-   },
-
-   "3":{
-     "articles":[
+  "1": {
+    "articles": [
       {
-        "title":"Top 10 Best Rom-Com K-Dramas",
+        "title": "10 Reasons Why Lee Min Ho's New Drama 'When the Stars Gossip' Failed",
+        "date": "Feb 2, 2025",
+        "author": "Shadow",
+        "category": "K-Drama",
+        "link": "https://www.top2tenasia.xyz/article/10-reasons-why-lee-min-ho-new-drama-when-the-stars-gossip-failed",
+        "postImage": "https://www.top2tenasia.xyz/article/assets/articleImage/when_the_starts_gossip.webp"
+      },
+      {
+        "title": "BLACKPINK's Rosé Makes History as First Female K-Pop Artist to Reach Top 3 on Billboard Hot 100",
+        "date": "Feb 2, 2025",
+        "author": "Shadow",
+        "category": "K-Drama",
+        "link": "https://www.top2tenasia.xyz/article/BLACKPINK-Rosé-History-Billboard-Top-3",
+        "postImage": "https://www.top2tenasia.xyz/article/assets/articleImage/Rose_APT.webp"
+      },
+      {
+        "title": "Top 10 Most Followed K-Drama Actresses On Instagram",
+        "date": "Feb 2, 2025",
+        "author": "Shadow",
+        "category": "K-Drama",
+        "link": "https://www.top2tenasia.xyz/top-10-most-followed-kdrama-actresses-on-instagram",
+        "postImage": "https://www.top2tenasia.xyz/article/assets/top-10-list/most-followed-actresses.webp"
+      },
+      {
+        "title": "Yeon Woo Jin And Park Bo Young Are In Talks To Join Upcoming Drama",
+        "date": "Jul 2, 2022",
+        "author": "Art Lover",
+        "category": "K-Drama",
+        "link": "https://www.top2tenasia.xyz/article/Yeon-Woo-Jin-And-Park-Bo-Young-Are-In-Talks-To-Join-Upcoming-Drama",
+        "postImage": "https://www.top2tenasia.xyz/article/assets/Morning-Comes-to-Psychiatric-Wards-Too.webp"
+      },
+      {
+        "title": "Upcoming K-Drama “Youth” Based On BTS",
+        "date": "Jul 31, 2022",
+        "author": "Art Lover",
+        "category": "Upcoming K-Drama",
+        "link": "https://www.top2tenasia.xyz/Upcoming-K-Drama-Youth-Based-On-BTS",
+        "postImage": "assets/BTS-Drama.webp"
+      },
+      {
+        "title": "Bae Suzy And Park Bo Gum Will Be A Couple In Their New Movie ‘Wonderland’",
+        "date": "May 16, 2022",
+        "author": "Art Lover",
+        "category": "Upcoming Korean Movie",
+        "link": "https://www.top2tenasia.xyz/Bae-Suzy-And-Park-Bo-Gum-Will-Be-A-Couple-In-Their-New-Movie",
+        "postImage": "wonderland.webp"
+      }
+    ]
+  },
+
+  "2": {
+    "articles": [
+      {
+        "title": "Top 10 Best Comedy Korean Drama Of All Time",
+        "date": "8 Jul, 2021",
+        "author": "art_lover",
+        "category": "K-Drama Top 10 List",
+        "link": "https://www.top2tenasia.xyz/Top-10-Best-Comedy-Korean-Drama-Of-All-Time",
+        "postImage": "assets/secretary-kim.webp"
+      },
+      {
+        "title": "Top 10 Best Action Korean Dramas",
+        "date": "14 May, 2021",
+        "author": "art_lover",
+        "category": "K-Drama Top 10 List",
+        "link": "https://www.top2tenasia.xyz/top-10-best-action-korean-dramas",
+        "postImage": "des.jpg"
+      },
+      {
+        "title": "Top 10 Best Korean Dramas On Netflix",
+        "date": "14 Jun, 2021",
+        "author": "art_lover",
+        "category": "K-Drama Top 10 List",
+        "link": "https://www.top2tenasia.xyz/top-10-best-korean-dramas-on-netflix",
+        "postImage": "assets/vincenzo.webp"
+      }
+    ]
+  },
+
+  "3": {
+    "articles": [
+      {
+        "title": "Top 10 Best Rom-Com K-Dramas",
         "date": "26 Jun, 2021",
         "author": "art_lover",
         "category": "K-Drama Top 10 List",
-        "link":"https://www.top2tenasia.xyz/top-10-best-rom-com-k-dramas",
+        "link": "https://www.top2tenasia.xyz/top-10-best-rom-com-k-dramas",
         "postImage": "assets/robot.webp"
       },
       {
-       "title":"Top 10 Best Science-Fiction (Sci-Fi) K-Dramas Of All Time",
-       "date": "8 August, 202",
-       "author": "art_lover",
-       "category": "K-Drama Top 10 List",
-       "link":"https://www.top2tenasia.xyz/Top-10-Best-Science-Fiction-K-Dramas-Of-All-Time",
-       "postImage": "assets/alice.webp"
-     }
-       
-     ]
+        "title": "Top 10 Best Science-Fiction (Sci-Fi) K-Dramas Of All Time",
+        "date": "8 August, 202",
+        "author": "art_lover",
+        "category": "K-Drama Top 10 List",
+        "link": "https://www.top2tenasia.xyz/Top-10-Best-Science-Fiction-K-Dramas-Of-All-Time",
+        "postImage": "assets/alice.webp"
+      }
+    ]
   }
-  }
+}
