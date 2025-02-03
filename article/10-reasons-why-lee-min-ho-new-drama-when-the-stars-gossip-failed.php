@@ -29,9 +29,9 @@
         content="https://www.top2tenasia.xyz/article/assets/articleImage/when_the_starts_gossip.webp" />
     <!-- Post Url -->
     <meta property="og:url"
-        content="https://www.top2tenasia.xyz/article/10-Reasons-Why-Lee-Min-Ho-New-Drama-When-the-Stars-Gossip-Failed" />
+        content="https://www.top2tenasia.xyz/article/10-reasons-why-lee-min-ho-new-drama-when-the-stars-gossip-failed" />
     <link rel="canonical"
-        href="https://www.top2tenasia.xyz/article/10-Reasons-Why-Lee-Min-Ho-New-Drama-When-the-Stars-Gossip-Failed" />
+        href="https://www.top2tenasia.xyz/article/10-reasons-why-lee-min-ho-new-drama-when-the-stars-gossip-failed" />
     <!-- Post Description -->
     <meta property="og:description"
         content="Lee Min Ho's new drama ‘When the Stars Gossip’ faced several challenges, including controversial dialogue and weak character development, leading to its failure." />
