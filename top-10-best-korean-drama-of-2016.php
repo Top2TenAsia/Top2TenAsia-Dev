@@ -93,7 +93,11 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2>
 <p><i class="fa fa-clock-o"></i> 5:00 PM 9 Mar, 2021</p>
-<?php $article_slug = 'top-10-best-korean-drama-of-2016'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
+<?php
+    $article_slug = 'top-10-best-korean-drama-of-2016';
+    include __DIR__ . '/includes/article-views.php';
+    include __DIR__ . '/includes/article-stats-bar.php';
+?>
 <br>
  
 <h3 style="font-family: Times new roman;text-align: justify;">

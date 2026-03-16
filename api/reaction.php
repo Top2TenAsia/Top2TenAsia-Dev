@@ -1,79 +1,111 @@
 <?php
 /**
- * Reaction API: one like or love per person per article (using cookie).
- * POST: article=<slug>&reaction=like|love
- * Returns JSON: { "like": n, "love": m }
+ * Reaction API: session-based like / love per article.
+ *
+ * POST:
+ *   - article: article slug (string)
+ *   - reaction: "like" | "love"
+ *
+ * Behaviour per session, per article:
+ *   - First click on like/love -> add +1 to that reaction.
+ *   - Click the same reaction again -> remove it (-1).
+ *   - Switch (like -> love, or love -> like) -> decrement old, increment new.
+ *
+ * Response JSON:
+ *   { "like": <int>, "love": <int>, "current": "like"|"love"|null }
  */
+
+declare(strict_types=1);
+
+session_start();
+
 header('Content-Type: application/json; charset=utf-8');
 header('Cache-Control: no-store');
 
-$slug = isset($_POST['article']) ? trim((string) $_POST['article']) : '';
+$slug     = isset($_POST['article']) ? trim((string) $_POST['article']) : '';
 $reaction = isset($_POST['reaction']) ? trim((string) $_POST['reaction']) : '';
-$remove = isset($_POST['remove']) && $_POST['remove'] === '1';
 
 if ($slug === '' || !in_array($reaction, ['like', 'love'], true)) {
-    echo json_encode(['like' => 0, 'love' => 0]);
+    echo json_encode(['like' => 0, 'love' => 0, 'current' => null]);
     exit;
 }
 
-$cookieName = 'r_' . substr(preg_replace('/[^a-zA-Z0-9_-]/', '_', $slug), 0, 40);
-$already = isset($_COOKIE[$cookieName]) ? trim($_COOKIE[$cookieName]) : '';
+$statsPath = dirname(__DIR__) . '/article/JSON/Stats.json';
+$data      = [];
 
-$stats_path = dirname(__DIR__) . '/article/JSON/Stats.json';
-$data = [];
-if (file_exists($stats_path)) {
-    $raw = @file_get_contents($stats_path);
+if (is_file($statsPath)) {
+    $raw = @file_get_contents($statsPath);
     if ($raw !== false) {
-        $data = @json_decode($raw, true);
+        $decoded = json_decode($raw, true);
+        if (is_array($decoded)) {
+            $data = $decoded;
+        }
     }
 }
-if (!is_array($data)) {
-    $data = [];
-}
 
-if (!isset($data[$slug])) {
+if (!isset($data[$slug]) || !is_array($data[$slug])) {
     $data[$slug] = ['views' => 0, 'like' => 0, 'love' => 0];
 }
+
 $like = (int) ($data[$slug]['like'] ?? 0);
 $love = (int) ($data[$slug]['love'] ?? 0);
 
-$doRemove = $remove && $already === $reaction;
-$doIncrement = !$doRemove && ($already !== 'like' && $already !== 'love');
+// Previous reaction for this article in this session (if any)
+$previous = $_SESSION['reaction'][$slug] ?? null;
+$current  = null;
 
-if ($doRemove) {
+if ($previous === $reaction) {
+    // Same reaction clicked again -> remove it
     if ($reaction === 'like' && $like > 0) {
         $like--;
     } elseif ($reaction === 'love' && $love > 0) {
         $love--;
     }
-    $data[$slug]['like'] = $like;
-    $data[$slug]['love'] = $love;
-    $fp = @fopen($stats_path, 'c+');
-    if ($fp && flock($fp, LOCK_EX)) {
-        ftruncate($fp, 0);
-        rewind($fp);
-        fwrite($fp, json_encode($data, JSON_PRETTY_PRINT));
-        flock($fp, LOCK_UN);
-        fclose($fp);
+    unset($_SESSION['reaction'][$slug]);
+    $current = null;
+} else {
+    // If they had a different reaction, remove that first
+    if ($previous === 'like' && $like > 0) {
+        $like--;
+    } elseif ($previous === 'love' && $love > 0) {
+        $love--;
     }
-    header('Set-Cookie: ' . $cookieName . '=; path=/; max-age=0; SameSite=Lax', false);
-} elseif ($doIncrement) {
+
+    // Apply the new reaction
     if ($reaction === 'like') {
         $like++;
     } else {
         $love++;
     }
-    $data[$slug]['like'] = $like;
-    $data[$slug]['love'] = $love;
-    $fp = @fopen($stats_path, 'c+');
-    if ($fp && flock($fp, LOCK_EX)) {
+
+    $_SESSION['reaction'][$slug] = $reaction;
+    $current                     = $reaction;
+}
+
+$data[$slug]['like'] = $like;
+$data[$slug]['love'] = $love;
+
+// Persist changes with basic file locking
+$dir = dirname($statsPath);
+if (!is_dir($dir)) {
+    @mkdir($dir, 0775, true);
+}
+
+$fp = @fopen($statsPath, 'c+');
+if ($fp) {
+    if (flock($fp, LOCK_EX)) {
         ftruncate($fp, 0);
         rewind($fp);
         fwrite($fp, json_encode($data, JSON_PRETTY_PRINT));
+        fflush($fp);
         flock($fp, LOCK_UN);
-        fclose($fp);
     }
-    header('Set-Cookie: ' . $cookieName . '=' . $reaction . '; path=/; max-age=31536000; SameSite=Lax', false);
+    fclose($fp);
 }
 
-echo json_encode(['like' => $like, 'love' => $love]);
+echo json_encode([
+    'like'    => $like,
+    'love'    => $love,
+    'current' => $current,
+]);
+

@@ -105,7 +105,11 @@
                                 Asia</span><img src="article/images/avatar.jpg" alt="" /></a>
                     </div>
                 </header>
-                <?php $article_slug = 'top-10-most-followed-kdrama-actresses-on-instagram'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
+                <?php
+                    $article_slug = 'top-10-most-followed-kdrama-actresses-on-instagram';
+                    include __DIR__ . '/includes/article-views.php';
+                    include __DIR__ . '/includes/article-stats-bar.php';
+                ?>
 
                 <span class="image featured"><img src="article/assets/top-10-list/most-followed-actresses.webp"
                         alt="Top 10 most followed K-drama actresses on Instagram - Jisoo, IU, Bae Suzy, Song Hye Kyo and more" /></span>

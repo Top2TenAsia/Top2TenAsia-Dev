@@ -2,7 +2,7 @@
 /**
  * Article stats bar: view count + reactions (Like, Love).
  * Requires $article_slug to be set before including.
- * Reads from article/JSON/Stats.json (frontend-first; backend will increment later).
+ * Reads from article/JSON/Stats.json and reacts via api/reaction.php.
  */
 if (!isset($article_slug) || $article_slug === '') {
     return;
@@ -26,25 +26,16 @@ $base = function_exists('base_path') ? base_path() : '';
 $formatted_views = $view_count >= 1000 ? (round($view_count / 1000, 1) . 'k') : (string) $view_count;
 ?>
 <style>
-.article-stats-bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:0.5em;padding:0.4em 0;margin-bottom:0.5em;font-size:0.9em}
+.article-stats-bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:0.5em;padding:0.4em 0;margin-bottom:0.75em;font-size:0.9em}
 .article-stats-bar .article-stats-views{color:#666}
-.article-stats-bar .article-stats-views i{margin-right:0.2em;opacity:0.8}
-.article-stats-reactions{display:flex;align-items:center;gap:0.5em;margin-left:auto}
-.article-reaction-btn{display:inline-flex;align-items:center;gap:0.3em;padding:0.25em 0.45em;background:transparent;border:none;border-radius:4px;cursor:pointer;font-size:1em;font-weight:500;transition:background 0.15s ease, color 0.15s ease;color:#999}
-.article-reaction-btn:hover:not(.reacted){background:rgba(0,0,0,0.05)}
-.article-reaction-btn .article-reaction-icon{display:inline-flex;align-items:center;justify-content:center;width:1.4em;height:1.4em;flex-shrink:0}
-.article-reaction-btn .article-reaction-icon svg{width:100%;height:100%;display:block}
-.article-reaction-btn[data-reaction="like"]:not(.reacted){color:#999}
-.article-reaction-btn[data-reaction="like"]:not(.reacted):hover{color:#1877f2;background:rgba(24,119,242,0.1)}
-.article-reaction-btn[data-reaction="like"].reacted{color:#1877f2!important}
-.article-reaction-btn[data-reaction="like"].reacted .article-reaction-icon svg{fill:#1877f2!important}
-.article-reaction-btn[data-reaction="like"] .article-reaction-icon svg{fill:currentColor}
-.article-reaction-btn[data-reaction="love"]:not(.reacted){color:#999}
-.article-reaction-btn[data-reaction="love"]:not(.reacted):hover{color:#e53935;background:rgba(229,57,53,0.1)}
-.article-reaction-btn[data-reaction="love"].reacted{color:#e53935!important}
-.article-reaction-btn[data-reaction="love"].reacted .article-reaction-icon svg{fill:#e53935!important}
-.article-reaction-btn[data-reaction="love"] .article-reaction-icon svg{fill:currentColor}
-.article-reaction-btn.reacted{cursor:pointer}
+.article-stats-bar .article-stats-views i{margin-right:0.3em;opacity:0.8}
+.article-stats-reactions{display:flex;align-items:center;gap:0.4em;margin-left:auto}
+.article-reaction-btn{display:inline-flex;align-items:center;gap:0.25em;padding:0.15em 0.35em;background:transparent;border:none;border-radius:999px;cursor:pointer;font-size:0.95em;font-weight:500;transition:background 0.15s ease, color 0.15s ease;color:#777}
+.article-reaction-btn:hover:not(.reacted){background:rgba(0,0,0,0.04)}
+.article-reaction-btn .article-reaction-icon{display:inline-flex;align-items:center;justify-content:center;width:1.3em;height:1.3em;flex-shrink:0}
+.article-reaction-btn .article-reaction-icon svg{width:100%;height:100%;display:block;fill:currentColor}
+.article-reaction-btn[data-reaction="like"].reacted{color:#1877f2}
+.article-reaction-btn[data-reaction="love"].reacted{color:#e53935}
 </style>
 <div class="article-stats-bar" data-article-slug="<?php echo htmlspecialchars($article_slug); ?>" data-base-path="<?php echo htmlspecialchars($base); ?>">
     <span class="article-stats-views"><i class="fa fa-eye" aria-hidden="true"></i> <span class="article-stat-num"><?php echo htmlspecialchars($formatted_views); ?></span> views</span>
@@ -65,46 +56,38 @@ $formatted_views = $view_count >= 1000 ? (round($view_count / 1000, 1) . 'k') : 
     if (!bar) return;
     var slug = bar.getAttribute('data-article-slug');
     var base = bar.getAttribute('data-base-path') || '';
-    var cookieName = 'r_' + slug.replace(/[^a-zA-Z0-9-]/g, '_').substring(0, 40);
+    var buttons = Array.prototype.slice.call(bar.querySelectorAll('.article-reaction-btn'));
 
-    function getReactionCookie() {
-        var m = document.cookie.match(new RegExp('(^| )' + cookieName + '=([^;]+)'));
-        return m ? m[2] : null;
-    }
-    function setReactionCookie(reaction) {
-        document.cookie = cookieName + '=' + reaction + ';path=/;max-age=31536000;samesite=lax';
-    }
-
-    function clearReactionCookie() {
-        document.cookie = cookieName + '=;path=/;max-age=0;samesite=lax';
-    }
-
-    var current = getReactionCookie();
-    bar.querySelectorAll('.article-reaction-btn').forEach(function(btn) {
-        if (btn.getAttribute('data-reaction') === current) btn.classList.add('reacted');
+    buttons.forEach(function(btn) {
         btn.addEventListener('click', function() {
             var reaction = this.getAttribute('data-reaction');
-            var isRemoving = this.classList.contains('reacted');
             var url = base + (base ? '/' : '') + 'api/reaction.php';
+
             fetch(url, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-                body: 'article=' + encodeURIComponent(slug) + '&reaction=' + encodeURIComponent(reaction) + (isRemoving ? '&remove=1' : '')
-            }).then(function(r) { return r.json(); }).then(function(data) {
-                if (data && typeof data.like === 'number' && typeof data.love === 'number') {
-                    bar.querySelectorAll('.article-reaction-btn').forEach(function(b) {
-                        b.classList.remove('reacted');
+                body: 'article=' + encodeURIComponent(slug) + '&reaction=' + encodeURIComponent(reaction)
+            })
+                .then(function(r) { return r.json(); })
+                .then(function(data) {
+                    if (!data || typeof data.like !== 'number' || typeof data.love !== 'number') return;
+
+                    // Update numbers and clear state
+                    buttons.forEach(function(b) {
                         var num = b.querySelector('.article-stat-num');
-                        if (num) num.textContent = b.getAttribute('data-reaction') === 'like' ? data.like : data.love;
+                        if (num) {
+                            num.textContent = b.getAttribute('data-reaction') === 'like' ? data.like : data.love;
+                        }
+                        b.classList.remove('reacted');
                     });
-                    if (!isRemoving) {
-                        this.classList.add('reacted');
-                        setReactionCookie(reaction);
-                    } else {
-                        clearReactionCookie();
+
+                    // Highlight current reaction, if any
+                    if (data.current === 'like' || data.current === 'love') {
+                        var active = bar.querySelector('.article-reaction-btn[data-reaction=\"' + data.current + '\"]');
+                        if (active) active.classList.add('reacted');
                     }
-                }
-            }.bind(this)).catch(function() {});
+                })
+                .catch(function() {});
         });
     });
 })();

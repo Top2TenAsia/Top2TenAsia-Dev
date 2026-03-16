@@ -107,7 +107,11 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2>
 <p><i class="fa fa-clock-o"></i> 8:00 PM 8 Jul, 2021</p>
-<?php $article_slug = 'Top-10-Best-Comedy-Korean-Drama-Of-All-Time'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
+<?php
+    $article_slug = 'Top-10-Best-Comedy-Korean-Drama-Of-All-Time';
+    include __DIR__ . '/includes/article-views.php';
+    include __DIR__ . '/includes/article-stats-bar.php';
+?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 

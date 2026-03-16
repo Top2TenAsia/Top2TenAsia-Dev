@@ -107,7 +107,11 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2>
 <p><i class="fa fa-clock-o"></i> 1:00 PM 3 Oct, 2021</p>
-<?php $article_slug = 'Top-10-Most-Viewed-K-Drama-OSTs-On-Youtube'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
+<?php
+    $article_slug = 'Top-10-Most-Viewed-K-Drama-OSTs-On-Youtube';
+    include __DIR__ . '/includes/article-views.php';
+    include __DIR__ . '/includes/article-stats-bar.php';
+?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 

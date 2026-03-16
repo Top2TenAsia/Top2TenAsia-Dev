@@ -107,7 +107,11 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2><br>
 <p  style="float:left"><i class="fa fa-clock-o"></i> 5:00 PM 9 Jun, 2021</p>
-<?php $article_slug = 'top-10-best-korean-dramas-of-2020'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
+<?php
+    $article_slug = 'top-10-best-korean-dramas-of-2020';
+    include __DIR__ . '/includes/article-views.php';
+    include __DIR__ . '/includes/article-stats-bar.php';
+?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 
