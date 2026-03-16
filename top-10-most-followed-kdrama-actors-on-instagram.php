@@ -176,11 +176,23 @@
                         his diverse roles in television dramas. Renowned for his captivating performances, he's best
                         known for leading roles in acclaimed series like "My Girl" (2005), "Scent of a Woman" (2011),
                         "Guardian: The Lonely and Great God" (2016–2017), and "Tale of the Nine Tailed" (2020). Beyond
-                        acting, he's also hosted popular talk shows like "Strong Heart" (2012–2013) and "Wook Talk"
+                        acting, he's also hosted popular talk shows like "Strong Heart" (2012–2013) and                         "Wook Talk"
                         (2019). With his charm and talent, Lee Dong-wook continues to captivate audiences across various
                         entertainment platforms.
                     </p>
                 </div>
+
+                <div class="content-ads">
+                    <script async
+                        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                        crossorigin="anonymous"></script>
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
+                        data-ad-slot="6466798782" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+
                 <!-- 9 -->
                 <div class="content-section">
                     <h3 style="color: #FF5733;">9. Kim Soo Hyun</h3>
@@ -387,14 +399,17 @@
                     </p>
                 </div>
 
-                <script async
-                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
-                    crossorigin="anonymous"></script>
-                <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed"
-                    data-ad-client="ca-pub-2272028859368526" data-ad-slot="8842870052"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+                <div class="content-ads">
+                    <script async
+                        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                        crossorigin="anonymous"></script>
+                    <ins class="adsbygoogle" style="display:block" data-ad-format="auto"
+                        data-ad-client="ca-pub-2272028859368526" data-ad-slot="8842870052" data-full-width-responsive="true"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+
                 <footer>
                     <ul class="stats">
                         <li><a href="#">Support us</a></li>

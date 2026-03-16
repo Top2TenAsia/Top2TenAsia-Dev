@@ -3367,18 +3367,24 @@ input, select, textarea {
 
 /* Main */
 
-	#main {
+	#main,
+	#main_other {
 		-moz-flex-grow: 1;
 		-webkit-flex-grow: 1;
 		-ms-flex-grow: 1;
 		flex-grow: 1;
 		-ms-flex: 1;
+		min-width: 0;
 		width: 100%;
 	}
 
-/* Sidebar */
+/* Sidebar - fixed width on large screens so ads in main don't push it */
 
 	#sidebar {
+		-moz-flex-shrink: 0;
+		-webkit-flex-shrink: 0;
+		-ms-flex-shrink: 0;
+		flex-shrink: 0;
 		margin-right: 3em;
 		min-width: 22em;
 		width: 22em;
@@ -3619,15 +3625,18 @@ input, select, textarea {
 	color: #3b5998;
 }
 
-/* Content ads: constrain on desktop so they don't break layout */
+/* Content ads: constrain on desktop so they don't break sidebar / main layout */
 .content-ads {
 	overflow: hidden;
 	margin: 1.5em auto;
 	text-align: center;
+	max-width: 100%;
+	box-sizing: border-box;
 }
 .content-ads .adsbygoogle {
 	display: block;
 	margin: 0 auto;
+	max-width: 100%;
 }
 @media screen and (min-width: 737px) {
 	.content-ads {
@@ -3641,6 +3650,20 @@ input, select, textarea {
 	.content-ads {
 		max-width: 970px;
 	}
+}
+/* Prevent responsive ad iframes from overflowing and squashing sidebar */
+#main .content-ads iframe,
+#main_other .content-ads iframe {
+	max-width: 100%;
+}
+.post .content-ads {
+	overflow: hidden;
+}
+/* Keep main content from growing past wrapper and squashing sidebar */
+#main_other .post,
+#main .post {
+	min-width: 0;
+	max-width: 100%;
 }
 
 /* Top 10 List page: 3 columns on desktop, proper card structure */

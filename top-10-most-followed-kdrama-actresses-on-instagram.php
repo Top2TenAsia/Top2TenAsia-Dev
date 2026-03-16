@@ -173,6 +173,17 @@
                             </p>
                         </div>
 
+                        <div class="content-ads">
+                            <script async
+                                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                                crossorigin="anonymous"></script>
+                            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526"
+                                data-ad-slot="6466798782" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
+
                         <div class="content-section">
                             <h3 style="color: #FF5733;">9. Lee Sung Kyung</h3>
                             <br>
@@ -344,17 +355,20 @@
                             <p>Following the most followed K-drama actresses on Instagram lets you stay updated on new dramas, film projects, and music releases, get behind-the-scenes content from your favorite shows, and enjoy fashion and lifestyle inspiration from South Korea's top stars. Many of these actresses also share brand partnerships, travel, and personal moments that you won't find elsewhere. Whether you're into romantic comedies, thrillers, or K-pop crossover stars, this list of the top 10 most followed Korean drama actresses on Instagram in 2026 has something for every fan. Bookmark their handles and turn on notifications so you never miss a post from your favorite K-drama queen.</p>
                             <p>Looking for the most followed K-drama actors on Instagram too? Check out our <a href="/top-10-most-followed-kdrama-actors-on-instagram">Top 10 Most Followed K-Drama Actors on Instagram</a> for the male stars dominating social media. For more K-drama lists, news, and recommendations, stay tuned to Top2Ten Asia.</p>
                         </div>
+
+                        <div class="content-ads">
+                            <script async
+                                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
+                                crossorigin="anonymous"></script>
+                            <ins class="adsbygoogle" style="display:block" data-ad-format="auto"
+                                data-ad-client="ca-pub-2272028859368526" data-ad-slot="8842870052" data-full-width-responsive="true"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
                     </div>
 
                 </div>
-                <script async
-                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526"
-                    crossorigin="anonymous"></script>
-                <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed"
-                    data-ad-client="ca-pub-2272028859368526" data-ad-slot="8842870052"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
                 <footer>
                     <ul class="stats">
                         <li><a href="#">Support us</a></li>
