@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -27,7 +27,7 @@
 <meta property="og:description" content="Kim Seon Ho and Shin Min Ah are pairing up for a new romantic comedy K-
 drama 'Seashore Village Cha Cha Cha'." />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/kim-shin.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Kim-Seon-Ho-And-Shin-Min-Ah-Are-Pairing-Up-For-A-New-Romantic-Comedy-K-Drama" />
+<link rel="canonical" href="/Kim-Seon-Ho-And-Shin-Min-Ah-Are-Pairing-Up-For-A-New-Romantic-Comedy-K-Drama" />
   <meta name="description" content="Kim Seon Ho and Shin Min Ah are pairing up for a new romantic comedy K-
 drama 'Seashore Village Cha Cha Cha'." />
 <meta name="keywords" content="IU, Bts, lee jong gi new drama, scarlet heart reyo,TVN's new drama, Park seo joon, park boo young, Korean movie, Park Seo Joon,What’s wrong with secretary Kim ">           
@@ -105,9 +105,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -206,7 +206,7 @@ series The Crowed Clown.
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

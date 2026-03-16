@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/ASTRO-Cha-Eun-Woo-has-tested-positive.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/ASTRO-Cha-Eun-Woo-has-tested-positive-for-Covid-19" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/ASTRO-Cha-Eun-Woo-has-tested-positive-for-Covid-19" />
+		<link rel="canonical" href="/article/ASTRO-Cha-Eun-Woo-has-tested-positive-for-Covid-19" />
 		<!-- Post Description -->
 		<meta property="og:description" content="It is very heart-breaking that many of our loving actors are
 getting diagnosed with covid-19 recently. After members

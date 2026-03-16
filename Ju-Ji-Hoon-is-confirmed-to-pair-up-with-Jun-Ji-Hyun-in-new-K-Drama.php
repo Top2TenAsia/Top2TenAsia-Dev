@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +26,7 @@
    <meta charset="UTF-8">
    <meta property="og:site_name" content="Top2Ten Asia"/>
    <meta property="og:title" content="Ju Ji Hoon is confirmed to pair up with Jun Ji Hyun in new K-Drama"/>
-<link rel="canonical" href="https://www.top2tenasia.xyz/Ju-Ji-Hoon-is-confirmed-to-pair-up-with-Jun-Ji-Hyun-in-new-K-Drama" />
+<link rel="canonical" href="/Ju-Ji-Hoon-is-confirmed-to-pair-up-with-Jun-Ji-Hyun-in-new-K-Drama" />
   <meta name="description" content="Ju Ji Hoon is confirmed to pair up with Jun Ji Hyun in new K-Drama" />
 <meta name="keywords" content="Ju Ji Hoon, Jun ji hyun, Jirisan, New drama, jun ji hyun new drama,TVN's new drama, tvn new drama, the legend of blue sea, Kingdom">           
   <meta name="owner" content="Harish Panwar">
@@ -83,16 +83,16 @@ html {
   color: coral;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
 <?php include("header.php") ?>
 <br>
 <center style="background-color: coral;margin-top:-2.6ex;"><p id="demo" style="color: white;font-size: 25px;"></p></center>
-<center><img src="mountjiri.webp" class="img-thumbnail test" ></center>
+<center><img src="assets/mountjiri.webp" class="img-thumbnail test" ></center>
   <center style="font-weight:bold;font-family:times new roman;"><h1>Ju Ji Hoon is confirmed to pair up with Jun Ji Hyun in new K-Drama</h1></center>
   
 
@@ -108,11 +108,11 @@ html {
 
 <h3> <a href="https://en.wikipedia.org/wiki/Ju_Ji-hoon">Ju Ji Hoon</a> is confirmed alongside <a href="https://en.wikipedia.org/wiki/Jun_Ji-hyun">Jun Ji Hyun</a> in an upcoming Korean Drama titled <span style="color:coral"> Mount Jiri </span> .  </h3>
 <br>
-   <h3> Mount Jiri will be Jun Ji Hyun’s first comeback in the small screen in 4 years since <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">"Legend of the Blue Sea"</a> whereas this will be Ju Ji Hoon another drama after <a href="http://asianwiki.com/Hyena_(2020)">"Hyena"</a>. <br><br>
+   <h3> Mount Jiri will be Jun Ji Hyun’s first comeback in the small screen in 4 years since <a href="/top-10-best-korean-drama-of-the-decade">"Legend of the Blue Sea"</a> whereas this will be Ju Ji Hoon another drama after <a href="http://asianwiki.com/Hyena_(2020)">"Hyena"</a>. <br><br>
    <span style="color:coral">Jun Ji hyun</span> was previously confirmed as the female lead and now <span style="color:coral">Ju Ji Hoon</span> is confirmed to be her co-actor. The rest of the cast is yet to be confirmed. The male lead role was also offered to <span style="color:coral">Park Seo Joon</span> but he denied due to his busy schedule.
   </h3>
 <br>
- <h3> Mount Jiri is written by <a href="https://en.wikipedia.org/wiki/Kim_Eun-hee">Kim Eunhee</a> who is popularly known for <a href="https://en.wikipedia.org/wiki/Signal_(South_Korean_TV_series)">"Signal"</a>, <a href="https://en.wikipedia.org/wiki/Kingdom_(South_Korean_TV_series)">"Kingdom"</a> ,  and many more and <a href="http://asianwiki.com/Lee_Eung-Bok">Lee Eung bok</a> who has worked on many mega hit dramas like the <a href="https://en.wikipedia.org/wiki/Dream_High">"Dream High", <a href="https://en.wikipedia.org/wiki/School_2013">"School 2013", <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">"Descendants of the Sun"</a> and <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">"Goblin"</a>  will direct this drama . This drama will be based on the Mount Jiri , the mountain based off the southern part of South Korea .
+ <h3> Mount Jiri is written by <a href="https://en.wikipedia.org/wiki/Kim_Eun-hee">Kim Eunhee</a> who is popularly known for <a href="https://en.wikipedia.org/wiki/Signal_(South_Korean_TV_series)">"Signal"</a>, <a href="https://en.wikipedia.org/wiki/Kingdom_(South_Korean_TV_series)">"Kingdom"</a> ,  and many more and <a href="http://asianwiki.com/Lee_Eung-Bok">Lee Eung bok</a> who has worked on many mega hit dramas like the <a href="https://en.wikipedia.org/wiki/Dream_High">"Dream High", <a href="https://en.wikipedia.org/wiki/School_2013">"School 2013", <a href="/top-10-best-korean-drama-of-the-decade">"Descendants of the Sun"</a> and <a href="/top-10-best-korean-drama-of-the-decade">"Goblin"</a>  will direct this drama . This drama will be based on the Mount Jiri , the mountain based off the southern part of South Korea .
  </h3>
  <br>
  <h3>Mount Jiri is expected to be filming in the other half of 2020 or in early 2021 and will broadcast maybe in mid of 2021 .  
@@ -137,12 +137,12 @@ html {
         <div class="row" style="margin-top:2.5ex;border: 1px solid #ccc;border-radius: 4px;">
 		
 		<div class="col-md-5">
-        <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">
-			<img src="k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
+        <a href="/top-10-best-korean-drama-of-the-decade">
+			<img src="assets/k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
             </a>
             </div>
             <div class="col-md-7">
-              <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">
+              <a href="/top-10-best-korean-drama-of-the-decade">
 			<h2>
 				Top 10 best Korean drama of decade [Top2Ten] </h2>
                 </a>
@@ -152,12 +152,12 @@ html {
 </div>
                                           <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/best-korean-drama-from-each-year">
-<img src="king.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+<a href="/best-korean-drama-from-each-year">
+<img src="assets/king.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/best-korean-drama-from-each-year">
+<a href="/best-korean-drama-from-each-year">
 <h2>
 Best korean drama from each year</h2>
 </a>

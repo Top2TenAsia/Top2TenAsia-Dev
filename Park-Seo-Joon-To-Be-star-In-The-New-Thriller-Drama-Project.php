@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,7 +28,7 @@ anything yet. They are checking his schedule." />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/k.webp" />
 <meta property="og:site_name" content="Top2Ten Asia"/>
   
-<link rel="canonical" href="https://www.top2tenasia.xyz/Park-Seo-Joon-To-Be-star-In-The-New-Thriller-Drama-Project" />
+<link rel="canonical" href="/Park-Seo-Joon-To-Be-star-In-The-New-Thriller-Drama-Project" />
   <meta name="description" content="Park Seo Joon recently received an offer to play the male lead Jang Tae Sang in a new thriller
 drama titled, Project K (also known as Gyeongseong Creature). His agency has not confirmed
 anything yet. They are checking his schedule." />
@@ -104,9 +104,9 @@ html {
 }
 
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -150,7 +150,7 @@ Tae Sang, a wealthy man of Bukchon. He isn&#39;t interested in justice, however,
 encounter with a woman changes his life forever. Project K will be penned by Kang Eun Kyung
 of the Dr. Romantic series and directed by Jung Dong Yoon of Stove League fame.
 <br><br>
-Fans are eager to see how Park Seo Joon, dubbed the “Nation’s Boyfriend’ in South Korea, would carry the role, given the panache he has brought to his ex-convict turned businessman character in Itaewon Class. In the mean time, the 32-year-old is currently wrapping up filming for <a href="https://www.top2tenasia.xyz/park-seo-joon-new-action-thriller-movie-with-park-boo-young">Concrete Utopia alongside Lee Byung Hun and Park Bo Young.</a></h3>
+Fans are eager to see how Park Seo Joon, dubbed the “Nation’s Boyfriend’ in South Korea, would carry the role, given the panache he has brought to his ex-convict turned businessman character in Itaewon Class. In the mean time, the 32-year-old is currently wrapping up filming for <a href="/park-seo-joon-new-action-thriller-movie-with-park-boo-young">Concrete Utopia alongside Lee Byung Hun and Park Bo Young.</a></h3>
 <br>
 <hr>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -169,7 +169,7 @@ Fans are eager to see how Park Seo Joon, dubbed the “Nation’s Boyfriend’ i
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

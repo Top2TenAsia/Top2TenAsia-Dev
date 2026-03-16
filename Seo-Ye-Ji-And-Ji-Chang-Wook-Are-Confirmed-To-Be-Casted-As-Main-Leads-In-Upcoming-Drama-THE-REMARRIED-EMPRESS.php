@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-160757768-2"></script>
@@ -36,7 +36,7 @@ and many other. Now they are coming together for the drama
 &quot;The Remarried Empress&quot; and it is going to be based on a very
 popular webtoon of the same name" />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/Remarried-Empress.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Seo-Ye-Ji-And-Ji-Chang-Wook-Are-Confirmed-To-Be-Casted-As-Main-Leads-In-Upcoming-Drama-THE-REMARRIED-EMPRESS" />
+<link rel="canonical" href="/Seo-Ye-Ji-And-Ji-Chang-Wook-Are-Confirmed-To-Be-Casted-As-Main-Leads-In-Upcoming-Drama-THE-REMARRIED-EMPRESS" />
   <meta name="description" content="We all loved Seo Ye Ji and Ji Chang Wook&#39;s for their Savage
   characters they played in different dramas and now they are
   coming together and going to show outstanding chemistry. We
@@ -125,9 +125,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>

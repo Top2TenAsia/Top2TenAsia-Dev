@@ -1,4 +1,4 @@
-
+﻿
 
 <!DOCTYPE html>
 <html lang="en">
@@ -22,7 +22,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <meta property="og:site_name" content="Top2Ten Asia" />
 <meta property="og:title" content="Lee Min Ho Become Most Followed Korean Drama Actor On Instagram" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Lee-Min-Ho-Become-Most-Followed-Korean-Drama-Actor-On-Instagram" />
+<link rel="canonical" href="/Lee-Min-Ho-Become-Most-Followed-Korean-Drama-Actor-On-Instagram" />
 <meta name="description" content="Lee Min Ho Become Most Followed Korean Drama Actor On Instagram" />
 <meta name="keywords" content="Lee Min HO, Lee Gon, Min ho, The King: Eternal Monarch , Boys over flowers, The Heirs, Lee Min ho instagram, actorleeminho
 ">
@@ -91,9 +91,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -104,7 +104,7 @@ html {
 <div class="row">
 <div class="col-md-8">
 <center style="background-color: coral;margin-top:-2.6ex;"><p id="demo" style="color: white;font-size: 25px;"></p></center>
-<center><img src="actorlee.webp" class="img-thumbnail test"></center>
+<center><img src="assets/actorlee.webp" class="img-thumbnail test"></center>
 <center><h1>Lee Min Ho Become Most Followed Korean Drama Actor On Instagram</h1></center>
 <h2 style="text-align:center;color: orange">
 <span class="fa fa-star checked"></span>
@@ -140,15 +140,15 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 <center>
 <br>
 <h3>Play Quiz and Win Prizes</h3>
-<a href="https://www.top2tenasia.xyz/Top2Ten%20[Asia]-Quiz">
-<img src="k-drama.png" class="img-thumbnail">
+<a href="/Top2Ten%20[Asia]-Quiz">
+<img src="assets/k-drama.png" class="img-thumbnail">
 </a>
 </center>
 <hr><br>
 <br>
 <h3>
    Our beloved Oppa/Hyung <a href="https://en.wikipedia.org/wiki/Lee_Min-ho_(actor)">Lee Min Ho</a> becames the most followed korean drama actor on Instagram with having 16.1 Million Followers on Instagram beating the previous followers record of Lee Jung Suk. if you haven't follow him yet follow His instagram account <span style="color:coral">actorleeminho. Currently Lee Min Ho has 18.6 million followers on Instagram</span><br><br>
-   <center><img src="actorleeminho.webp" class="img-thumbnail test"></center><br><br>
+   <center><img src="assets/actorleeminho.webp" class="img-thumbnail test"></center><br><br>
    And really he absolutely deserved that, from his acting skills to looks to expression everything about our Lee Min Ho is perfect. He is really the king of korean dramas and our heart.<br><br>
 
    And one of the news and stats that will shock you is that before Apr 3, 2020 Lee Min Ho had 12.6 Million followers which got increased by 3.5 million followers in just 2 month and still increasing<br><br>
@@ -164,12 +164,12 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 <h2>Popular Posts</h2>
 <div class="row" style="margin-top:2.5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">
-<img src="k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+<a href="/top-10-best-korean-drama-of-the-decade">
+<img src="assets/k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">
+<a href="/top-10-best-korean-drama-of-the-decade">
 <h2>
 Top 10 best Korean drama of decade</h2>
 </a>
@@ -178,12 +178,12 @@ Top 10 best Korean drama of decade</h2>
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/best-korean-drama-from-each-year">
-<img src="king.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+<a href="/best-korean-drama-from-each-year">
+<img src="assets/king.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/best-korean-drama-from-each-year">
+<a href="/best-korean-drama-from-each-year">
 <h2>
 Best korean drama from each year</h2>
 </a>
@@ -193,12 +193,12 @@ Best korean drama from each year</h2>
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
-<img src="min-ho.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+<a href="/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
+<img src="assets/min-ho.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
+<a href="/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
 <h2>
 Lee Min Ho Donates 350 Million Won to COVID-19 funds to help children</h2>
 </a>

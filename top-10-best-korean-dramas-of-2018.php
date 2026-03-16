@@ -24,7 +24,7 @@
 <meta property="og:description" content="2018 was one of the best year for kdrama fans as in this many well know and megit kdrama series were aired." />
 <meta property="og:url" content="https://www.top2tenasia.xyz/top-10-best-korean-dramas-of-2018" />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/2018.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/top-10-best-korean-dramas-of-2018" />
+<link rel="canonical" href="/top-10-best-korean-dramas-of-2018" />
   <meta name="description" content="2018 was one of the best year for kdrama fans as in this many well know and megit kdrama series were aired.">
 <meta name="keywords" content="top 10 best thriller korean drama, Top 10 Best Korean Dramas Of 2018, thriller k-dramas, vagabobd, healer, two weeks, descendents of the sun, top 10 korean best korean drama of 2016,korean best korean drama of 2016,top 10 korean best korean drama of 2016, best korean best korean drama of 2016 to watch, best korean best korean drama of 2016,top korean best korean drama of 2016, best korean drama from 2010 to 2018, best korean best korean drama of 2016 from 2010 to 2018, top korean drama from 2010 to 2018, good korean drama to watch from 2010 t0 2018, best korean drama to watch from 2010 to 2018, best korean drama of all time, most popular korean drama, best korean drama of 2016, best korean drama on hulu, studio ghibli collection, dragon ball super, most popular korean drama movie of all time, dragon ball super broly, good korean drama to watch, top korean drama 2018, good korean drama to watch 2019, best korean drama ever, top 10 korean drama of 2010, gtop 10 korean drama of 2011, top 10 korean drama of 2012, top 10 korean drama of 2011,top 10 korean drama of 2013, most popular korean dramas, top 10 korean drama of 2014, top 10 korean drama of 2015,top 10 korean drama of 2016, best 2019 korean drama, best korean best korean drama of 2016, great korean drama movie to watch, best new korean drama movie 2019, top 10 korean drama movie 2019, top korean drama movies of all time, korean drama movies, top 10 korean drama movies, Reply 1998, Scarlet heart reyo, Moon lovers, The legend of blue sea, My ID is Gangnam Beauty, Strong girl Bong-soon, City hunter, My love from the star, Descendants of the sun, Weightlifting fairy Kim Bok-joo, Descendants of the sun, k2, two worlds">           
   <meta name="owner" content="Harish Panwar">
@@ -74,9 +74,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -97,7 +97,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2><br>
 <p  style="float:left"><i class="fa fa-clock-o"></i> 12:00 PM 13 Jun, 2021</p>
-
+<?php $article_slug = 'top-10-best-korean-dramas-of-2018'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 
@@ -256,7 +256,7 @@ MyDramaList Ratings: 8.1/10</span><br><br> </h3>
  <div class="row" id="2017">
 <h2>&nbsp; &nbsp;6.  100 days My Prince</h2>
 <div class="col-md-7">
-<img src="100day.webp"  class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/100day.webp"  class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -289,7 +289,7 @@ meets Hong Sim, head of the first detective agency in Joseon.
       <div class="row" id="2013">
 <h2>&nbsp; &nbsp;5.  Are you human too? </h2>
 <div class="col-md-7">
-<img src="human.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/human.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>

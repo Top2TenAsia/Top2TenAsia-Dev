@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +25,7 @@
    <meta charset="UTF-8">
    <meta property="og:site_name" content="Top2Ten"/>
    <meta property="og:title" content="Watch & Download K-Drama For Free"/>
-<link rel="canonical" href="https://www.top2tenasia.xyz/Watch-&-Download-K-Drama-For-Free" />
+<link rel="canonical" href="/Watch-&-Download-K-Drama-For-Free" />
   <meta name="description" content="Watch & Download K-Drama For Free On Top2Ten Tv">
 <meta name="keywords" content="watch free korean drama, watch free korean movie, download korean drama for free, free korean drama download, korea dramas, watch and download korean drama for free, watch the king korean drama for free, korean drama, download korean drama">           
   <meta name="owner" content="Harish Panwar">
@@ -89,9 +89,9 @@ html {
   color: coral;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -124,13 +124,13 @@ Episode 7 preview</center>
 <a href="intent://www.top2ten.xyz#Intent;scheme=http;package=com.android.chrome;end"> 2ahUKEwiqjKT0ku3oAhUe6nMBHfwhCQ4Q</a> -->
 <h3><center>Follow us right now for high quality K-Drama related content</center></h3>
 <div class="row">
-<a href="https://www.facebook.com/Top2Ten-105271447753021/" target="blank">
+<a href="https://www.facebook.com/Top2Ten-105271447753021/" target="_blank">
 <div class="col-md-6" style="background-color: #3b5998;font-family: Times new roman;height: 6ex;padding: 1.3ex;color: white;border:  3px solid white;">
 <center>
 Follow us on Facebook <i class="fa fa-facebook-square"></i>
 </center>
 </div> </a>
-<a href="https://www.instagram.com/top2ten.asia/" target="blank">
+<a href="https://www.instagram.com/top2ten.asia/" target="_blank">
 <div class="col-md-6" style="background-color: #e4405f;font-family: Times new roman;height: 6ex;padding: 1.3ex;color: white;border:  3px solid white;">
 <center>
 Follow us on Instagram <i class="fa fa-instagram"></i>
@@ -144,7 +144,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 
   <div class="row">
     <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/it's-okay-to-not-be-okay" target="blank"><img src="it's okay.webp" class="img-thumbnail "></a>
+  <a href="https://www.top2ten.xyz/it's-okay-to-not-be-okay" target="_blank"><img src="assets/it's okay.webp" class="img-thumbnail "></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">It's okay not to be okay</strong>
@@ -154,7 +154,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
     </h3>
 </div>
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/backstreet-rookie" target="blank"><img src="back.webp" class="img-thumbnail"></a>
+  <a href="https://www.top2ten.xyz/backstreet-rookie" target="_blank"><img src="assets/back.webp" class="img-thumbnail"></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">Backstreet Rookie</strong>
@@ -164,7 +164,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
     </h3>
 </div>
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/The King" target="blank"><img src="leegon.webp" class="img-thumbnail " ></a>
+  <a href="https://www.top2ten.xyz/The King" target="_blank"><img src="assets/leegon.webp" class="img-thumbnail " ></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">The King:Eternal Monarch</strong>
@@ -176,7 +176,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 </div>
 <div class="row">
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/itaewon-class" target="blank"><img src="itawon.webp" class="img-thumbnail" ></a>
+  <a href="https://www.top2ten.xyz/itaewon-class" target="_blank"><img src="assets/itawon.webp" class="img-thumbnail" ></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">Itaewon Class</strong>
@@ -187,7 +187,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
     </h3>
 </div>
     <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/the-world-of-the-married" target="blank"><img src="world.webp" class="img-thumbnail "></a>
+  <a href="https://www.top2ten.xyz/the-world-of-the-married" target="_blank"><img src="assets/world.webp" class="img-thumbnail "></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">The World OF Married</strong>
@@ -198,7 +198,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 </div>
 
     <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/memorist" target="blank"><img src="memo.webp" class="img-thumbnail "></a>
+  <a href="https://www.top2ten.xyz/memorist" target="_blank"><img src="assets/memo.webp" class="img-thumbnail "></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;" >Memorist</strong>
@@ -209,7 +209,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 </div>
 <div class="row">
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/strong-girl-bong-soon" target="blank"><img src="bong.jpg" class="img-thumbnail "></a>
+  <a href="https://www.top2ten.xyz/strong-girl-bong-soon" target="_blank"><img src="assets/bong.jpg" class="img-thumbnail "></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;" >Strong Girl Bong-soon </strong>
@@ -218,7 +218,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
     </h3>
 </div>
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/moon-lovers" target="blank"><img src="moon.jpg" class="img-thumbnail"></a>
+  <a href="https://www.top2ten.xyz/moon-lovers" target="_blank"><img src="assets/moon.jpg" class="img-thumbnail"></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">Moon Lovers</strong>
@@ -227,7 +227,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
     </h3>
 </div>
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/crash-landing-on-you" target="blank"><img src="test.webp" class="img-thumbnail "></a>
+  <a href="https://www.top2ten.xyz/crash-landing-on-you" target="_blank"><img src="assets/test.webp" class="img-thumbnail "></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">Crash Landing On You</strong>
@@ -238,7 +238,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 
 <div class="row">
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/goblin" target="blank"><img src="goblin.jpg" class="img-thumbnail "></a>
+  <a href="https://www.top2ten.xyz/goblin" target="_blank"><img src="assets/goblin.jpg" class="img-thumbnail "></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;" >Goblin</strong>
@@ -247,7 +247,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
     </h3>
 </div>
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/descendents-of-the-sun" target="blank"><img src="des.jpg" class="img-thumbnail " ></a>
+  <a href="https://www.top2ten.xyz/descendents-of-the-sun" target="_blank"><img src="assets/des.jpg" class="img-thumbnail " ></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">Descendents Of The Sun</strong>
@@ -256,7 +256,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
     </h3>
 </div>
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/boys-over-flower" target="blank"><img src="boys.webp" class="img-thumbnail "></a>
+  <a href="https://www.top2ten.xyz/boys-over-flower" target="_blank"><img src="assets/boys.webp" class="img-thumbnail "></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">Boys Over Flower</strong>
@@ -266,7 +266,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 </div>
 <div class="row">
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/my-love-from-the-star" target="blank"><img src="mylove.jpg" class="img-thumbnail "></a>
+  <a href="https://www.top2ten.xyz/my-love-from-the-star" target="_blank"><img src="assets/mylove.jpg" class="img-thumbnail "></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;" >My Love From The Star</strong>
@@ -275,7 +275,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
     </h3>
 </div>
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/weightlifting-fairy" target="blank"><img src="fairy.jpg" class="img-thumbnail " ></a>
+  <a href="https://www.top2ten.xyz/weightlifting-fairy" target="_blank"><img src="assets/fairy.jpg" class="img-thumbnail " ></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">Weightlifting fairy</strong>
@@ -284,7 +284,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
     </h3>
 </div>
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/reply-1988" target="blank"><img src="reply1988.jpg" class="img-thumbnail "></a>
+  <a href="https://www.top2ten.xyz/reply-1988" target="_blank"><img src="assets/reply1988.jpg" class="img-thumbnail "></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;">Reply 1988</strong>
@@ -295,7 +295,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 </div>
 
 <div class="col-md-4">
-  <a href="https://www.top2ten.xyz/encounter" target="blank"><img src="encounter.webp" class="img-thumbnail "></a>
+  <a href="https://www.top2ten.xyz/encounter" target="_blank"><img src="assets/encounter.webp" class="img-thumbnail "></a>
   <h3>
   <div class="carousel-caption" style="width: 75%;height: 10%">
         <strong style="background-color: coral;height: 100%;padding: 0.5ex;border-radius: 1ex;" >Encounter</strong>
@@ -309,7 +309,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 <hr>
 <h3><center>🔥🔥Hot Topics🔥🔥</center></h3>
 <br>
-<a href="https://www.top2tenasia.xyz/popular"> <center><button type="button" name="submit" class="btn softo-solid-btn" id="btnContactUs" style="background-color: #3b5998;color: white">
+<a href="/popular"> <center><button type="button" name="submit" class="btn softo-solid-btn" id="btnContactUs" style="background-color: #3b5998;color: white">
 Check Out Upcoming Dramas
 </button></center></a>
 <hr>

@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <!-- Goggle Ad and Analytics -->
+    <!-- Google Ad and Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-160757768-2"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
@@ -21,6 +21,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="article/assets/css/main.css" />
+    <?php require_once __DIR__ . '/includes/config.php'; ?>
+    <script>window.BASE_PATH = '<?php echo addslashes(base_path()); ?>';</script>
     <script src="mainScript.js"></script>
     <!-- Open Graph Tags for Social Media -->
     <meta property="og:site_name" content="Top2Ten Asia" />
@@ -29,19 +31,35 @@
     <meta property="og:image"
         content="https://www.top2tenasia.xyz/assets/top 10 most followed kdrama actors on instagram.webp" />
     <meta property="og:url" content="https://www.top2tenasia.xyz/top-10-most-followed-kdrama-actors-on-instagram" />
-    <link rel="canonical" href="https://www.top2tenasia.xyz/top-10-most-followed-kdrama-actors-on-instagram" />
+    <link rel="canonical" href="/top-10-most-followed-kdrama-actors-on-instagram" />
     <meta property="og:description"
-        content="Discover the top 10 most followed Korean drama actors on Instagram! From Lee Min-ho to Cha Eun-woo, delve into the captivating world of K-drama stars and explore their immense popularity on social media. Get insights into their diverse careers, captivating roles, and captivating presence in the entertainment industry. Whether you're a dedicated fan or a newcomer to the K-drama scene, this blog post offers a glimpse into the lives and careers of South Korea's most beloved actors. Join us as we celebrate the talent, charm, and influence of these iconic figures in the world of Korean entertainment." />
+        content="Discover the top 10 most followed K-drama actors on Instagram in 2026. From Cha Eun-woo and Lee Min-ho to Ji Chang-wook and Park Seo-joon—explore South Korea's most popular Korean drama actors, their hit K-dramas, awards, and why millions follow them on social media." />
     <meta name="keywords"
-        content="Korean drama, K-drama actors, Instagram, Lee Min-ho, Cha Eun-woo, Lee Jong-suk, Ji Chang-wook, Park Seo-joon, Song Kang, Hwang In-youp, Nam Joo-hyuk, Kim Soo-hyun, Lee Dong-wook, social media, celebrity, entertainment industry, top actors, South Korea, instagram,kdrama actors">
+        content="K-drama actors, Korean drama actors, most followed Korean actors Instagram, Lee Min-ho, Cha Eun-woo, Ji Chang-wook, Lee Jong-suk, Park Seo-joon, Song Kang, Hwang In-youp, Nam Joo-hyuk, Kim Soo-hyun, Lee Dong-wook, Korean celebrities Instagram, K-drama stars, South Korea actors, top Korean actors 2026">
     <meta name="owner" content="Harish Panwar">
     <style>
-    /* #sidebar {
-        margin-right: 0em;
-        min-width: 22em;
-        width: 22em;
-        margin-left: 3em;
-    } */
+        /* Round actor images with border – same style as actresses */
+        .post .content-section .image.featured {
+            text-align: center;
+        }
+        .post .content-section .image.featured img {
+            width: 320px;
+            height: 320px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin: 0 auto 1.5em;
+            display: block;
+            border: 4px solid #FF5733;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+
+        @media screen and (max-width: 736px) {
+            .post .content-section .image.featured img {
+                width: 220px;
+                height: 220px;
+                border-width: 3px;
+            }
+        }
     </style>
     <script async src="https://fundingchoicesmessages.google.com/i/pub-2272028859368526?ers=1"
         nonce="iRbgNe1IMKSh4e6oSsogsw"></script>
@@ -82,14 +100,15 @@
                         <p>Top 10 List: “Korean Drama Actors” </p>
                     </div>
                     <div class="meta">
-                        <time class="published" datetime="2015-11-01">April 4, 2024</time>
+                        <time class="published" datetime="2026-03-16">March 16, 2026</time>
                         <a href="https://www.instagram.com/top2ten.asia" class="author"><span class="name">Top2Ten
                                 Asia</span><img src="article/images/avatar.jpg" alt="" /></a>
                     </div>
                 </header>
+                <?php $article_slug = 'top-10-most-followed-kdrama-actors-on-instagram'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 
                 <span class="image featured"><img src="assets/top 10 most followed kdrama actors on instagram.webp"
-                        alt="" /></span>
+                        alt="Top 10 most followed K-drama actors on Instagram - Cha Eun-woo, Lee Min-ho, Ji Chang-wook and more" /></span>
                 <div class="content-ads">
 
                     <script async
@@ -107,7 +126,7 @@
                         realm
                         of Instagram to explore our favorite Korean Drama actors' fan following. In the dynamic
                         landscape of
-                        2024, Korean dramas continue to weave their magic, connecting people around the world through
+                        2026, Korean dramas continue to weave their magic, connecting people around the world through
                         captivating stories.</p>
 
                     <p>Join us on this adventure as we unveil the Top 10 Most Followed Korean Drama Actors on Instagram.
@@ -132,33 +151,16 @@
                         K-Drama's social media elite.</p>
 
                     <p>Fasten your seatbelts as we count down the Top 10 Most Followed Kdrama Actors on Instagram in
-                        2024.
+                        2026.
                         Are you prepared for the enchantment that awaits? 🌟✨</p>
+
+                    <p>In this article, you'll find each actor's official Instagram handle, current follower count, Korean name, birth date, and a detailed summary of their career—including breakthrough K-dramas, major awards, and what makes their Instagram feeds worth following. Whether you're searching for the most followed Korean actors on Instagram or simply want to discover new K-drama oppas to stan, this list has you covered.</p>
                 </div>
+                <!-- 10 -->
                 <div class="content-section">
-                    <h3 style="color: #FF5733;">10. Kim Soo Hyun</h3>
+                    <h3 style="color: #FF5733;">10. Lee DongWook</h3>
                     <br>
-                    <p class="image featured"><img src="article/assets/kim-soo-hyun.webp" alt="" /></p>
-                    <p>
-                        <b>Instagram Handle:</b> <a href="https://www.instagram.com/soohyun_k216/"
-                            target="_blank">@soohyun_k216</a><br>
-                        <b>Followers:</b> 15.7 million<br>
-                        <b>Korean:</b> 김수현 (Hanja: 金秀賢)<br>
-                        <b>Date of Birth:</b> February 16, 1988<br>
-                        <b>About:</b>
-                        Kim Soo-hyun, a renowned Korean Drama actor, has garnered acclaim for his versatile performances
-                        and numerous accolades, including multiple Baeksang Arts Awards and Grand Bell Awards. Rising to
-                        fame through hit dramas like "Dream High" (2011) and "Moon Embracing the Sun" (2012), he
-                        solidified his status as a top Hallyu star with notable roles in "My Love from the Star"
-                        (2013–14) and "The Producers" (2015). After completing his mandatory military service, he made a
-                        successful comeback with "It's Okay to Not Be Okay" (2020) and "One Ordinary Day" (2021),
-                        further cementing his position as a leading actor in the Korean entertainment industry.
-                    </p>
-                </div>
-                <div class="content-section">
-                    <h3 style="color: #FF5733;">9. Lee DongWook</h3>
-                    <br>
-                    <p class="image featured"><img src="article/assets/lee-dong-wook.webp" alt="" /></p>
+                    <p class="image featured"><img src="article/assets/lee-dong-wook.webp" alt="Lee Dong Wook" /></p>
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/leedongwook_official"
                             target="_blank">@leedongwook_official</a><br>
@@ -166,7 +168,7 @@
                         <b>Korean Name:</b> 이동욱 (Hanja: 李棟旭)<br>
                         <b>Date of Birth:</b> November 6, 1981<br>
                         <b>About:</b>
-                        Lee Dong-wook, a versatile Korean Drama actor, host, model, and entertainer, is celebrated for
+                        Lee Dong-wook, a versatile Korean drama actor, host, model, and entertainer, is celebrated for
                         his diverse roles in television dramas. Renowned for his captivating performances, he's best
                         known for leading roles in acclaimed series like "My Girl" (2005), "Scent of a Woman" (2011),
                         "Guardian: The Lonely and Great God" (2016–2017), and "Tale of the Nine Tailed" (2020). Beyond
@@ -175,19 +177,40 @@
                         entertainment platforms.
                     </p>
                 </div>
+                <!-- 9 -->
+                <div class="content-section">
+                    <h3 style="color: #FF5733;">9. Kim Soo Hyun</h3>
+                    <br>
+                    <p class="image featured"><img src="article/assets/kim-soo-hyun.webp" alt="Kim Soo Hyun" /></p>
+                    <p>
+                        <b>Instagram Handle:</b> <a href="https://www.instagram.com/soohyun_k216/"
+                            target="_blank">@soohyun_k216</a><br>
+                        <b>Followers:</b> 18.5 million<br>
+                        <b>Korean:</b> 김수현 (Hanja: 金秀賢)<br>
+                        <b>Date of Birth:</b> February 16, 1988<br>
+                        <b>About:</b>
+                        Kim Soo-hyun, a renowned Korean drama actor, has garnered acclaim for his versatile performances
+                        and numerous accolades, including multiple Baeksang Arts Awards and Grand Bell Awards. Rising to
+                        fame through hit dramas like "Dream High" (2011) and "Moon Embracing the Sun" (2012), he
+                        solidified his status as a top Hallyu star with notable roles in "My Love from the Star"
+                        (2013–14) and "The Producers" (2015). After completing his mandatory military service, he made a
+                        successful comeback with "It's Okay to Not Be Okay" (2020) and "One Ordinary Day" (2021),
+                        further cementing his position as a leading actor in the Korean entertainment industry.
+                    </p>
+                </div>
 
                 <div class="content-section">
                     <h3 style="color: #FF5733;">8. Nam JooHyuk</h3>
                     <br>
-                    <p class="image featured"><img src="article/assets/nam-joo-hyuk.webp" alt="" /></p>
+                    <p class="image featured"><img src="article/assets/nam-joo-hyuk.webp" alt="Nam Joo Hyuk" /></p>
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/skawngur"
                             target="_blank">@skawngur</a><br>
-                        <b>Followers:</b> 19 million<br>
+                        <b>Followers:</b> 19.6 million<br>
                         <b>Korean:</b> 남주혁<br>
                         <b>Date of Birth:</b> February 22, 1994<br>
                         <b>About:</b>
-                        Nam Joo-hyuk is a South Korean model turned Korean Drama actor, known for his remarkable
+                        Nam Joo-hyuk is a South Korean model turned Korean drama actor, known for his remarkable
                         performances in popular dramas like "Weightlifting Fairy Kim Bok-joo" (2016), "Start Up" (2020),
                         and "Twenty-Five Twenty-One" (2022). Noteworthy roles in "The Light in Your Eyes" (2019) and
                         "The School Nurse Files" (2020) have further solidified his status as one of South Korea's most
@@ -207,40 +230,40 @@
                     </script>
                 </div>
                 <div class="content-section">
-                    <h3 style="color: #FF5733;">7. Hwang InYoup</h3>
+                    <h3 style="color: #FF5733;">7. Song Kang</h3>
                     <br>
-                    <p class="image featured"><img src="article/assets/hwang-in-youp.webp" alt="" /></p>
-                    <p>
-                        <b>Instagram Handle:</b> <a href="https://www.instagram.com/hi_high_hiy"
-                            target="_blank">@hi_high_hiy</a><br>
-                        <b>Followers:</b> 19.8 million<br>
-                        <b>Korean Name:</b> 황인엽 (Hanja: 黃寅燁)<br>
-                        <b>Date of Birth:</b> January 19, 1991<br>
-                        <b>About:</b>
-                        Hwang In-youp is a versatile Korean Drama actor, model, and singer, who gained international
-                        recognition for his role in the hit drama "True Beauty" (2020–21). His captivating performance
-                        in "The Sound of Magic" (2022) and lead role in "Why Her" (2022) further showcased his talent
-                        and charisma. With his rising popularity, Hwang In-youp continues to make waves in the Korean
-                        entertainment industry, captivating audiences with his charm and versatility.
-                    </p>
-                </div>
-
-                <div class="content-section">
-                    <h3 style="color: #FF5733;">6. Song Kang</h3>
-                    <br>
-                    <p class="image featured"><img src="article/assets/song-kang.webp" alt="" /></p>
+                    <p class="image featured"><img src="article/assets/song-kang.webp" alt="Song Kang" /></p>
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/songkang_b"
                             target="_blank">@songkang_b</a><br>
-                        <b>Followers:</b> 21.6 million<br>
+                        <b>Followers:</b> 22.4 million<br>
                         <b>Korean Name:</b> 송강<br>
                         <b>Date of Birth:</b> April 23, 1994<br>
                         <b>About:</b>
-                        Song Kang is a talented Korean Drama actor known for his captivating lead roles in various
+                        Song Kang is a talented Korean drama actor known for his captivating lead roles in various
                         television series. His notable works include "Love Alarm" (2019–2021), "Sweet Home" (2020–2024),
                         "Navillera" (2021), "Nevertheless" (2021), "Forecasting Love and Weather" (2022), and "My Demon"
                         (2023). With his widespread recognition, he's affectionately referred to as the "Son of
                         Netflix," owing to the majority of his series being aired on the platform.
+                    </p>
+                </div>
+
+                <div class="content-section">
+                    <h3 style="color: #FF5733;">6. Hwang InYoup</h3>
+                    <br>
+                    <p class="image featured"><img src="article/assets/hwang-in-youp.webp" alt="Hwang In Youp" /></p>
+                    <p>
+                        <b>Instagram Handle:</b> <a href="https://www.instagram.com/hi_high_hiy"
+                            target="_blank">@hi_high_hiy</a><br>
+                        <b>Followers:</b> 23 million<br>
+                        <b>Korean Name:</b> 황인엽 (Hanja: 黃寅燁)<br>
+                        <b>Date of Birth:</b> January 19, 1991<br>
+                        <b>About:</b>
+                        Hwang In-youp is a versatile Korean drama actor, model, and singer, who gained international
+                        recognition for his role in the hit drama "True Beauty" (2020–21). His captivating performance
+                        in "The Sound of Magic" (2022) and lead role in "Why Her" (2022) further showcased his talent
+                        and charisma. With his rising popularity, Hwang In-youp continues to make waves in the Korean
+                        entertainment industry, captivating audiences with his charm and versatility.
                     </p>
                 </div>
                 <div class="content-section">
@@ -250,7 +273,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/bn_sj2013"
                             target="_blank">@bn_sj2013</a><br>
-                        <b>Followers:</b> 26.1 million<br>
+                        <b>Followers:</b> 25.1 million<br>
                         <b>Korean Name:</b> 박용규 (박서준)<br>
                         <b>Date of Birth:</b> December 16, 1988<br>
                         <b>About:</b>
@@ -272,7 +295,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/jongsuk0206"
                             target="_blank">@jongsuk0206</a><br>
-                        <b>Followers:</b> 26.5 million<br>
+                        <b>Followers:</b> 25.7 million<br>
                         <b>Korean Name:</b> 이종석<br>
                         <b>Date of Birth:</b> September 14, 1989<br>
                         <b>About:</b>
@@ -303,7 +326,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/jichangwook"
                             target="_blank">@jichangwook</a><br>
-                        <b>Followers:</b> 27 million<br>
+                        <b>Followers:</b> 27.9 million<br>
                         <b>Korean Name:</b> 지창욱<br>
                         <b>Date of Birth:</b> July 5, 1987<br>
                         <b>About:</b>
@@ -325,7 +348,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/actorleeminho"
                             target="_blank">@actorleeminho</a><br>
-                        <b>Followers:</b> 35 million<br>
+                        <b>Followers:</b> 34.3 million<br>
                         <b>Korean Name:</b> 이민호 (Hanja: 李敏鎬)<br>
                         <b>Date of Birth:</b> June 22, 1987<br>
                         <b>About:</b>
@@ -347,7 +370,7 @@
                     <p>
                         <b>Instagram Handle:</b> <a href="https://www.instagram.com/eunwo.o_c"
                             target="_blank">@eunwo.o_c</a><br>
-                        <b>Followers:</b> 44.1 million<br>
+                        <b>Followers:</b> 47.2 million<br>
                         <b>Korean Name:</b> 이동민<br>
                         <b>Date of Birth:</b> March 30, 1997<br>
                         <b>About:</b>
@@ -371,7 +394,7 @@
                 <footer>
                     <ul class="stats">
                         <li><a href="#">Support us</a></li>
-                        <li><a href="https://www.paypal.me/harishpanwar1998" class="icon solid fa-heart">Paypal</a>
+                        <li><a href="https://www.paypal.me/harishpanwar1998" class="icon solid fa-heart">PayPal</a>
                         </li>
                         <i class="fab fa-google-pay"></i>
                         <li><a href="https://paytm.me/4-XO7RC" class="icon solid fa-heart">Paytm</a></li>

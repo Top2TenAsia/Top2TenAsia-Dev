@@ -15,7 +15,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/Son-Ye-Jin-and-Hyun-Bin-marrige.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Son-Ye-Jin-and-Hyun-Bin-are-getting-married" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Son-Ye-Jin-and-Hyun-Bin-are-getting-married" />
+		<link rel="canonical" href="/article/Son-Ye-Jin-and-Hyun-Bin-are-getting-married" />
 		<!-- Post Description -->
 		<meta property="og:description" content="2022 is going to be a year of full of surprises and gaining
 new heights in every aspect. This year after Park Shin-hye and

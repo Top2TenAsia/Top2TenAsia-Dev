@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -31,7 +31,7 @@ Drama"/>
 together for third time to show their loving chemistry in
 upcoming seasons of the drama Tail of the nine tailed" />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/Nine-Tailed2.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Lee-Dong-Wook-And-Yo-In-Na-Are-Coming-Together-Again-For-Their-Upcoming-Drama" />
+<link rel="canonical" href="/Lee-Dong-Wook-And-Yo-In-Na-Are-Coming-Together-Again-For-Their-Upcoming-Drama" />
   <meta name="description" content="Lee Dong Wook and Yo In Na are coming
 together for third time to show their loving chemistry in
 upcoming seasons of the drama Tail of the nine tailed." />
@@ -113,9 +113,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>

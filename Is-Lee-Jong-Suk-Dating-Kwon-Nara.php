@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +26,7 @@
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/jong-nara.webp" />
 <meta property="og:site_name" content="Top2Ten Asia"/>
   
-<link rel="canonical" href="https://www.top2tenasia.xyz/Is-Lee-Jong-Suk-Dating-Kwon-Nara" />
+<link rel="canonical" href="/Is-Lee-Jong-Suk-Dating-Kwon-Nara" />
   <meta name="description" content="The news that Kwon Nara and Lee Jong Suk may be dating is surfacing all around the internet. The rumours are that the actor gifted her Ferrari. While the two actors have yet to officially confirm their relationship. " />
 <meta name="keywords" content="park min young, lee jong suk, song kang, office romance cruelity, IU, Bts, lee jong gi new drama, scarlet heart reyo,TVN's new drama, new drama, pachinkom, lee min ho new drama, Park seo joon, park boo young, Korean movie, Park Seo Joon,What’s wrong with secretary Kim ">           
   <meta name="owner" content="Harish Panwar">
@@ -92,9 +92,9 @@ html {
 }
 
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -160,7 +160,7 @@ project yet to respond to new dating rumour.
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

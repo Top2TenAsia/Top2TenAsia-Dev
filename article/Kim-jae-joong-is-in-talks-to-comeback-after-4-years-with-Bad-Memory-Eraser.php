@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/Bad-Memory-Eraser.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Kim-jae-joong-is-in-talks-to-comeback-after-4-years-with-Bad-Memory-Eraser" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Kim-jae-joong-is-in-talks-to-comeback-after-4-years-with-Bad-Memory-Eraser" />
+		<link rel="canonical" href="/article/Kim-jae-joong-is-in-talks-to-comeback-after-4-years-with-Bad-Memory-Eraser" />
 		<!-- Post Description -->
 		<meta property="og:description" content="After kim jae joong’s last drama “manhole” which
 was aired in 2017, he is in talks to do his comeback with “Bad

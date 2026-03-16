@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/Money-Heist.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Korean-remake-of-Money-Heist" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Korean-remake-of-Money-Heist" />
+		<link rel="canonical" href="/article/Korean-remake-of-Money-Heist" />
 		<!-- Post Description -->
 		<meta property="og:description" content="Popular show “Money Heist” is now going to have Korean
 								   remake. “Money Heist” is definitely one of the most popular

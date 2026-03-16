@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,7 +30,7 @@ both are “carefully getting to know each other” "/>
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/seungdan.webp" />
 <meta property="og:site_name" content="Top2Ten Asia"/>
   
-<link rel="canonical" href="https://www.top2tenasia.xyz/Finally-Its-Confirmed-That-Lee-Seung-Gi-And-Lee-Dan-In-Are-In-Relationship" />
+<link rel="canonical" href="/Finally-Its-Confirmed-That-Lee-Seung-Gi-And-Lee-Dan-In-Are-In-Relationship" />
   <meta name="description" content="It is finally conformed by lee dan-in’s agency that both lee
 seung gi and lee dan in are in relationship. The agency said that
 both are “carefully getting to know each other” " />
@@ -112,9 +112,9 @@ hr{
 }
 
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -193,7 +193,7 @@ their happiness.
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

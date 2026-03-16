@@ -1,0 +1,29 @@
+/**
+ * Shared styles for header and footer nav (gradient, mobile toggle, links).
+ * Used by header.php and footer.php to avoid duplicate inline styles.
+ */
+#grad {
+  background-image: linear-gradient(to right, #f4505e, #f0536b, #e35b90, #dc61a6, #d466bd, #bf7dee, #8a8bec, #56a3eb, #ca85ef);
+  margin-top: none !important;
+}
+
+.mob { display: none; }
+.comp { display: block; }
+
+@media only screen and (max-width: 600px) {
+  .comp { display: none; }
+  .mob { display: block; }
+}
+
+ul { list-style-type: none; }
+li {
+  display: inline;
+  color: white;
+  margin-top: 1ex;
+  margin-bottom: 1ex;
+}
+li a { color: white; }
+li a:hover { color: #3b5998; }
+
+#nig, #night, #form, #nav, #navon { display: none; }
+.header, .footer { margin: 0; }

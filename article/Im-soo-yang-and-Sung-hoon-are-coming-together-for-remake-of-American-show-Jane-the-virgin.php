@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/Jane-The-Virgin.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/Im-soo-yang-and-Sung-hoon-are-coming-together-for-remake-of-American-show-Jane-the-virgin" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/Im-soo-yang-and-Sung-hoon-are-coming-together-for-remake-of-American-show-Jane-the-virgin" />
+		<link rel="canonical" href="/Im-soo-yang-and-Sung-hoon-are-coming-together-for-remake-of-American-show-Jane-the-virgin" />
 		<!-- Post Description -->
 		<meta property="og:description" content="The new upcoming historical, mysterious, romantic drama
 			is set to come in 2022 starring our loving Park Hyung Sik and

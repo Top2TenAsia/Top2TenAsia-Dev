@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/Jung-Hae-In-and-Kang-Ha-Neul.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Jung-Hae-In-and-Kang-Ha-Neul-coming-together-for-KBS-upcoming-drama" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Jung-Hae-In-and-Kang-Ha-Neul-coming-together-for-KBS-upcoming-drama" />
+		<link rel="canonical" href="/article/Jung-Hae-In-and-Kang-Ha-Neul-coming-together-for-KBS-upcoming-drama" />
 		<!-- Post Description -->
 		<meta property="og:description" content="According to sources Jung Hae In and Kang Ha Neul are in
 talks to be casted in KBS2&#39;s upcoming kdrama “Trees Die on

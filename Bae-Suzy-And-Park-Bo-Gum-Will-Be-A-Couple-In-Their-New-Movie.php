@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,7 +30,7 @@ coma. It is a sci-fi movie. " />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/wonder.webp" />
 <meta property="og:site_name" content="Top2Ten Asia"/>
   
-<link rel="canonical" href="https://www.top2tenasia.xyz/Bae-Suzy-And-Park-Bo-Gum-Will-Be-A-Couple-In-Their-New-Movie" />
+<link rel="canonical" href="/Bae-Suzy-And-Park-Bo-Gum-Will-Be-A-Couple-In-Their-New-Movie" />
   <meta name="description" content="Wonderland &quot;will tell the story of a simulated universe in which people are able to reunite with
 loved ones with whom they can no longer interact in reality.&quot; Gong Yoo will reportedly take on the
 role of a widower who decides to create a simulation of his deceased wife. Playing a young couple,
@@ -100,9 +100,9 @@ html {
 }
 
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -169,7 +169,7 @@ platform internationally. The storyline seems very interesting and audience is 
 something very good. The film is slated to be released in South Korea and China in the second half of 2021.
 
 </h3>
-<h3>Also, Recently park min young and song kang are in massive talks to see together for their upcoming drama <a href="https://www.top2tenasia.xyz/Park-Min-Young-and-Song-KANG-New-Upcoming-Office-Romance-Drama">“Office Romance Cruelty”.</a>
+<h3>Also, Recently park min young and song kang are in massive talks to see together for their upcoming drama <a href="/Park-Min-Young-and-Song-KANG-New-Upcoming-Office-Romance-Drama">“Office Romance Cruelty”.</a>
 </h3>
 <br>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -188,7 +188,7 @@ something very good. The film is slated to be released in South Korea and China 
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

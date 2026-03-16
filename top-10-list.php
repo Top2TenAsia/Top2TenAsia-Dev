@@ -1,14 +1,13 @@
-
-
+<?php if (!function_exists('base_path')) { require_once __DIR__ . '/includes/config.php'; } ?>
 <div class="container" style="margin-top: 3ex;">
     <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
-    <a href="Top-10-Best-Comedy-Korean-Drama-Of-All-Time">
-    <img src="assets/Comedy-K-Dramas.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <a href="<?php echo base_path(); ?>/Top-10-Best-Comedy-Korean-Drama-Of-All-Time">
+    <img src="<?php echo base_path(); ?>/assets/Comedy-K-Dramas.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
-		<a href="Top-10-Best-Comedy-Korean-Drama-Of-All-Time">
+		<a href="<?php echo base_path(); ?>/Top-10-Best-Comedy-Korean-Drama-Of-All-Time">
 
 			<h2>
     Top 10 Best Comedy Korean Drama Of All Time
@@ -23,12 +22,12 @@
 		
 			<div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
-    <a href="top-10-best-korean-dramas-on-netflix">
-    <img src="assets/Netflix-K-Dramas.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <a href="<?php echo base_path(); ?>/top-10-best-korean-dramas-on-netflix">
+    <img src="<?php echo base_path(); ?>/assets/Netflix-K-Dramas.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
-		<a href="top-10-best-korean-dramas-on-netflix">
+		<a href="<?php echo base_path(); ?>/top-10-best-korean-dramas-on-netflix">
 
 			<h2>
     Top 10 Best Korean Dramas On Netflix
@@ -43,12 +42,12 @@
 		
 				<div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
-    <a href="top-10-best-korean-dramas-of-2018">
-    <img src="assets/2018-K-Drama.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <a href="<?php echo base_path(); ?>/top-10-best-korean-dramas-of-2018">
+    <img src="<?php echo base_path(); ?>/assets/2018-K-Drama.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
-		<a href="top-10-best-korean-dramas-of-2018">
+		<a href="<?php echo base_path(); ?>/top-10-best-korean-dramas-of-2018">
 
 			<h2>
     Top 10 Best Korean Dramas Of 2018
@@ -63,18 +62,18 @@
 		
 			<div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
-    <a href="top-10-best-korean-dramas-of-2020">
-    <img src="assets/2020-K-Dramas.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <a href="<?php echo base_path(); ?>/top-10-best-korean-dramas-of-2020">
+    <img src="<?php echo base_path(); ?>/assets/2020-K-Dramas.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
-		<a href="top-10-best-korean-dramas-of-2020">
+		<a href="<?php echo base_path(); ?>/top-10-best-korean-dramas-of-2020">
 
 			<h2>
-    Top 10 Best Koean Dramas Of 2020
+    Top 10 Best Korean Dramas Of 2020
  [Top2Ten Asia]</h2>
               </a>
-              <h3>Check out our top 10 best Korean Dramas fo 2020.
+              <h3>Check out our top 10 best Korean Dramas for 2020.
  </h3>
                 <p><i class="fa fa-clock-o"></i> Jun 9, 2020</p> 
 			</div>
@@ -82,12 +81,12 @@
 		</div>
     <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
-    <a href="top-10-most-followed-kdrama-actresses-on-instagram.php">
-    <img src="assets/Suzy.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <a href="<?php echo base_path(); ?>/top-10-most-followed-kdrama-actresses-on-instagram.php">
+    <img src="<?php echo base_path(); ?>/assets/Suzy.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
-		<a href="top-10-most-followed-kdrama-actresses-on-instagram.php">
+		<a href="<?php echo base_path(); ?>/top-10-most-followed-kdrama-actresses-on-instagram.php">
 
 			<h2>
 			 TOP 10 MOST FOLLOWED K-DRAMA ACTRESSES ON INSTAGRAM [Top2Ten Asia]</h2>
@@ -99,12 +98,12 @@
 		</div>
     <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
-    <a href="top-10-most-followed-kdrama-actors-on-instagram">
-    <img src="assets/In-Yeop.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <a href="<?php echo base_path(); ?>/top-10-most-followed-kdrama-actors-on-instagram">
+    <img src="<?php echo base_path(); ?>/assets/In-Yeop.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
-		<a href="top-10-most-followed-kdrama-actors-on-instagram">
+		<a href="<?php echo base_path(); ?>/top-10-most-followed-kdrama-actors-on-instagram">
 
 			<h2>
 			 TOP 10 MOST FOLLOWED K-DRAMA ACTORS ON INSTAGRAM [Top2Ten Asia]</h2>
@@ -116,12 +115,12 @@
 		</div>
     <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
-    <a href="top-10-best-korean-drama-of-2016">
-    <img src="moonlight.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <a href="<?php echo base_path(); ?>/top-10-best-korean-drama-of-2016">
+    <img src="<?php echo base_path(); ?>/assets/moonlight.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
-		<a href="top-10-best-korean-drama-of-2016">
+		<a href="<?php echo base_path(); ?>/top-10-best-korean-drama-of-2016">
 
 			<h2>
 			 Top 10 Best Korean Drama Of 2016 [Top2Ten Asia]</h2>
@@ -133,12 +132,12 @@
 		</div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
-    <a href="top-10-best-historical-korean-drama-of-all-time">
-    <img src="hwarang.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <a href="<?php echo base_path(); ?>/top-10-best-historical-korean-drama-of-all-time">
+    <img src="<?php echo base_path(); ?>/assets/hwarang.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
-		<a href="top-10-best-historical-korean-drama-of-all-time">
+		<a href="<?php echo base_path(); ?>/top-10-best-historical-korean-drama-of-all-time">
 
 			<h2>
 			 Top 10 Best Historical Korean Drama of All Time [Top2Ten Asia]</h2>
@@ -150,12 +149,12 @@
 		</div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
-    <a href="best-korean-drama-from-each-year">
-    <img src="king.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
+    <a href="<?php echo base_path(); ?>/best-korean-drama-from-each-year">
+    <img src="<?php echo base_path(); ?>/assets/king.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
-		<a href="best-korean-drama-from-each-year">
+		<a href="<?php echo base_path(); ?>/best-korean-drama-from-each-year">
 
 			<h2>
 			  Best Korean Drama From Each Year [Top2Ten Asia]</h2>
@@ -169,14 +168,14 @@
         <div class="row" style="margin-top:2.5ex;border: 1px solid #ccc;border-radius: 4px;">
 		
 		<div class="col-md-5">
-        <a href="top-10-best-korean-drama-of-the-decade">
-			<img src="k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
+        <a href="<?php echo base_path(); ?>/top-10-best-korean-drama-of-the-decade">
+			<img src="<?php echo base_path(); ?>/assets/k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
             </a>
             </div>
             <div class="col-md-7">
-              <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">
+              <a href="<?php echo base_path(); ?>/top-10-best-korean-drama-of-the-decade">
 			<h2>
-				Top 10 Best Koean Drama Of The Decade [Top2Ten Asia] </h2>
+				Top 10 Best Korean Drama Of The Decade [Top2Ten Asia] </h2>
                 </a>
 			  <h3>The popularity of korean drama is on it's peak, In the past 10 years the korean drama popularity is exploading all around the world, now the audience is not only limited to Asia but from all around the world. With having billons of k-drama lovers from all around the world k-drama industry plays one of the key role in the field of entertainment and South Korean economy. So here is the list of top 10 best K-drama of the decade that you must watch.</h3>  <p><i class="fa fa-clock-o"></i>  Apr 8, 2020</p>
 			</div>

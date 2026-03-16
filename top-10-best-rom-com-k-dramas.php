@@ -30,7 +30,7 @@ sure you will not be surprised about those dramas. So let’s
 begin the exciting list now" />
 <meta property="og:url" content="https://www.top2tenasia.xyz/top-10-best-rom-com-k-dramas" />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/2018.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/top-10-best-rom-com-k-dramas" />
+<link rel="canonical" href="/top-10-best-rom-com-k-dramas" />
   <meta name="description" content=" As the title already revealed that we are going to reveal
 top 10 romantic comedic k-dramas. If you love comedy
 with effect of romance in it or vice-versa then this list is for
@@ -86,9 +86,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -109,7 +109,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2><br>
 <p  style="float:left"><i class="fa fa-clock-o"></i>5:00 PM 26 Jun, 2021</p>
-
+<?php $article_slug = 'top-10-best-rom-com-k-dramas'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 
@@ -249,7 +249,7 @@ drama with a urge to find more about the story.</h4>
       <div class="row">
 <h2>&nbsp; &nbsp;7.  LEGAND OF THE BLUE SEA (2016) </h2>
 <div class="col-md-7">
-<img src="legend.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/legend.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
 <h3 style="font-family:times new roman;text-align:center">
 <span class="fa fa-star checked"></span>
@@ -358,7 +358,7 @@ comedy romance.
 <div class="row">
 <h2>&nbsp; &nbsp;4. MY LOVE FROM ANOTHER STAR(2013)</h2>
 <div class="col-md-7">
-<img src="mylove.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/mylove.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
 <h3 style="font-family:times new roman;text-align:center">
 <span class="fa fa-star checked"></span>
@@ -397,7 +397,7 @@ for a second.
 <div class="row">
 <h2>&nbsp; &nbsp;3. STRONG GIRL DO BONG SOON (2017)</h2>
 <div class="col-md-7">
-<img src="bong.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/bong.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
 <h3 style="font-family:times new roman;text-align:center">
 <span class="fa fa-star checked"></span>
@@ -436,7 +436,7 @@ and cute at the same time.
     <div class="row" id="2015">   
      <h2>&nbsp; &nbsp;2. WEIGHTLIFTING FAIRY KIM BOOK-JOO (2016)</h2>
 <div class="col-md-7">
-      <img src="fairy.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/fairy.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>

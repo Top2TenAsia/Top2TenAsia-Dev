@@ -29,7 +29,7 @@
     <meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/articleImage/Rose_APT.webp" />
     <!-- Post Url -->
     <meta property="og:url" content="https://www.top2tenasia.xyz/article/BLACKPINK-Rosé-History-Billboard-Top-3" />
-    <link rel="canonical" href="https://www.top2tenasia.xyz/article/BLACKPINK-Rosé-History-Billboard-Top-3" />
+    <link rel="canonical" href="/article/BLACKPINK-Rosé-History-Billboard-Top-3" />
     <!-- Post Description -->
     <meta property="og:description"
         content="Rosé becomes the first female K-pop artist to achieve a Top 3 spot on Billboard's Hot 100 with 'APT.' alongside Bruno Mars." />

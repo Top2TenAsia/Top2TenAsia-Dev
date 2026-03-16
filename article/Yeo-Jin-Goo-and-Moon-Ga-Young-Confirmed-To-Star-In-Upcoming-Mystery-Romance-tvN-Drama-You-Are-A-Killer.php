@@ -28,7 +28,7 @@ Drama “You Are A Killer”">
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/You-Are-A-Killer.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Yeo-Jin-Goo-and-Moon-Ga-Young-Confirmed-To-Star-In-Upcoming-Mystery-Romance-tvN-Drama-You-Are-A-Killer" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Yeo-Jin-Goo-and-Moon-Ga-Young-Confirmed-To-Star-In-Upcoming-Mystery-Romance-tvN-Drama-You-Are-A-Killer" />
+		<link rel="canonical" href="/article/Yeo-Jin-Goo-and-Moon-Ga-Young-Confirmed-To-Star-In-Upcoming-Mystery-Romance-tvN-Drama-You-Are-A-Killer" />
 		<!-- Post Description -->
 		<meta property="og:description" content="“You Are A Killer” will narrate the story of a man and a
 woman who suddenly share and experience the same

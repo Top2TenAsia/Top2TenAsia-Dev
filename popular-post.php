@@ -86,7 +86,7 @@
     <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
     <a href="top-10-best-korean-drama-of-2016">
-    <img src="moonlight.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <img src="assets/moonlight.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
@@ -103,7 +103,7 @@
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
     <a href="top-10-best-historical-korean-drama-of-all-time">
-    <img src="hwarang.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <img src="assets/hwarang.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
@@ -120,7 +120,7 @@
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
     <a href="best-korean-drama-from-each-year">
-    <img src="king.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
+    <img src="assets/king.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
@@ -139,13 +139,13 @@
 		
 		<div class="col-md-5">
         <a href="top-10-best-korean-drama-of-the-decade">
-			<img src="k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
+			<img src="assets/k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
             </a>
             </div>
             <div class="col-md-7">
-              <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">
+              <a href="/top-10-best-korean-drama-of-the-decade">
 			<h2>
-				Top 10 Best Koean Drama Of The Decade  </h2>
+				Top 10 Best Korean Drama Of The Decade  </h2>
                 </a>
 			  <p><i class="fa fa-clock-o"></i>  Apr 8, 2020</p>
 			</div>

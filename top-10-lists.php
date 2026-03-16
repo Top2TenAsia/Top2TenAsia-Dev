@@ -15,8 +15,10 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <link rel="canonical" href="https://www.top2tenasia.xyz/top-10-lists" />
+  <link rel="canonical" href="/top-10-lists" />
   <link rel="stylesheet" href="article/assets/css/main.css" />
+  <?php require_once __DIR__ . '/includes/config.php'; ?>
+  <script>window.BASE_PATH = '<?php echo addslashes(base_path()); ?>';</script>
   <script src="type.js"></script>
   <script src="topTenListsScript.js"></script>
    <meta name="description" content="Immerse yourself in the pinnacle of Korean entertainment with our meticulously curated top 10 lists. From heartwarming Kdrama tales to chart-topping Kpop hits, explore the essence of Korean culture through unforgettable stories and mesmerizing music. Elevate your viewing and listening experience with the ultimate blend of Kdrama and Kpop excellence">
@@ -31,7 +33,7 @@
 				<!-- Menu -->
 					
 				<!-- Main -->
-					<div id="main" class=".posts">
+					<div id="main" class="top10-list-grid">
 
 					</div>
 

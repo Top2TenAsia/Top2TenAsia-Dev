@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -32,7 +32,7 @@ fantabalous story and great cast. Now the wish of the fans
 going to come true because according to sources the drama is
 going to have 2nd and 3rd season of the drama." />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/Nine-Tailed.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Tail-Of-The-Nine-Tailed-Coming-With-Season-2-And-3" />
+<link rel="canonical" href="/Tail-Of-The-Nine-Tailed-Coming-With-Season-2-And-3" />
   <meta name="description" content="The crazy lovers of the drama &quot;Tail of the nine tailed&quot; must
 be very excited just to read the title of this post. This drama is
 one of the most successful and widely recognized drama of
@@ -119,9 +119,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>

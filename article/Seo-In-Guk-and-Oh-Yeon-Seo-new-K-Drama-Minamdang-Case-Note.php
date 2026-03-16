@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/Minamdang-Case-Note.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Seo-In-Guk-and-Oh-Yeon-Seo-new-K-Drama-Minamdang-Case-Note" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Seo-In-Guk-and-Oh-Yeon-Seo-new-K-Drama-Minamdang-Case-Note" />
+		<link rel="canonical" href="/article/Seo-In-Guk-and-Oh-Yeon-Seo-new-K-Drama-Minamdang-Case-Note" />
 		<!-- Post Description -->
 		<meta property="og:description" content="The original “Minamdang: Case Note” is a mystery action web novel that unfolds the story of Han Jun, a former profiler who has become a shaman, and his colleagues." />
 		<!-- Post Tags -->

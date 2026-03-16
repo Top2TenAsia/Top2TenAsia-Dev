@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -38,7 +38,7 @@ drama, according to sources this time he is going to play a role
 he has’nt played yet. He is going to play a totally different
 character he has ever played." />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/Sweet-Sour-Chicken.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Cha-Eun-Woo-is-in-talks-to-be-casted-in-new-webtoon-based-drama-Sweet-Sour-Chicken" />
+<link rel="canonical" href="/Cha-Eun-Woo-is-in-talks-to-be-casted-in-new-webtoon-based-drama-Sweet-Sour-Chicken" />
   <meta name="description" content="Our favourite Cha Eun Wo (member of ASTRO-South Korean
   boy band) is coming with another drama based on a webtoon.
   We already love him after seeing his performance in different
@@ -124,9 +124,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>

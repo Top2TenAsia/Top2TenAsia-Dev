@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <!-- Goggle Ad and Analytics -->
+    <!-- Google Ad and Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-160757768-2"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
@@ -21,6 +21,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="article/assets/css/main.css" />
+    <?php require_once __DIR__ . '/includes/config.php'; ?>
+    <script>window.BASE_PATH = '<?php echo addslashes(base_path()); ?>';</script>
     <script src="mainScript.js"></script>
     <!-- Open Graph Tags for Social Media -->
     <meta property="og:site_name" content="Top2Ten Asia" />
@@ -29,13 +31,35 @@
     <meta property="og:image"
         content="https://www.top2tenasia.xyz/article/assets/top-10-list/most-followed-actresses.webp" />
     <meta property="og:url" content="https://www.top2tenasia.xyz/top-10-most-followed-kdrama-actresses-on-instagram" />
-    <link rel="canonical" href="https://www.top2tenasia.xyz/top-10-most-followed-kdrama-actresses-on-instagram" />
+    <link rel="canonical" href="/top-10-most-followed-kdrama-actresses-on-instagram" />
     <meta property="og:description"
-        content="Discover the top 10 most followed Korean drama actors on Instagram! From Lee Min-ho to Cha Eun-woo, delve into the captivating world of K-drama stars and explore their immense popularity on social media. Get insights into their diverse careers, captivating roles, and captivating presence in the entertainment industry. Whether you're a dedicated fan or a newcomer to the K-drama scene, this blog post offers a glimpse into the lives and careers of South Korea's most beloved actors. Join us as we celebrate the talent, charm, and influence of these iconic figures in the world of Korean entertainment." />
+        content="Discover the top 10 most followed K-drama actresses on Instagram in 2026. From BLACKPINK's Jisoo and IU to Song Hye Kyo and Han So Hee—explore South Korea's most beloved actresses, their hit dramas, awards, and why millions follow them on social media. Your complete guide to the most popular Korean drama actresses on Instagram." />
     <meta name="keywords"
-        content="Korean drama, K-drama actors, Instagram, Lee Min-ho, Cha Eun-woo, Lee Jong-suk, Ji Chang-wook, Park Seo-joon, Song Kang, Hwang In-youp, Nam Joo-hyuk, Kim Soo-hyun, Lee Dong-wook, social media, celebrity, entertainment industry, top actors, South Korea, instagram,kdrama actors">
+        content="K-drama actresses, Korean drama actresses, most followed Korean actresses Instagram, Jisoo Blackpink, IU actress, Song Hye Kyo, Han So Hee, Bae Suzy, Jung Ho Yeon, Im Yoona, Park Shin Hye, Lee Sung Kyung, Kim Ji Won, Korean celebrities Instagram, K-drama stars, South Korea actresses, top Korean actresses 2026">
     <meta name="owner" content="Harish Panwar">
     <style>
+        /* Round actress images with border – same style as actors */
+        .post .content-section .image.featured {
+            text-align: center;
+        }
+        .post .content-section .image.featured img {
+            width: 320px;
+            height: 320px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin: 0 auto 1.5em;
+            display: block;
+            border: 4px solid #FF5733;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+
+        @media screen and (max-width: 736px) {
+            .post .content-section .image.featured img {
+                width: 220px;
+                height: 220px;
+                border-width: 3px;
+            }
+        }
     </style>
     <script async src="https://fundingchoicesmessages.google.com/i/pub-2272028859368526?ers=1"
         nonce="iRbgNe1IMKSh4e6oSsogsw"></script>
@@ -76,14 +100,15 @@
                         <p>Top 10 List: “Korean Drama Actresses” </p>
                     </div>
                     <div class="meta">
-                        <time class="published" datetime="2025-02-02">Feb 2, 2025</time>
+                        <time class="published" datetime="2026-03-16">Mar 16, 2026</time>
                         <a href="https://www.instagram.com/top2ten.asia" class="author"><span class="name">Top2Ten
                                 Asia</span><img src="article/images/avatar.jpg" alt="" /></a>
                     </div>
                 </header>
+                <?php $article_slug = 'top-10-most-followed-kdrama-actresses-on-instagram'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 
                 <span class="image featured"><img src="article/assets/top-10-list/most-followed-actresses.webp"
-                        alt="" /></span>
+                        alt="Top 10 most followed K-drama actresses on Instagram - Jisoo, IU, Bae Suzy, Song Hye Kyo and more" /></span>
                 <div class="content-ads">
 
                     <script async
@@ -101,7 +126,7 @@
                     <p><strong>Welcome to the Dazzling World of K-Drama!</strong> Where unforgettable stories unfold,
                         and
                         the stars shine just as brightly on-screen as they do
-                        online! In 2025, we’re taking you on an exciting journey through Instagram to reveal the
+                        online! In 2026, we’re taking you on an exciting journey through Instagram to reveal the
                         <strong>Top 10 Most Followed K-Drama Actresses</strong>. As Korean dramas continue to captivate
                         hearts across the globe, these actresses are not only enchanting us with their incredible
                         performances but also winning our hearts through their social media presence.
@@ -115,14 +140,16 @@
                     <p>Instagram has become the perfect space for fans to get an intimate peek into the lives of their
                         favorite stars. From behind-the-scenes moments to glimpses of their everyday lives, these
                         talented women bring us closer to their world with every post. Now, let’s count down the
-                        <strong>Top 10 Most Followed K-Drama Actresses of 2025</strong>, where beauty, talent, and
+                        <strong>Top 10 Most Followed K-Drama Actresses of 2026</strong>, where beauty, talent, and
                         charisma blend effortlessly to create pure magic!
                     </p>
 
                     <p>So, <em>buckle up</em> and get ready for an exciting ride through the Instagram universe, where
                         the stars shine brighter than ever before! <span style="color: gold;">🌟✨</span></p>
 
-                    <p><strong>2025</strong> – are you ready to be enchanted?</p>
+                    <p><strong>2026</strong> – are you ready to be enchanted?</p>
+
+                    <p>In this article, you'll find each actress's official Instagram handle, current follower count, Korean name, birth date, and a detailed look at their career—including breakthrough K-dramas, awards, and what makes their Instagram feeds worth following. Whether you're searching for the most followed Korean actresses on Instagram or simply want to stay updated on your favorite K-drama stars, this list has you covered.</p>
                 </div>
                 <div class="post-list">
                     <div class="post-list">
@@ -138,10 +165,7 @@
                                 <b>Korean Name:</b> 김지원<br>
                                 <b>Date of Birth:</b> October 19, 1992<br>
                                 <b>About:</b>
-                                Kim Ji Won is celebrated for her versatile roles in K-dramas such as "Descendants of the
-                                Sun" and "Fight for My Way and Queen of Tears." Her Instagram offers fans a glimpse into
-                                her professional
-                                endeavors and personal moments.
+                                Kim Ji Won (김지원) is one of South Korea's most sought-after K-drama actresses, known for her natural acting and elegant screen presence. She rose to fame with supporting roles in "Descendants of the Sun" (2016) and "Fight for My Way" (2017), then solidified her star status as the lead in "Arthdal Chronicles" (2019) and the record-breaking romance "Queen of Tears" (2024) alongside Kim Soo Hyun. She has won and been nominated for multiple awards, including Baeksang Arts Awards. On Instagram (@geewonii), she shares behind-the-scenes from drama sets, fashion and brand content, and candid moments that keep her 14.6 million followers engaged. Following Kim Ji Won on Instagram is a must for fans of romantic K-dramas and Korean celebrity style.
                             </p>
                         </div>
 
@@ -153,13 +177,11 @@
                             <p>
                                 <b>Instagram Handle:</b> <a href="https://www.instagram.com/heybiblee"
                                     target="_blank">@heybiblee</a><br>
-                                <b>Followers:</b> 15.2 million<br>
+                                <b>Followers:</b> 14.9 million<br>
                                 <b>Korean Name:</b> 이성경<br>
                                 <b>Date of Birth:</b> August 10, 1990<br>
                                 <b>About:</b>
-                                Lee Sung Kyung is a model-turned-actress known for her roles in "Cheese in the Trap" and
-                                "Weightlifting Fairy Kim Bok Joo." Her Instagram showcases her modeling work, acting
-                                projects, and personal life.
+                                Lee Sung Kyung (이성경) is a model-turned-K-drama actress and one of the most recognizable faces in Korean entertainment. She gained a massive fanbase with "Weightlifting Fairy Kim Bok Joo" (2016–2017), "Cheese in the Trap" (2016), and the medical hit "Dr. Romantic" series (2019–2023). Her versatility spans rom-coms, melodrama, and period pieces. As a former runway and editorial model, she often shares high-fashion photoshoots, drama stills, and travel content on Instagram (@heybiblee), making her feed a go-to for K-drama and K-fashion fans alike. With over 15 million followers, she remains one of the most followed Korean actresses on Instagram.
                             </p>
                         </div>
 
@@ -171,12 +193,11 @@
                             <p>
                                 <b>Instagram Handle:</b> <a href="https://www.instagram.com/ssinz7"
                                     target="_blank">@ssinz7</a><br>
-                                <b>Followers:</b> 15.9 million<br>
+                                <b>Followers:</b> 15.4 million<br>
                                 <b>Korean Name:</b> 박신혜<br>
                                 <b>Date of Birth:</b> February 18, 1990<br>
                                 <b>About:</b>
-                                Park Shin Hye is renowned for her roles in "The Heirs" and "Pinocchio." Her Instagram
-                                features behind-the-scenes content, travel photos, and personal updates.
+                                Park Shin Hye (박신혜) is a veteran K-drama actress and one of the most beloved stars in the Hallyu wave. She became a household name with "You're Beautiful" (2009), "The Heirs" (2013), "Pinocchio" (2014–2015), and "Doctors" (2016), and has won numerous awards including Baeksang and SBS Drama Awards. After marrying and welcoming a child, she continues to be a top influence in Korean drama and fashion. Her Instagram (@ssinz7) offers behind-the-scenes glimpses, travel diaries, and family-friendly updates that resonate with fans worldwide. With 15.5 million followers, she remains one of the most followed Korean actresses on Instagram and a staple of K-drama recommendation lists.
                             </p>
                         </div>
 
@@ -188,12 +209,11 @@
                             <p>
                                 <b>Instagram Handle:</b> <a href="https://www.instagram.com/xeesoxee"
                                     target="_blank">@xeesoxee</a><br>
-                                <b>Followers:</b> 17.2 million<br>
+                                <b>Followers:</b> 16.9 million<br>
                                 <b>Korean Name:</b> 한소희<br>
                                 <b>Date of Birth:</b> November 18, 1994<br>
                                 <b>About:</b>
-                                Han So Hee gained fame for her roles in "The World of the Married" and "Nevertheless."
-                                Her Instagram offers a mix of professional photoshoots and personal moments.
+                                Han So Hee (한소희) shot to international fame as the lead in the record-breaking drama "The World of the Married" (2020) and later won hearts in "Nevertheless" (2021) and the action noir "My Name" (2021). She is known for bold character choices, striking visuals, and a strong presence in both romantic and thriller K-dramas. Her Instagram (@xeesoxee) blends editorial-style photoshoots, drama promotions, and glimpses of her off-screen life, attracting over 17 million followers. She is frequently listed among the most followed K-drama actresses on Instagram and continues to be a top pick for fans of mature romance and thriller Korean dramas.
                             </p>
                         </div>
                         <div class="content-ads">
@@ -208,20 +228,19 @@
                             </script>
                         </div>
                         <div class="content-section">
-                            <h3 style="color: #FF5733;">6. Im Yoona</h3>
+                            <h3 style="color: #FF5733;">6. Jung Ho Yeon</h3>
                             <br>
-                            <p class="image featured"><img src="article/assets/top-10-list/im-yoon-ah.webp"
-                                    alt="Im Yoona" /></p>
+                            <p class="image featured"><img src="article/assets/top-10-list/jung-ho-yeon.webp"
+                                    alt="Jung Ho Yeon" />
+                            </p>
                             <p>
-                                <b>Instagram Handle:</b> <a href="https://www.instagram.com/yoona__lim"
-                                    target="_blank">@yoona__lim</a><br>
-                                <b>Followers:</b> 17.6 million<br>
-                                <b>Korean Name:</b> 임윤아<br>
-                                <b>Date of Birth:</b> May 30, 1990<br>
+                                <b>Instagram Handle:</b> <a href="https://www.instagram.com/hoooooyeony"
+                                    target="_blank">@hoooooyeony</a><br>
+                                <b>Followers:</b> 17.5 million<br>
+                                <b>Korean Name:</b> 정호연<br>
+                                <b>Date of Birth:</b> June 23, 1994<br>
                                 <b>About:</b>
-                                Im Yoona, a member of Girls' Generation, has also made a mark as an actress in dramas
-                                like "The K2" and "King The Land." Her Instagram features a blend of music
-                                promotions, acting updates, and personal moments.
+                                Jung Ho Yeon (정호연) became a global sensation overnight with her breakout role as Kang Sae-byeok in Netflix's "Squid Game" (2021), earning an Emmy nomination and worldwide recognition. Before acting, she was a successful international runway model. She has since appeared in "A Girl and an Astronaut" and continues to work in both fashion and film. Her Instagram (@hoooooyeony) showcases her modeling campaigns, red-carpet moments, and travel, making her one of the most followed Korean actresses on Instagram with over 19 million followers. Fans follow her for her unique style, Squid Game nostalgia, and crossover appeal between K-drama and global entertainment.
                             </p>
                         </div>
 
@@ -234,31 +253,27 @@
                             <p>
                                 <b>Instagram Handle:</b> <a href="https://www.instagram.com/kyo1122"
                                     target="_blank">@kyo1122</a><br>
-                                <b>Followers:</b> 17.7 million<br>
+                                <b>Followers:</b> 17.8 million<br>
                                 <b>Korean Name:</b> 송혜교<br>
                                 <b>Date of Birth:</b> November 22, 1981<br>
                                 <b>About:</b>
-                                Song Hye Kyo is a veteran actress known for her roles in "Descendants of the Sun",
-                                "Encounter." and The Glory, Her Instagram showcases her acting projects, fashion, and
-                                personal life.
+                                Song Hye Kyo (송혜교) is one of South Korea's most iconic actresses and a defining face of the Hallyu wave. She rose to global fame with "Autumn in My Heart" (2000), "Full House" (2004), "Descendants of the Sun" (2016), "Encounter" (2018), and the smash hit "The Glory" (2022–2023), for which she won a Baeksang Best Actress award. With decades of hit K-dramas and films, she is a fashion icon and a staple of "best Korean drama actress" lists. Her Instagram (@kyo1122) features drama and film promotions, luxury and fashion content, and curated glimpses of her life, attracting nearly 18 million followers. Following Song Hye Kyo on Instagram is essential for anyone interested in classic and current Korean drama royalty.
                             </p>
                         </div>
 
                         <div class="content-section">
-                            <h3 style="color: #FF5733;">4. Jung Ho Yeon</h3>
+                            <h3 style="color: #FF5733;">4. Im Yoona</h3>
                             <br>
-                            <p class="image featured"><img src="article/assets/top-10-list/jung-ho-yeon.webp"
-                                    alt="Jung Ho Yeon" />
-                            </p>
+                            <p class="image featured"><img src="article/assets/top-10-list/im-yoon-ah.webp"
+                                    alt="Im Yoona" /></p>
                             <p>
-                                <b>Instagram Handle:</b> <a href="https://www.instagram.com/hoooooyeony"
-                                    target="_blank">@hoooooyeony</a><br>
-                                <b>Followers:</b> 18.6 million<br>
-                                <b>Korean Name:</b> 정호연<br>
-                                <b>Date of Birth:</b> June 23, 1994<br>
+                                <b>Instagram Handle:</b> <a href="https://www.instagram.com/yoona__lim"
+                                    target="_blank">@yoona__lim</a><br>
+                                <b>Followers:</b> 18.8 million<br>
+                                <b>Korean Name:</b> 임윤아<br>
+                                <b>Date of Birth:</b> May 30, 1990<br>
                                 <b>About:</b>
-                                Jung Ho Yeon rose to international fame with her role in "Squid Game." Her Instagram
-                                features her modeling work, acting projects, and personal adventures.
+                                Im Yoona (임윤아), known globally as Yoona of Girls' Generation (SNSD), is a top K-pop idol and a leading K-drama actress. She has starred in hit dramas such as "The K2" (2016), "Confidential Assignment" (2017), and the romantic comedy "King the Land" (2023) alongside Lee Junho. She has won multiple acting awards and is recognized for her versatility in both music and television. On Instagram (@yoona__lim), she shares SNSD activities, drama and film promotions, fashion content, and personal snapshots, making her one of the most followed Korean actresses on Instagram with over 18 million followers. Fans of K-drama and K-pop alike follow her for consistent, high-quality updates.
                             </p>
                         </div>
                         <div class="content-section">
@@ -269,16 +284,11 @@
                             <p>
                                 <b>Instagram Handle:</b> <a href="https://www.instagram.com/skuukzky"
                                     target="_blank">@skuukzky</a><br>
-                                <b>Followers:</b> 20.3 million<br>
+                                <b>Followers:</b> 21.3 million<br>
                                 <b>Korean Name:</b> 배수지<br>
                                 <b>Date of Birth:</b> October 10, 1994<br>
                                 <b>About:</b>
-                                Bae Suzy, often referred to as "The Nation’s First Love," is a former member of the girl
-                                group Miss A and a leading actress in K-dramas like "Vagabond" and "While You Were
-                                Sleeping." She is known for her beauty, versatility, and engagement with fans on
-                                Instagram, where she shares glimpses of her acting projects, music career, and daily
-                                life.
-                            </p>
+                                Bae Suzy (배수지), nicknamed "The Nation’s First Love," is a former Miss A member and one of South Korea's most beloved K-drama actresses. She gained fame with "Dream High" (2011), "Gu Family Book" (2013), "While You Were Sleeping" (2017), "Vagabond" (2019), and "Start-Up" (2020), and has won multiple Baeksang and other awards. She is also a successful solo singer. On Instagram (@skuukzky), she shares drama and music promotions, fashion and brand content, and candid daily life, keeping over 21 million followers engaged. She consistently ranks among the most followed Korean actresses on Instagram and is a top choice for fans of romantic and action K-dramas.</p>
                         </div>
 
                         <div class="content-ads">
@@ -301,14 +311,11 @@
                             <p>
                                 <b>Instagram Handle:</b> <a href="https://www.instagram.com/dlwlrma"
                                     target="_blank">@dlwlrma</a><br>
-                                <b>Followers:</b> 32.6 million<br>
+                                <b>Followers:</b> 33.2 million<br>
                                 <b>Korean Name:</b> 이지은<br>
                                 <b>Date of Birth:</b> May 16, 1993<br>
                                 <b>About:</b>
-                                Lee Ji Eun, popularly known as IU, is a multi-talented actress and singer. Known for her
-                                roles in "Moon Lovers: Scarlet Heart Ryeo" and "Hotel Del Luna," her Instagram is filled
-                                with a blend of music updates, acting behind-the-scenes, and personal life moments that
-                                her fans love to follow.
+                                Lee Ji Eun (이지은), known worldwide as IU, is one of South Korea's biggest stars—a chart-topping singer-songwriter and a critically acclaimed K-drama actress. She has starred in "Dream High" (2011), "Moon Lovers: Scarlet Heart Ryeo" (2016), "My Mister" (2018), "Hotel Del Luna" (2019), and "Broker" (2022), winning multiple Baeksang and other awards. Her music and acting careers keep her in the spotlight year-round. On Instagram (@dlwlrma), she shares music releases, drama and film updates, and personal moments, making her one of the most followed Korean actresses and musicians on Instagram with over 32 million followers. Following IU is a must for K-drama and K-pop fans alike.
                             </p>
                         </div>
 
@@ -316,22 +323,22 @@
                             <h3 style="color: #FF5733;">1. Kim Ji Soo</h3>
                             <br>
                             <p class="image featured"><img src="article/assets/top-10-list/jisoo.webp"
-                                    alt="Kim Ji So" /></p>
+                                    alt="Kim Ji Soo (Jisoo) - Most followed K-drama actress on Instagram - Blackpink and Snowdrop" /></p>
                             <p>
-                                <b>Instagram Handle:</b> <a href="https://www.instagram.com/sooyaaa"
+                                <b>Instagram Handle:</b> <a href="https://www.instagram.com/sooyaaa__/"
                                     target="_blank">@sooyaaa</a><br>
-                                <b>Followers:</b> 79.7 million<br>
-                                <b>Korean Name:</b> 김지소<br>
-                                <b>Date of Birth:</b> January 5, 1992<br>
+                                <b>Followers:</b> 80.6 million<br>
+                                <b>Korean Name:</b> 김지수 (Kim Ji Soo)<br>
+                                <b>Date of Birth:</b> January 3, 1995<br>
                                 <b>About:</b>
-                                Kim Ji Soo is currently the most followed K-drama actress on Instagram. She is a memeber
-                                of one of the most famous Kpop girl group BlackPink and also has gained
-                                immense popularity for her roles in K-Drama "Snowdrop". Her Instagram is a visual diary
-                                filled with photos from her glamorous
-                                photoshoots, acting roles, and personal experiences. Her strong performances and
-                                engaging personality have helped her create a large and loyal following, making her one
-                                of the most influential figures in Korean entertainment.
+                                Kim Ji Soo, known globally as Jisoo, is the most followed K-drama actress on Instagram and a member of the record-breaking K-pop group BLACKPINK. She made her acting debut in the JTBC drama "Snowdrop" (2021–2022), which drew massive viewership and cemented her status as a leading Hallyu star. As a BLACKPINK member, she has broken countless records in music and fashion. Her Instagram (@sooyaaa) features glamorous photoshoots, BLACKPINK updates, drama and brand content, and personal snapshots, with nearly 80 million followers—making her not only the top Korean actress on Instagram but one of the most followed celebrities in the world. Following Jisoo is essential for K-drama and K-pop fans who want to keep up with Korea's biggest stars.
                             </p>
+                        </div>
+
+                        <div class="intro-section" style="margin-top:2em;">
+                            <h3 style="color: #3c3b3b;">Why Follow These K-Drama Actresses on Instagram?</h3>
+                            <p>Following the most followed K-drama actresses on Instagram lets you stay updated on new dramas, film projects, and music releases, get behind-the-scenes content from your favorite shows, and enjoy fashion and lifestyle inspiration from South Korea's top stars. Many of these actresses also share brand partnerships, travel, and personal moments that you won't find elsewhere. Whether you're into romantic comedies, thrillers, or K-pop crossover stars, this list of the top 10 most followed Korean drama actresses on Instagram in 2026 has something for every fan. Bookmark their handles and turn on notifications so you never miss a post from your favorite K-drama queen.</p>
+                            <p>Looking for the most followed K-drama actors on Instagram too? Check out our <a href="/top-10-most-followed-kdrama-actors-on-instagram">Top 10 Most Followed K-Drama Actors on Instagram</a> for the male stars dominating social media. For more K-drama lists, news, and recommendations, stay tuned to Top2Ten Asia.</p>
                         </div>
                     </div>
 
@@ -347,7 +354,7 @@
                 <footer>
                     <ul class="stats">
                         <li><a href="#">Support us</a></li>
-                        <li><a href="https://www.paypal.me/harishpanwar1998" class="icon solid fa-heart">Paypal</a>
+                        <li><a href="https://www.paypal.me/harishpanwar1998" class="icon solid fa-heart">PayPal</a>
                         </li>
                         <i class="fab fa-google-pay"></i>
                         <li><a href="https://paytm.me/4-XO7RC" class="icon solid fa-heart">Paytm</a></li>

@@ -72,11 +72,11 @@
 									<!-- Mini Post -->
 										<article class="mini-post">
 											<header>
-												<h3><a href="Choi-min-hi-is-coming-with-his-new-drama-The Fabulous">Choi min hi is coming with his new drama &quot;The Fabulous&quot;</a></h3>
+												<h3><a href="Choi-min-hi-is-coming-with-his-new-drama-The-Fabulous">Choi min hi is coming with his new drama &quot;The Fabulous&quot;</a></h3>
 												<time class="published" datetime="2022-2-15">Feb 15, 2022</time>
 												<a href="#" class="author"><img src="images/avatar.jpg" alt="" /></a>
 											</header>
-											<a href="Choi-min-hi-is-coming-with-his-new-drama-The Fabulous" class="image"><img src="assets/The-Fabulous.webp" alt="" /></a>
+											<a href="Choi-min-hi-is-coming-with-his-new-drama-The-Fabulous" class="image"><img src="assets/The-Fabulous.webp" alt="" /></a>
 										</article>
 
 								</div>

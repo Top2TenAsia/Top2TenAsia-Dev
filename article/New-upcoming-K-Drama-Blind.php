@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/Blind.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/New-upcoming-K-Drama-Blind" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/New-upcoming-K-Drama-Blind" />
+		<link rel="canonical" href="/article/New-upcoming-K-Drama-Blind" />
 		<!-- Post Description -->
 		<meta property="og:description" content="ONC&#39;s upcoming kdrama &quot;BLIND&quot; confirms its main cast
 recently. &quot;Blind&quot; is going to be a thriller and mysterious

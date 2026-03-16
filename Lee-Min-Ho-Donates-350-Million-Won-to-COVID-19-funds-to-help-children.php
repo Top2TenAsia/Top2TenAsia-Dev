@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +21,7 @@
    <meta charset="UTF-8">
    <meta property="og:site_name" content="Top2Ten"/>
    <meta property="og:title" content="Lee Min Ho Donates 350 Million Won to COVID-19 funds to help children"/>
-<link rel="canonical" href="https://www.top2tenasia.xyz/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children" />
+<link rel="canonical" href="/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children" />
   <meta name="description" content="Lee Min Ho Donates 350 Million Won to COVID-19 funds to help children" />
 <meta name="keywords" content="The King: Eternal Monarch, lee min ho, the king korean drama, lee min ho new drama, the king lee min ho drama,The King: Eternal Monarch ratings,The King: Eternal Monarch breaks records, The King breaks sbs records, Lee min ho breaks SBS records,The King: Eternal Monarch Episode 8, The King: Eternal Monarch episode 8, minoz, boysoverflowers, theking, theheirs, thelegendofthebluesea, thelegendofbluesea, personaltaste, faith,leeminho, lmh, woobin, choiyoungdo, gujunpyo, cityhunter, kimtan, heojoonjae, thekingtheeternalmonarch, ss501, leejoonhyuk, leeyunsung, alwaysleeminho, alwaysandforever, leeminhoo, leeminhooppa, kdrama, koreandrama, 이민호#kimwoobin, 꽃보다남자">           
   <meta name="owner" content="Harish Panwar">
@@ -75,14 +75,14 @@ html {
   color: coral;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
 <?php include("header.php") ?>
-<center><img src="lee-min-ho.webp" class="img-thumbnail test" ></center>
+<center><img src="assets/lee-min-ho.webp" class="img-thumbnail test" ></center>
   <center><h1>Lee Min Ho Donates 350 Million Won to COVID-19 funds to help children</h1></center>  
 
 <div class="container">
@@ -111,24 +111,24 @@ html {
 <hr><br>
 <br>
 <h3>As we all know the world is in great danger due to the coronavirus pandemic. Many peoples all around the world had lost there life and almost everyone in the world is being effected by it. South Korea is not an exception, the cases are rising very fast and there is no sign for them to slow down soon. Many celebrities in South Korea have supported the people in need by making numerous donations to fight against the virus outbreak. One of the name that stands out in the huge list is our lovely korean hallyu star<a href="https://en.wikipedia.org/wiki/Lee_Min-ho_(actor)" target="blank">"Lee Min Ho"</a>.<br><br>
-  <center><img src="min-ho.webp" class="img-thumbnail test" ></center><br>
+  <center><img src="assets/min-ho.webp" class="img-thumbnail test" ></center><br>
 <span style="color:red">"Lee Min HO"</span> Donates 350 Million Won ($286,145). He donates the money to eight diffrent organisations. The Donated money will help the children with families living in poverty or orphans who needs medical facilities and precautionary help. The organisations that recieves the donations are Good Neighbors, Save the Children, Fruit of Love, Love Bridge, Green Umbrella, and three other associations which are related to children's welfare.
   <br><br>
 <center>
  <h2><span style="color:coral">other popular korean celebrities than donated to the Covid funds</span></h2><br><br>
 
   
-   <center><img src="IU.webp" class="img-thumbnail test" ></center><br>
+   <center><img src="assets/IU.webp" class="img-thumbnail test" ></center><br>
 <h3>One of the most famous and well known KPOP idol and Korean Drama actress IU  donated 100 Million Won which is approximately equals to $81,756 to the COVID-19 funds and not only that she also donated 3,000 anti-contamination suits to the Korean Medical Association to keep the corona virus fighters safe from the virus.<br></h3>
  
- <center><img src="suga.webp" class="img-thumbnail test" ></center><br>
+ <center><img src="assets/suga.webp" class="img-thumbnail test" ></center><br>
 <h3>If you ever listen the word then you must the world largest biggest band know as BTS which is a KPOP Band. One of the member of The BTS name Suga (stage name) who is a rapper donates 100 Million Won which is approximately equals to $81,756. He donated the money to help his hometown city known as Daegu to fight and recover from this virus outbreak</h3><br>
 
- <center><img src="ki.webp" class="img-thumbnail test" ></center><br>
+ <center><img src="assets/ki.webp" class="img-thumbnail test" ></center><br>
  <h3>One of the most famous hallyu star and well known korean actor all around the world song joong ki (Popularly known for his drama Descendents of the sun) donated 100 million Won which is approximately equal to $81,756 in coronavirus pandemic fund.<br></h3>
 
 
- <center><img src="suzy.webp" class="img-thumbnail test" ></center><br>
+ <center><img src="assets/suzy.webp" class="img-thumbnail test" ></center><br>
  </center>
  <h3>The well known korean drama actress Bae Suzy Populary know as Miss A in korean drama world also donated 100 Million Won which is approximately equals to $81,756 to help people to fight and recover from coronavirus.<br>
 
@@ -148,7 +148,7 @@ html {
     
     <div class="col-md-5">
         <a href="top-10-best-korean-drama-of-the-decade">
-      <img src="k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
+      <img src="assets/k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
             </a>
             </div>
             <div class="col-md-7">

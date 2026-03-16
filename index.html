@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>TRPGame</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles.css"></head>
+<body>
+  <app-root></app-root>
+  <script>
+    var query = location.href.split('?')[1];
+    var params = query ? query.split('&') : [];
+    var data = {};
+    for (var x = 0; x < params.length; x++) {
+      var pair = params[x].split('=');
+      if (pair[0]) data[decodeURIComponent(pair[0])] = pair[1] ? decodeURIComponent(pair[1]) : '';
+    }
+    console.log("the data is", data);
+  </script>
+<script src="runtime.js" defer></script><script src="polyfills.js" defer></script><script src="vendor.js" defer></script><script src="main.js" defer></script></body>
+</html>

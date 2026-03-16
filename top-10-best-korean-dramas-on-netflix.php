@@ -30,7 +30,7 @@ lovers who prefer Netflix to enjoy their loving dramas. Here we
 have top 10 k-dramas aired on Netflix." />
 <meta property="og:url" content="https://www.top2tenasia.xyz/top-10-best-korean-dramas-on-netflix" />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/2018.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/top-10-best-korean-dramas-on-netflix" />
+<link rel="canonical" href="/top-10-best-korean-dramas-on-netflix" />
   <meta name="description" content="If we talk about today’s era, then we can call it an era own by
 OTT platforms. Recently Netflix is one of the most popular
 platforms among the audience. Netflix is famous for
@@ -86,9 +86,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -109,7 +109,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2><br>
 <p  style="float:left"><i class="fa fa-clock-o"></i>5:00 PM 14 Jun, 2021</p>
-
+<?php $article_slug = 'top-10-best-korean-dramas-on-netflix'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 

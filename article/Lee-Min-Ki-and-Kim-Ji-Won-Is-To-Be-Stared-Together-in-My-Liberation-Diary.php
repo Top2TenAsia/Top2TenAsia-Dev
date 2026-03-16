@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/My-Liberation-Diary.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/Lee-Min-Ki-and-Kim-Ji-Won-Is-To-Be-Stared-Together-in-My-Liberation-Diary" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/Lee-Min-Ki-and-Kim-Ji-Won-Is-To-Be-Stared-Together-in-My-Liberation-Diary" />
+		<link rel="canonical" href="/Lee-Min-Ki-and-Kim-Ji-Won-Is-To-Be-Stared-Together-in-My-Liberation-Diary" />
 		<!-- Post Description -->
 		<meta property="og:description" content="After working in many great dramas like “fight for my
 way” ,”descendant of the sun” and “lovestruck in the city”,

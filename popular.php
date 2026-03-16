@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,7 +19,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <link rel="canonical" href="https://www.top2tenasia.xyz/popular.php" />
+  <link rel="canonical" href="/popular.php" />
    <meta name="description" content="Top2Ten provides you the top ten list of persons, places, or items in a group or category in the World. The Top2Ten list is not based on personal opinion but on deep search results, public opinion, facts, and figures.">
   <meta name="keywords" content="top2ten,TOP2TENT,Top2ten,the top 10,,toptoten,TOP2TONTop2ten,TopToTen,top 10 list,top 10 lists,top 10 websites, top 10 websites list, top 10 website list">
   <meta name="Owner" content="Harish Panwar">
@@ -29,30 +29,29 @@
       font-family:Times new roman;
   }
   h3{
-      font-family:none;
+      font-family: inherit;
       font-size:18px;
   }
  @media only screen and (max-width: 600px) {
      h2{
          font-size:20px;
      }
-
   h3 {
       font-size:17px;
-       font-family:times new roman;
+      font-family: "Times New Roman", serif;
   }
-  body{
-position:sticky;
 }
+body{
+  position:sticky;
 }
 .row:hover{
     box-shadow: 0 2rem 6rem 0.5rem rgba(101, 90, 86, 0.2);
 
 }
 </style>
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -77,12 +76,12 @@ position:sticky;
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/Song-Joong-Ki-Is-Back-On-Big-Screen-With-A-New-Science-Fiction-Movie">
-<img src="bigboss.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/Song-Joong-Ki-Is-Back-On-Big-Screen-With-A-New-Science-Fiction-Movie">
+<img src="assets/bigboss.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/Song-Joong-Ki-Is-Back-On-Big-Screen-With-A-New-Science-Fiction-Movie">
+<a href="/Song-Joong-Ki-Is-Back-On-Big-Screen-With-A-New-Science-Fiction-Movie">
 <h2>
 Song Joong Ki Is Back On Big Screen With A New Science Fiction Movie [Top2Ten]</h2>
 </a>
@@ -92,12 +91,12 @@ Song Joong Ki Is Back On Big Screen With A New Science Fiction Movie [Top2Ten]</
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/Ju-Ji-Hoon-is-confirmed-to-pair-up-with-Jun-Ji-Hyun-in-new-K-Drama">
-<img src="mountjiri.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/Ju-Ji-Hoon-is-confirmed-to-pair-up-with-Jun-Ji-Hyun-in-new-K-Drama">
+<img src="assets/mountjiri.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/Ju-Ji-Hoon-is-confirmed-to-pair-up-with-Jun-Ji-Hyun-in-new-K-Drama">
+<a href="/Ju-Ji-Hoon-is-confirmed-to-pair-up-with-Jun-Ji-Hyun-in-new-K-Drama">
 <h2>
 Ju Ji Hoon is confirmed to pair up with Jun Ji Hyun in new K-Drama [Top2Ten]</h2>
 </a>
@@ -107,12 +106,12 @@ Ju Ji Hoon is confirmed to pair up with Jun Ji Hyun in new K-Drama [Top2Ten]</h2
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/IU-is-pairing-up-with-Park-Seo-Joon-for-a-new-movie">
-<img src="dream.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/IU-is-pairing-up-with-Park-Seo-Joon-for-a-new-movie">
+<img src="assets/dream.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/IU-is-pairing-up-with-Park-Seo-Joon-for-a-new-movie">
+<a href="/IU-is-pairing-up-with-Park-Seo-Joon-for-a-new-movie">
 <h2>
 IU is pairing up with Park Seo Joon for a new movie [Top2Ten]</h2>
 </a>
@@ -122,12 +121,12 @@ IU is pairing up with Park Seo Joon for a new movie [Top2Ten]</h2>
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/Episode-10-of-The-King-Eternal-Monarch-makes-the-viewers-cry-hard">
-<img src="leelim.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/Episode-10-of-The-King-Eternal-Monarch-makes-the-viewers-cry-hard">
+<img src="assets/leelim.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/Episode-10-of-The-King-Eternal-Monarch-makes-the-viewers-cry-hard">
+<a href="/Episode-10-of-The-King-Eternal-Monarch-makes-the-viewers-cry-hard">
 <h2>
 Episode 10 of The King: Eternal Monarch makes the viewers cry hard [Top2Ten]</h2>
 </a>
@@ -137,12 +136,12 @@ Episode 10 of The King: Eternal Monarch makes the viewers cry hard [Top2Ten]</h2
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/The-World-Of-Married-Ends-With-The-Title-Of-Highest-Rated-Korean-Drama-On-Cable-Tv-Ever">
-<img src="finishm.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/The-World-Of-Married-Ends-With-The-Title-Of-Highest-Rated-Korean-Drama-On-Cable-Tv-Ever">
+<img src="assets/finishm.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/The-World-Of-Married-Ends-With-The-Title-Of-Highest-Rated-Korean-Drama-On-Cable-Tv-Ever">
+<a href="/The-World-Of-Married-Ends-With-The-Title-Of-Highest-Rated-Korean-Drama-On-Cable-Tv-Ever">
 <h2>
 The World Of Married Ends With The Title Of Highest Rated Korean Drama On Cable Tv Ever [Top2Ten]</h2>
 </a>
@@ -152,12 +151,12 @@ The World Of Married Ends With The Title Of Highest Rated Korean Drama On Cable 
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/The-Episode-9-of-The-King-Eternal-Monarch-is-giving-goosebumps-to-the-viewers">
-<img src="king8.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/The-Episode-9-of-The-King-Eternal-Monarch-is-giving-goosebumps-to-the-viewers">
+<img src="assets/king8.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/The-Episode-9-of-The-King-Eternal-Monarch-is-giving-goosebumps-to-the-viewers">
+<a href="/The-Episode-9-of-The-King-Eternal-Monarch-is-giving-goosebumps-to-the-viewers">
 <h2>
 The Episode 9 of The King: Eternal Monarch is giving goosebumps to the viewers [Top2Ten]</h2>
 </a>
@@ -167,12 +166,12 @@ The Episode 9 of The King: Eternal Monarch is giving goosebumps to the viewers [
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
-<img src="min-ho.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
+<img src="assets/min-ho.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
+<a href="/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
 <h2>
 Lee Min Ho Donates 350 Million Won to COVID-19 funds to help children</h2>
 </a>
@@ -182,12 +181,12 @@ Lee Min Ho Donates 350 Million Won to COVID-19 funds to help children</h2>
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/The-World-Of-The-Married-Breaks-It's-Own-Record-Of-All-Time-Highest-Ratings-With-Episode-14">
-<img src="world-married.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/The-World-Of-The-Married-Breaks-It's-Own-Record-Of-All-Time-Highest-Ratings-With-Episode-14">
+<img src="assets/world-married.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/The-World-Of-The-Married-Breaks-It's-Own-Record-Of-All-Time-Highest-Ratings-With-Episode-14">
+<a href="/The-World-Of-The-Married-Breaks-It's-Own-Record-Of-All-Time-Highest-Ratings-With-Episode-14">
 <h2>
 The World Of The Married breaks it's own record of all time highest rating drama [Top2Ten]</h2>
 </a>
@@ -197,12 +196,12 @@ The World Of The Married breaks it's own record of all time highest rating drama
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/The-Episode-8-of-The-King-Eternal-Monarch-is-loved-worldwide-by-viewers-despite-having-lowest-ratings-in-home">
-<img src="lee-gon.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/The-Episode-8-of-The-King-Eternal-Monarch-is-loved-worldwide-by-viewers-despite-having-lowest-ratings-in-home">
+<img src="assets/lee-gon.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/The-Episode-8-of-The-King-Eternal-Monarch-is-loved-worldwide-by-viewers-despite-having-lowest-ratings-in-home">
+<a href="/The-Episode-8-of-The-King-Eternal-Monarch-is-loved-worldwide-by-viewers-despite-having-lowest-ratings-in-home">
 <h2>
 The episode 8 of The King: Eternal Monarch is being loved by International fans [Top2Ten]</h2>
 </a>
@@ -212,12 +211,12 @@ The episode 8 of The King: Eternal Monarch is being loved by International fans 
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/Yang-Yang-and-Zheng-Shuang-are-going-to-be-together-in-their-new-drama">
-<img src="loveo20.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/Yang-Yang-and-Zheng-Shuang-are-going-to-be-together-in-their-new-drama">
+<img src="assets/loveo20.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/Yang-Yang-and-Zheng-Shuang-are-going-to-be-together-in-their-new-drama">
+<a href="/Yang-Yang-and-Zheng-Shuang-are-going-to-be-together-in-their-new-drama">
 <h2>
 Yang Yang and Zhen Shuang is coming together once again in their new drama[Top2Ten]</h2>
 </a>
@@ -227,12 +226,12 @@ Yang Yang and Zhen Shuang is coming together once again in their new drama[Top2T
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/The-World-Of-The-Married-Breaks-All-Records-And-Become-The-Most-High-Rated-Drama-Of-All-Time">
-<img src="married.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/The-World-Of-The-Married-Breaks-All-Records-And-Become-The-Most-High-Rated-Drama-Of-All-Time">
+<img src="assets/married.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/The-World-Of-The-Married-Breaks-All-Records-And-Become-The-Most-High-Rated-Drama-Of-All-Time">
+<a href="/The-World-Of-The-Married-Breaks-All-Records-And-Become-The-Most-High-Rated-Drama-Of-All-Time">
 <h2>
 The World Of The Married becomes highest rated drama of all time[Top2Ten]</h2>
 </a>
@@ -242,12 +241,12 @@ The World Of The Married becomes highest rated drama of all time[Top2Ten]</h2>
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
-<img src="flower.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
+<img src="assets/flower.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
+<a href="/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
 <h2>
 Lee Joon Gi Is Back With His New Upcoming tvN Thriller Drama [Top2Ten]</h2>
 </a>
@@ -258,12 +257,12 @@ Lee Joon Gi Is Back With His New Upcoming tvN Thriller Drama [Top2Ten]</h2>
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/Nam-Joo-Hyuk-and-Bae-Suzy-will-be-together-in-the-TVN's-new-upcoming-drama-Start-Up">
-<img src="head.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<a href="/Nam-Joo-Hyuk-and-Bae-Suzy-will-be-together-in-the-TVN's-new-upcoming-drama-Start-Up">
+<img src="assets/head.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/Nam-Joo-Hyuk-and-Bae-Suzy-will-be-together-in-the-TVN's-new-upcoming-drama-Start-Up">
+<a href="/Nam-Joo-Hyuk-and-Bae-Suzy-will-be-together-in-the-TVN's-new-upcoming-drama-Start-Up">
 <h2>
 Nam-Joo-Hyuk and-Bae Suzy will be together in the TVN's new upcoming drama Start-Up [Top2Ten]</h2>
 </a>

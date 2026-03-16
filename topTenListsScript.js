@@ -1,5 +1,13 @@
 var IndexPageNo = 1;
 var jsonData;
+var BASE_PATH = (typeof window.BASE_PATH !== 'undefined' && window.BASE_PATH) ? window.BASE_PATH : '';
+function applyBasePath(url) {
+  if (!BASE_PATH) return url;
+  if (url.indexOf('/') === 0) return BASE_PATH + url;
+  if (url.indexOf('https://www.top2tenasia.xyz') === 0) return BASE_PATH + url.replace('https://www.top2tenasia.xyz', '');
+  if (url.indexOf('http://www.top2tenasia.xyz') === 0) return BASE_PATH + url.replace('http://www.top2tenasia.xyz', '');
+  return url;
+}
 
 //Fetch Main article code
 fetch_articles();
@@ -14,7 +22,7 @@ function fetch_articles() {
     .then((json) => {
         if(!jsonData)
         jsonData = json;
-        if(json[page].articles.length!= null){
+        if(json[page] && json[page].articles && json[page].articles.length > 0){
         let element = document.getElementById("main");
         element.innerHTML = "";
       for (
@@ -22,22 +30,25 @@ function fetch_articles() {
         noOfArticles < json[page].articles.length;
         noOfArticles++
       ) {
+        var link = applyBasePath(json[page].articles[noOfArticles].link);
+        var postImg = applyBasePath(json[page].articles[noOfArticles].postImage);
         element.innerHTML +=
           '<article class="post">' +
           "<header>" +
           '<div class="title">' +
-          '<h2><a href="'+json[page].articles[noOfArticles].link+'">'+json[page].articles[noOfArticles].title+'</a></h2>' +
+          '<h2><a href="'+link+'">'+json[page].articles[noOfArticles].title+'</a></h2>' +
           "</div>" +
           '<div class="meta">' +
           '<time class="published" datetime="2015-11-01">'+json[page].articles[noOfArticles].date+'</time>' +
           '<a href="#" class="author"><span class="name">'+json[page].articles[noOfArticles].author+'</span><img src="article/images/avatar.jpg" alt="" /></a>' +
           "</div>" +
           "</header>" +
-          '<a href="'+json[page].articles[noOfArticles].link+'" class="image featured"><img src="'+json[page].articles[noOfArticles].postImage+ '" alt="" /></a>' +
+          '<a href="'+link+'" class="image featured"><img src="'+postImg+ '" alt="" /></a>' +
           "<footer>" +
           '<ul class="actions">' +
-          '<li><a href="'+json[page].articles[noOfArticles].link+'" class="button large">Continue Reading</a></li>' +
+          '<li><a href="'+link+'" class="button small">Continue Reading</a></li>' +
           "</ul>" +
+          '<span class="card-author">'+json[page].articles[noOfArticles].author+'</span>' +
           '<ul class="stats">' +
           '<li><a href="#">'+json[page].articles[noOfArticles].category+'</a></li>' +
           "</ul>" +

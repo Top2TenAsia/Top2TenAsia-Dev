@@ -26,8 +26,8 @@ together after overcoming a series of obstacles. There are many thriller Korean 
 with enthralling storylines that will have you glued to the screen. If you’re up for some suspense-
 filled dramas here are 10 thriller Korean dramas you need to have on your must-watch list." />
 <meta property="og:url" content="https://www.top2tenasia.xyz/top-10-best-thriller-korean-dramas" />
-<meta property="og:image" content="https://www.top2tenasia.xyz/thriller.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/top-10-best-thriller-korean-dramas" />
+<meta property="og:image" content="https://www.top2tenasia.xyz/assets/thriller.webp" />
+<link rel="canonical" href="/top-10-best-thriller-korean-dramas" />
   <meta name="description" content="Korean dramas are not all about romances where the perfect-looking leads ultimately end up
 together after overcoming a series of obstacles. There are many thriller Korean dramas out there
 with enthralling storylines that will have you glued to the screen. If you’re up for some suspense-
@@ -80,9 +80,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -103,7 +103,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2><br>
 <p  style="float:left"><i class="fa fa-clock-o"></i> 5:00 PM 6 Jun, 2021</p>
-
+<?php $article_slug = 'top-10-best-thriller-korean-dramas'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 
@@ -162,7 +162,7 @@ young men try to save her.
      <div class="row" id="2017">
     <h2>&nbsp; &nbsp;9. City Hunter (2011) </h2>
 <div class="col-md-7">
-      <img src="city.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/city.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -411,7 +411,7 @@ the prosecutor’s office and solve a serial murder case.
     <div class="row" id="2015">       
      <h2>&nbsp; &nbsp;2. Signal(2016)  </h2>
 <div class="col-md-7">
-      <img src="signal.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/signal.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -452,7 +452,7 @@ Yeong, Jae Han and Cha So Hyun then set out on a journey to solve cold cases.
     <div class="row" id="2015">   
      <h2>&nbsp; &nbsp;1. Flower of evil(2020) </h2>
 <div class="col-md-7">
-      <img src="evil-flower.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/evil-flower.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>

@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,7 +29,7 @@ also prepares for better results every time."/>
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/bts5.webp" />
 <meta property="og:site_name" content="Top2Ten Asia"/>
   
-<link rel="canonical" href="https://www.top2tenasia.xyz/BTS-ROCKS-AGAIN-BY-BREAKING-5-GUINESS-WORLD-RECORDS" />
+<link rel="canonical" href="/BTS-ROCKS-AGAIN-BY-BREAKING-5-GUINESS-WORLD-RECORDS" />
   <meta name="description" content="Here BTS have great surprise for all army out there. Finally
 BTS’s hard work and their dedication set another records in front
 of the world. Day by day they are achieving great success and
@@ -106,9 +106,9 @@ hr{
 }
 
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -213,7 +213,7 @@ at Billboard Music Awards 2021,also took trophy at home.<br>
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

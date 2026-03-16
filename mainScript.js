@@ -1,5 +1,13 @@
 var IndexPageNo = 1;
 var jsonData;
+var BASE_PATH = (typeof window.BASE_PATH !== 'undefined' && window.BASE_PATH) ? window.BASE_PATH : '';
+function applyBasePath(url) {
+  if (!BASE_PATH) return url;
+  if (url.indexOf('/') === 0) return BASE_PATH + url;
+  if (url.indexOf('https://www.top2tenasia.xyz') === 0) return BASE_PATH + url.replace('https://www.top2tenasia.xyz', '');
+  if (url.indexOf('http://www.top2tenasia.xyz') === 0) return BASE_PATH + url.replace('http://www.top2tenasia.xyz', '');
+  return url;
+}
 
 //Fetch Main article code
 fetch_articles();
@@ -13,7 +21,7 @@ function fetch_articles() {
     .then((response) => response.json())
     .then((json) => {
       if (!jsonData) jsonData = json;
-      if (json[page].articles.length != null) {
+      if (json[page] && json[page].articles && json[page].articles.length > 0) {
         let element = document.getElementById("main");
         element.innerHTML = "";
         for (
@@ -21,12 +29,14 @@ function fetch_articles() {
           noOfArticles < json[page].articles.length;
           noOfArticles++
         ) {
+          var link = applyBasePath(json[page].articles[noOfArticles].link);
+          var postImg = applyBasePath(json[page].articles[noOfArticles].postImage);
           element.innerHTML +=
             '<article class="post">' +
             "<header>" +
             '<div class="title">' +
             '<h2><a href="' +
-            json[page].articles[noOfArticles].link +
+            link +
             '">' +
             json[page].articles[noOfArticles].title +
             "</a></h2>" +
@@ -41,14 +51,14 @@ function fetch_articles() {
             "</div>" +
             "</header>" +
             '<a href="' +
-            json[page].articles[noOfArticles].link +
+            link +
             '" class="image featured"><img src="' +
-            json[page].articles[noOfArticles].postImage +
+            postImg +
             '" alt="" /></a>' +
             "<footer>" +
             '<ul class="actions">' +
             '<li><a href="' +
-            json[page].articles[noOfArticles].link +
+            link +
             '" class="button large">Continue Reading</a></li>' +
             "</ul>" +
             '<ul class="stats">' +
@@ -102,18 +112,20 @@ function fetch_trending_articles() {
     .then((response) => response.json())
     .then((json) => {
       console.log(json[1].articles);
-      if (json[1].articles.length != null) {
+      if (json[1] && json[1].articles && json[1].articles.length > 0) {
         let trendingElement = document.querySelector(".mini-posts");
         for (
           let noOfTArticles = 0;
           noOfTArticles < json[1].articles.length;
           noOfTArticles++
         ) {
+          var tLink = applyBasePath(json[1].articles[noOfTArticles].link);
+          var tImg = applyBasePath(json[1].articles[noOfTArticles].postImage);
           trendingElement.innerHTML +=
             '<article class="mini-post">' +
             "<header>" +
             '<h3><a href="' +
-            json[1].articles[noOfTArticles].link +
+            tLink +
             '">' +
             json[1].articles[noOfTArticles].title +
             "</a></h3>" +
@@ -123,9 +135,9 @@ function fetch_trending_articles() {
             '<a href="#" class="author"><img src="article/images/avatar.jpg" alt="" /></a>' +
             "</header>" +
             '<a href="' +
-            json[1].articles[noOfTArticles].link +
+            tLink +
             '" class="image"><img src="' +
-            json[1].articles[noOfTArticles].postImage +
+            tImg +
             '" alt="" /></a>' +
             "</article>";
         }
@@ -139,19 +151,21 @@ function fetch_topten_articles() {
     .then((response) => response.json())
     .then((json) => {
       console.log(json[1].articles);
-      if (json[1].articles.length != null) {
+      if (json[1] && json[1].articles && json[1].articles.length > 0) {
         let topElement = document.querySelector(".posts");
         for (
           let noOfTArticles = 0;
           noOfTArticles < json[1].articles.length;
           noOfTArticles++
         ) {
+          var pLink = applyBasePath(json[1].articles[noOfTArticles].link);
+          var pImg = applyBasePath(json[1].articles[noOfTArticles].postImage);
           topElement.innerHTML +=
             "<li>" +
             "<article>" +
             "<header>" +
             '<h3><a href="' +
-            json[1].articles[noOfTArticles].link +
+            pLink +
             '">' +
             json[1].articles[noOfTArticles].title +
             "</a></h3>" +
@@ -160,9 +174,9 @@ function fetch_topten_articles() {
             "</time>" +
             "</header>" +
             '<a href="' +
-            json[1].articles[noOfTArticles].link +
+            pLink +
             '" class="image"><img src="' +
-            json[1].articles[noOfTArticles].postImage +
+            pImg +
             '" alt="" /></a>' +
             "</article>" +
             "</li>";

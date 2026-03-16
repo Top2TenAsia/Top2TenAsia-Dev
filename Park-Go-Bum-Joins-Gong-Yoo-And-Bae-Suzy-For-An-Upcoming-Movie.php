@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +21,7 @@
 <meta charset="UTF-8">
 <meta property="og:site_name" content="Top2Ten Asia" />
 <meta property="og:title" content="Park Bo-Gum Joins Gong Yoo And Bae Suzy For An Upcoming Movie" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Park-Go-Bum-Joins-Gong-Yoo-And-Bae-Suzy-For-An-Upcoming-Movie" />
+<link rel="canonical" href="/Park-Go-Bum-Joins-Gong-Yoo-And-Bae-Suzy-For-An-Upcoming-Movie" />
 <meta name="description" content="Park Bo-Gum Joins Gong Yoo And Bae Suzy For An Upcoming Movie" />
 <meta name="keywords" content="Park Go Bum, Goong Yoo, Bae Suzy, Wonderland, new movie">
 <meta name="owner" content="Harish Panwar">
@@ -93,9 +93,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -105,7 +105,7 @@ html {
 <div class="row">
 <div class="col-md-8">
 <center style="background-color: coral;margin-top:-2.6ex;"><p id="demo" style="color: white;font-size: 25px;"></p></center>
-<center><img src="wonderland.webp" class="img-thumbnail test"></center>
+<center><img src="assets/wonderland.webp" class="img-thumbnail test"></center>
 <center><h1>Park Bo-Gum Joins Gong Yoo And Bae Suzy For An Upcoming Movie</h1></center>
 <h2 style="text-align:center;color: orange">
 <span class="fa fa-star checked"></span>
@@ -196,12 +196,12 @@ There will be two more characters, <a href="https://en.wikipedia.org/wiki/Jung_Y
 <h2>Popular Posts</h2>
 <div class="row" style="margin-top:2.5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">
-<img src="k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+<a href="/top-10-best-korean-drama-of-the-decade">
+<img src="assets/k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">
+<a href="/top-10-best-korean-drama-of-the-decade">
 <h2>
 Top 10 best Korean drama of decade</h2>
 </a>
@@ -210,12 +210,12 @@ Top 10 best Korean drama of decade</h2>
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/best-korean-drama-from-each-year">
-<img src="king.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+<a href="/best-korean-drama-from-each-year">
+<img src="assets/king.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/best-korean-drama-from-each-year">
+<a href="/best-korean-drama-from-each-year">
 <h2>
 Best korean drama from each year</h2>
 </a>
@@ -225,12 +225,12 @@ Best korean drama from each year</h2>
 </div>
 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
-<a href="https://www.top2tenasia.xyz/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
-<img src="min-ho.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+<a href="/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
+<img src="assets/min-ho.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
 </a>
 </div>
 <div class="col-md-7">
-<a href="https://www.top2tenasia.xyz/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
+<a href="/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
 <h2>
 Lee Min Ho Donates 350 Million Won to COVID-19 funds to help children</h2>
 </a>

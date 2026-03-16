@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/Morning-Comes-to-Psychiatric-Wards-Too.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Yeon-Woo-Jin-And-Park-Bo-Young-Are-In-Talks-To-Join-Upcoming-Drama" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Yeon-Woo-Jin-And-Park-Bo-Young-Are-In-Talks-To-Join-Upcoming-Drama" />
+		<link rel="canonical" href="/article/Yeon-Woo-Jin-And-Park-Bo-Young-Are-In-Talks-To-Join-Upcoming-Drama" />
 		<!-- Post Description -->
 		<meta property="og:description" content="Netflix's new upcoming drama “Morning Comes to Psychiatric Wards
         Too” is in talks to star Yeon Woo Jin and Park Bo Young as their main

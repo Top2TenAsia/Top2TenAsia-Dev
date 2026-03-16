@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -35,7 +35,7 @@ among the audience.
 Currently Kim Woo Bin In Talks for a New Netflix Original Drama
 Series “Delivery Knight”" />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/Is-Lee-Min-Ho-Dating-Yeonwoo.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Is-Lee-Min-Ho-Dating-Yeonwoo" />
+<link rel="canonical" href="/Is-Lee-Min-Ho-Dating-Yeonwoo" />
   <meta name="description" content="Kim Woo-bin is a handsome and talented South Korean
   model and actor. He is very famous for his acting skills in
   many dramas like “The Heris” which gave him great
@@ -120,9 +120,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>

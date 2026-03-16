@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -35,7 +35,7 @@ dramas and his recent drama was &quot;Lovestruck in the city&quot;
 which was amazingly loved by the audience and they hope his
 upcoming drama is even more amazing than his previous one." />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/TELL-ME-YOUR-WISH.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Choi-Sooyoung-And-Ji-Chang-Wook-Are-In-Talks-To-Star-In-New-Upcoming-Drama-TELL-ME-YOUR-WISH" />
+<link rel="canonical" href="/Choi-Sooyoung-And-Ji-Chang-Wook-Are-In-Talks-To-Star-In-New-Upcoming-Drama-TELL-ME-YOUR-WISH" />
   <meta name="description" content="According to recent sources it was spotted that our lovely Choi
   Sooyoung and Ji Chang wook are in talks to star opposite to
   each other in the upcoming drama &quot;TELL ME YOUR WISH&quot;. Of
@@ -122,9 +122,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>

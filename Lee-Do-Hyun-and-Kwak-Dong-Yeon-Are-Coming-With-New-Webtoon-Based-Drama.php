@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,7 +30,7 @@ upcoming drama. " />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/dodong.webp" />
 <meta property="og:site_name" content="Top2Ten Asia"/>
   
-<link rel="canonical" href="https://www.top2tenasia.xyz/Lee-Do-Hyun-and-Kwak-Dong-Yeon-Are-Coming-With-New-Webtoon-Based-Drama" />
+<link rel="canonical" href="/Lee-Do-Hyun-and-Kwak-Dong-Yeon-Are-Coming-With-New-Webtoon-Based-Drama" />
   <meta name="description" content="According to sources actor lee do hyun who is currently
 shining in his ongoing show “YOUTH OF MAY” and actor kwak
 dong yeon who has been seen in many dramas like “MY
@@ -108,9 +108,9 @@ html {
 }
 
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -176,7 +176,7 @@ Currently both actors are engaged in their current projects, stay tunned
 for more updates.
 
 </h3>
-<h3>Also, Recently park min young and song kang are in massive talks to see together for their upcoming drama <a href="https://www.top2tenasia.xyz/Park-Min-Young-and-Song-KANG-New-Upcoming-Office-Romance-Drama">“Office Romance Cruelty”.</a>
+<h3>Also, Recently park min young and song kang are in massive talks to see together for their upcoming drama <a href="/Park-Min-Young-and-Song-KANG-New-Upcoming-Office-Romance-Drama">“Office Romance Cruelty”.</a>
 </h3>
 <br>
 <hr>
@@ -196,7 +196,7 @@ for more updates.
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

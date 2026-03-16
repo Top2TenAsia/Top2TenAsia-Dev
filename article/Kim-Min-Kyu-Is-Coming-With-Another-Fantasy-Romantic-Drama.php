@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/High-Priest-Rembrary.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Kim-Min-Kyu-Is-Coming-With-Another-Fantasy-Romantic-Drama" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Kim-Min-Kyu-Is-Coming-With-Another-Fantasy-Romantic-Drama" />
+		<link rel="canonical" href="/article/Kim-Min-Kyu-Is-Coming-With-Another-Fantasy-Romantic-Drama" />
 		<!-- Post Description -->
 		<meta property="og:description" content="Kim Min Kyu had recently gained a lot of attention through his
         excellent looks and amazing acting in his last drama Business

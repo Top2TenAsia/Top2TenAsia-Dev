@@ -28,8 +28,8 @@ get attracted to k-drama world. Here we have some of the
 2020 k-dramas which attracted large number of viewers
 and the craze of k-dramas went on another level." />
 <meta property="og:url" content="https://www.top2tenasia.xyz/top-10-best-korean-dramas-of-2020" />
-<meta property="og:image" content="https://www.top2tenasia.xyz/thriller.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/top-10-best-korean-dramas-of-2020" />
+<meta property="og:image" content="https://www.top2tenasia.xyz/assets/thriller.webp" />
+<link rel="canonical" href="/top-10-best-korean-dramas-of-2020" />
   <meta name="description" content="2020 was the year when we were helpless and totally
 stayed at home and had plenty of free time in our hands.
 This year was the year when many new viewers started to
@@ -84,9 +84,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -107,7 +107,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2><br>
 <p  style="float:left"><i class="fa fa-clock-o"></i> 5:00 PM 9 Jun, 2021</p>
-
+<?php $article_slug = 'top-10-best-korean-dramas-of-2020'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 
@@ -431,7 +431,7 @@ Total episodes: 16<br><br>
     <div class="row" id="2015">   
      <h2>&nbsp; &nbsp;1. Flower of evil </h2>
 <div class="col-md-7">
-      <img src="evil-flower.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/evil-flower.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>

@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <link rel="canonical" href="https://www.top2tenasia.xyz/" />
+  <link rel="canonical" href="/" />
   <link rel="stylesheet" href="article/assets/css/main.css" />
   <script src="type.js"></script>
    <meta name="description" content="Top2Ten Asia posts Top 10 list Updates & Trending news on K-drama, J-Drama, K-pop, J-pop">

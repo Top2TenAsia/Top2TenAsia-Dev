@@ -20,7 +20,7 @@
   
    <meta property="og:site_name" content="Top2Ten"/>
    <meta property="og:title" content="Top 10 Best Korean Drama Of 2016"/>
-<link rel="canonical" href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-2016" />
+<link rel="canonical" href="/top-10-best-korean-drama-of-2016" />
   <meta name="description" content="Top 10 Best Korean Drama Of 2016 That Every  K-Drama Fan Must Watch">
 <meta name="keywords" content="top 10 korean best korean drama of 2016,korean best korean drama of 2016,top 10 korean best korean drama of 2016, best korean best korean drama of 2016 to watch, best korean best korean drama of 2016,top korean best korean drama of 2016, best korean drama from 2010 to 2020, best korean best korean drama of 2016 from 2010 to 2020, top korean drama from 2010 to 2020, good korean drama to watch from 2010 t0 2020, best korean drama to watch from 2010 to 2020, best korean drama of all time, most popular korean drama, best korean drama of 2016, best korean drama on hulu, studio ghibli collection, dragon ball super, most popular korean drama movie of all time, dragon ball super broly, good korean drama to watch, top korean drama 2018, good korean drama to watch 2019, best korean drama ever, top 10 korean drama of 2010, gtop 10 korean drama of 2011, top 10 korean drama of 2012, top 10 korean drama of 2011,top 10 korean drama of 2013, most popular korean dramas, top 10 korean drama of 2014, top 10 korean drama of 2015,top 10 korean drama of 2016, best 2019 korean drama, best korean best korean drama of 2016, great korean drama movie to watch, best new korean drama movie 2019, top 10 korean drama movie 2019, top korean drama movies of all time, korean drama movies, top 10 korean drama movies, Reply 1998, Scarlet heart reyo, Moon lovers, The legend of blue sea, My ID is Gangnam Beauty, Strong girl Bong-soon, City hunter, My love from the star, Descendants of the sun, Weightlifting fairy Kim Bok-joo, Descendants of the sun, k2, two worlds">           
   <meta name="owner" content="Harish Panwar">
@@ -70,9 +70,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -93,7 +93,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2>
 <p><i class="fa fa-clock-o"></i> 5:00 PM 9 Mar, 2021</p>
-
+<?php $article_slug = 'top-10-best-korean-drama-of-2016'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <br>
  
 <h3 style="font-family: Times new roman;text-align: justify;">
@@ -111,7 +111,7 @@ html {
 <div class="row" id="2011">       
      <h2>&nbsp; &nbsp;10. K2</h2>
 <div class="col-md-7">
-      <img src="k2.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/k2.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -143,7 +143,7 @@ When Je Ha is assigned to guard Go An Na, the reclusive illegitimate daughter of
      <div class="row" id="2017">
     <h2>&nbsp; &nbsp;9. Love In Moonlight </h2>
 <div class="col-md-7">
-      <img src="moonlight.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/moonlight.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -176,7 +176,7 @@ When Je Ha is assigned to guard Go An Na, the reclusive illegitimate daughter of
     <div class="row">
 <h2>&nbsp; &nbsp;8. Hwarang: The Poet Warrior Youth</h2>
 <div class="col-md-7">
-<img src="hwarang.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/hwarang.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -212,7 +212,7 @@ In order to break the power of the nobles, who are become more and more power hu
     <div class="row" id="2013">
     <h2>&nbsp; &nbsp;7. Two Worlds </h2>
 <div class="col-md-7">
-      <img src="world1.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/world1.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -240,7 +240,7 @@ In order to break the power of the nobles, who are become more and more power hu
  <div class="row" id="2017">
 <h2>&nbsp; &nbsp;6. The Legend Of Blue Sea </h2>
 <div class="col-md-7">
-<img src="legend.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/legend.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -269,7 +269,7 @@ MyDramaList Ratings: 8.4/10</span><br><br> </h3>
       <div class="row" id="2013">
 <h2>&nbsp; &nbsp;5. Descendants of the sun </h2>
 <div class="col-md-7">
-<img src="des.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/des.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -298,7 +298,7 @@ The story revolves around Shi-Jin who is the captain of the special task forces.
       <div class="row">
 <h2>&nbsp; &nbsp;4. Weightlifting fairy Kim Bok-joo </h2>
 <div class="col-md-7">
-<img src="fairy.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/fairy.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
 <h3 style="font-family:times new roman;text-align:center">
 <span class="fa fa-star checked"></span>
@@ -326,7 +326,7 @@ This drama is one of the highly recommended drama from my girlfriend (now she is
 <div class="row">
 <h2>&nbsp; &nbsp;3. Goblin</h2>
 <div class="col-md-7">
-<img src="goblin.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/goblin.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
 <h3 style="font-family:times new roman;text-align:center">
 <span class="fa fa-star checked"></span>
@@ -354,7 +354,7 @@ The Drama which is still entiled as the one of the legendary drama that came in 
     <div class="row" id="2015">       
      <h2>&nbsp; &nbsp;2. Signal  </h2>
 <div class="col-md-7">
-      <img src="signal.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/signal.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -389,7 +389,7 @@ Fifteen years later, Hae Yeong is now a police officer and criminal profiler. On
     <div class="row" id="2015">   
      <h2>&nbsp; &nbsp;1. Moon Lovers </h2>
 <div class="col-md-7">
-      <img src="moon.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/moon.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -429,7 +429,7 @@ Fifteen years later, Hae Yeong is now a police officer and criminal profiler. On
     <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
 <div class="col-md-5">
 <a href="top-10-best-historical-korean-drama-of-all-time">
-<img src="hwarang.webp" class="img-thumbnail" style="border-radius: 1ex;">
+<img src="assets/hwarang.webp" class="img-thumbnail" style="border-radius: 1ex;">
 </a>
 </div>
 <div class="col-md-7">

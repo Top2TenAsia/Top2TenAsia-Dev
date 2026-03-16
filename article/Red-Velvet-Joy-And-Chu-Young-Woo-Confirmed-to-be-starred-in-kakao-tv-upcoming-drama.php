@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/Unexpected-Country-Diary.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Red-Velvet-Joy-And-Chu-Young-Woo-Confirmed-to-be-starred-in-kakao-tv-upcoming-drama" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Red-Velvet-Joy-And-Chu-Young-Woo-Confirmed-to-be-starred-in-kakao-tv-upcoming-drama" />
+		<link rel="canonical" href="/article/Red-Velvet-Joy-And-Chu-Young-Woo-Confirmed-to-be-starred-in-kakao-tv-upcoming-drama" />
 		<!-- Post Description -->
 		<meta property="og:description" content="Kakao tv's upcoming drama “Unexpected Country Diary” is going to
         cast Red velvet's Joy and Chu Young Woo as their main lead." />

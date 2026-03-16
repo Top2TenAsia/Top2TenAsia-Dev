@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -31,7 +31,7 @@ titled as “office blind date”. The story of the drama sounds quite
 interesting and fans are eagerly waiting for screening of this
 fantastic drama." />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/A Business Proposal.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Kim-Sejeong-And-Ahn-Hyoseop-Are-Confirmed-To-Be-Starred-In-Webtoon-Based-Rom-Com-Drama-A-Business-Proposal" />
+<link rel="canonical" href="/Kim-Sejeong-And-Ahn-Hyoseop-Are-Confirmed-To-Be-Starred-In-Webtoon-Based-Rom-Com-Drama-A-Business-Proposal" />
   <meta name="description" content="“A Business Proposal” is a romantic comedy about an office
 employee who goes on a blind date with her company’s CEO in
 place of a friend while hiding her identity. The drama is also
@@ -113,9 +113,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -215,7 +215,7 @@ Fans are excited and waiting for any further updates.
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

@@ -31,7 +31,7 @@ and showing huge power of business in front of the
 audience." />
 <meta property="og:url" content="https://www.top2tenasia.xyz/top-10-best-business-korean-dramas" />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/Richman.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/top-10-best-business-korean-dramas" />
+<link rel="canonical" href="/top-10-best-business-korean-dramas" />
   <meta name="description" content="All the k-drama lovers know very well how interesting
 the stories of the dramas are. But k-dramas are popularly
 known for their handsome and intelligent CEO’s. Many
@@ -88,9 +88,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -111,7 +111,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2>
 <p><i class="fa fa-clock-o"></i> 5:00 PM 6 Dec, 2021</p>
-
+<?php $article_slug = 'top-10-best-business-korean-dramas'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 

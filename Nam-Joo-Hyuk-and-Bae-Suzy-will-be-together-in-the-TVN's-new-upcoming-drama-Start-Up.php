@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +25,7 @@
    <meta charset="UTF-8">
    <meta property="og:site_name" content="Top2Ten"/>
    <meta property="og:title" content="Nam Joo Hyuk and Bae Suzy will be together in the TVN's new upcoming drama Start-Up"/>
-<link rel="canonical" href="https://www.top2tenasia.xyz/Nam-Joo-Hyuk-and-Bae-Suzy-will-be-together-in-the-TVN's-new-upcoming-drama-Start-Up" />
+<link rel="canonical" href="/Nam-Joo-Hyuk-and-Bae-Suzy-will-be-together-in-the-TVN's-new-upcoming-drama-Start-Up" />
   <meta name="description" content="Nam Joo Hyuk and Bae Suzy will be together in the TVN's new upcoming drama Start-Up" />
 <meta name="keywords" content="Start-Up, start-up, startup, start up, Nam Joo Hyuk,Bae Suzy, new drama, new korean drama, korean drama, kang hana, kim seon, tvN, TVN's new drama">           
   <meta name="owner" content="Harish Panwar">
@@ -78,9 +78,9 @@ html {
   color: coral;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -88,7 +88,7 @@ html {
 
 <br>
 <center style="background-color: coral;margin-top:-2.6ex;"><p id="demo" style="color: white;font-size: 25px;"></p></center>
-<center><img src="head.webp" class="img-thumbnail test" ></center>
+<center><img src="assets/head.webp" class="img-thumbnail test" ></center>
   <center><h1>Nam Joo Hyuk and Bae Suzy will be together in the TVN's new upcoming drama Start-Up</h1></center>
   
   
@@ -157,13 +157,13 @@ When one day Nam Do-san suddenly meet up with Seo Dal-mi, the two become good fr
 </h3>
   <h2 style="text-decoration:underline; ">Cast</h2>  <br>                                             
   <center style="color:#3b5998;font-weight:bold;font-size:18px;">Nam Joo Hyuk will be seen as Nam Do San</center>
-  <center><img src="nam.png" class="img-thumbnail test"></center><br>
+  <center><img src="assets/nam.png" class="img-thumbnail test"></center><br>
   <center style="color:#3b5998;font-weight:bold;font-size:18px;">Bae Suzy will be seen  as  Seo Da Mi</center>
-  <center><img src="suzy.webp" class="img-thumbnail test"></center><br>                                 
+  <center><img src="assets/suzy.webp" class="img-thumbnail test"></center><br>                                 
   <center style="color:#3b5998;font-weight:bold;font-size:18px;">Kang Hana will be seen as Won In Jae</center>
-  <center><img src="Kang.jpg" class="img-thumbnail test"></center><br>
+  <center><img src="assets/Kang.jpg" class="img-thumbnail test"></center><br>
   <center style="color:#3b5998;font-weight:bold;font-size:18px;">Kim Seon Ho will be seen as Han Ji Pyung</center>
-  <center><img src="kim.webp" class="img-thumbnail test"></center>
+  <center><img src="assets/kim.webp" class="img-thumbnail test"></center>
 <br><br>
 <h3>It will so exciting to see Nam Joo Hyuk and Bae Suzy who are one of the most well known and famous Korean Drama actors to work together and also it will be new experience for the viewers as they are together in a drama for the first time. I assure you chingus it will be good.
 <br>
@@ -173,12 +173,12 @@ When one day Nam Do-san suddenly meet up with Seo Dal-mi, the two become good fr
 
     <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
-    <a href="https://www.top2tenasia.xyz/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
-    <img src="flower.webp" class="img-thumbnail" style="border-radius: 1ex;" >
+    <a href="/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
+    <img src="assets/flower.webp" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
-    <a href="https://www.top2tenasia.xyz/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
+    <a href="/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
 
       <h2>
       Lee Joon Gi Is Back With His New Upcoming tvN Thriller Drama [Top2Ten]</h2>
@@ -191,7 +191,7 @@ When one day Nam Do-san suddenly meet up with Seo Dal-mi, the two become good fr
     <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;" >
     <div class="col-md-5"> 
     <a href="best-korean-drama-from-each-year">
-    <img src="king.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
+    <img src="assets/king.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
     </a>
     </div>
     <div class="col-md-7" >
@@ -210,7 +210,7 @@ When one day Nam Do-san suddenly meet up with Seo Dal-mi, the two become good fr
     
     <div class="col-md-5">
         <a href="top-10-best-korean-drama-of-the-decade">
-      <img src="k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
+      <img src="assets/k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;" >
             </a>
             </div>
             <div class="col-md-7">

@@ -24,9 +24,9 @@
 <meta property="og:type" content="article" />
 <meta property="og:description" content="Best Korean Drama From Each Year 2010-2020 that must be watched by a korean drama fan. The list is based on IMDB ratings, Audience ratings , MyDramaList and my personal opinion combined." />
 <meta property="og:url" content="https://www.top2tenasia.xyz/best-korean-drama-from-each-year" />
-<meta property="og:image" content="https://www.top2tenasia.xyz/king.jpg" />
+<meta property="og:image" content="https://www.top2tenasia.xyz/assets/king.jpg" />
    <meta property="og:title" content="Best Korean Drama From Each Year (2010-2020)"/>
-<link rel="canonical" href="https://www.top2tenasia.xyz/best-korean-drama-from-each-year" />
+<link rel="canonical" href="/best-korean-drama-from-each-year" />
   <meta name="description" content="Best Korean Drama From Each Year 2010-2020 that must be watched by a korean drama fan. The list is based on IMDB ratings, Audience ratings , MyDramaList and my personal opinion combined.">
 <meta name="keywords" content="best korean drama from each year,korean drama of the year,top 10 korean drama from each year, best korean drama to watch, best korean drama of the decade,top korean drama of the year from 2010 to 2020, best korean drama of the year from 2010 to 2020, top korean drama from 2010 to 2020, good korean drama to watch from 2010 t0 2020, best korean drama to watch from 2010 to 2020, best korean drama of all time, most popular korean drama of the decade, best korean drama on hulu, studio ghibli collection, dragon ball super, most popular korean drama movie of all time, dragon ball super broly, good korean drama to watch, top korean drama 2018, good korean drama to watch 2019, best korean drama ever, top 10 korean drama of 2010, top 10 korean drama of 2011, top 10 korean drama of 2012, top 10 korean drama of 2011,top 10 korean drama of 2013, most popular korean dramas, top 10 korean drama of 2014, top 10 korean drama of 2015,top 10 korean drama of 2016, best 2019 korean drama, best korean drama of the decade, great korean drama movie to watch, best new korean drama movie 2019, top 10 korean drama movie 2019, top korean drama movies of all time, korean drama movies, top 10 korean drama movies, Reply 1998, Scarlet heart reyo, Moon lovers, The legend of blue sea, My ID is Gangnam Beauty, Strong girl Bong-soon, City hunter, My love from the star, Descendants of the sun, Weightlifting fairy Kim Bok-joo, Descendants of the sun,best korean drama 2016, best korean drama 2011, best korean drama 2012, best korean drama 2013, best korean drama 2014, best korean drama 2015, best korean drama 2017, best korean drama 2018, best korean drama 2019, best korean drama 2020">           
   <meta name="owner" content="Harish Panwar">
@@ -77,9 +77,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -100,9 +100,10 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2>
 <p><i class="fa fa-clock-o"></i> 12:00 PM  FEB 28, 2021</p>
+<?php $article_slug = 'best-korean-drama-from-each-year'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <div class="row">
 <center>
-<img src="king.jpg" class="img-thumbnail ok">
+<img src="assets/king.jpg" class="img-thumbnail ok">
 </center>
 </div>
 
@@ -124,7 +125,7 @@ criteria for judgement
   <div class="row">
     <h2>&nbsp; &nbsp; Slave Hunters [2010]</h2>
  <div class="col-md-7">
-      <img src="slave.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/slave.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -158,7 +159,7 @@ It was the KBS2’s drama aired from Jan 2010 to March 2010 for 24 episodes.
     <div class="row">       
      <h2>&nbsp; &nbsp; City Hunter [2011]</h2>
 <div class="col-md-7">
-      <img src="city.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/city.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -178,7 +179,7 @@ It was the KBS2’s drama aired from Jan 2010 to March 2010 for 24 episodes.
           <div class="row">
         <div class="col-md-11" style="font-size: 16px;">
   <br><h3>
-          For Best Korean Drama 2011 "Lee min ho" City Hunter sits on the crown it's also on the list of <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade" target="blank">Top 10 best korean drama of the decade</a>. The name of this actor is enough to make any drama a mega-hit, the list for korean dramas is empty without having a drama from this star. City Hunter is based on action, thriller, romance and revenge story.The story starts back in the 1980s when thee South Korean President and many other high ranks officials went to Burma and suddenly a bomb planted by the North Koreans explodes due to which many high-rank officials of South Korea get killed. After that South Korea wanted to attack North Korea and secretly kill some high ranks officials as they killed theirs. so the five high ranks officials, including the future president, sent our 21 soldiers across the Han River to execute the plan but later they get feared that if America will know about that they will remove their nuclear protection from South Korea. but what are they to do? They already sent their soldiers and they are waiting for the navy ship to get them home back. <button id="more1" name="data" type="button" onclick="MORE('more1', 'read1')" formnovalidate>Read more</button>
+          For Best Korean Drama 2011 "Lee min ho" City Hunter sits on the crown it's also on the list of <a href="/top-10-best-korean-drama-of-the-decade" target="blank">Top 10 best korean drama of the decade</a>. The name of this actor is enough to make any drama a mega-hit, the list for korean dramas is empty without having a drama from this star. City Hunter is based on action, thriller, romance and revenge story.The story starts back in the 1980s when thee South Korean President and many other high ranks officials went to Burma and suddenly a bomb planted by the North Koreans explodes due to which many high-rank officials of South Korea get killed. After that South Korea wanted to attack North Korea and secretly kill some high ranks officials as they killed theirs. so the five high ranks officials, including the future president, sent our 21 soldiers across the Han River to execute the plan but later they get feared that if America will know about that they will remove their nuclear protection from South Korea. but what are they to do? They already sent their soldiers and they are waiting for the navy ship to get them home back. <button id="more1" name="data" type="button" onclick="MORE('more1', 'read1')" formnovalidate>Read more</button>
 <span id="read1" style="display:none;">Like typical politicians, they decided to cover it up by making a decision of killing their own soldiers so the secret is not out. All the 20 soldiers got showed to death Except Jin Pyo who got survived and he wants revenge for his friend and all his comrades who got shore by their own countrymen. But he's getting old and his revenge is going to take a long time so he decided to steals his dead comrade's newborn baby and trains him with high skills of comrade to plan out his revenge plan.
 Now, with his amazing fighting skills, weapon expertise, and Expert IT knowledge, Yoon Sung is after the five politicians who gave the order to kill the soldiers and gets them arrested one by one all the while living a double life as a computer expert in the Blue House and eventually become famous in South Korea and referred as City Hunter.<button id="less1" onclick="MORE('less1', 'read1')" name="data" type="button" formnovalidate>Read less</button></span><br><span style="color:#e4405f">"Losing someone important is quite a sad thing, isn't it?"</span></h3>
 </div>
@@ -186,7 +187,7 @@ Now, with his amazing fighting skills, weapon expertise, and Expert IT knowledge
     <div class="row">       
      <h2>&nbsp; &nbsp; Moon Embracing The Sun [2012]</h2>
 <div class="col-md-7">
-      <img src="sun.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/sun.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -218,7 +219,7 @@ It was the MBC drama aired from Jan 2012 to Mar 2012 fror 20 episodes. The drama
       <div class="row">
     <h2>&nbsp; &nbsp; My Love From The Star [2013]</h2>
 <div class="col-md-7">
-      <img src="mylove.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/mylove.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -248,7 +249,7 @@ It was the MBC drama aired from Jan 2012 to Mar 2012 fror 20 episodes. The drama
     <div class="row" id="2013">
     <h2>&nbsp; &nbsp; Healer [2014]</h2>
 <div class="col-md-7">
-      <img src="healer.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/healer.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -268,7 +269,7 @@ It was the MBC drama aired from Jan 2012 to Mar 2012 fror 20 episodes. The drama
          <div class="row">
         <div class="col-md-11" style="font-size: 16px;">
           <br><h3>
-For Best Korean Drama 2014 we have Healer,When it comes to this drama Seems like I can't find enough words to describe the one of the best k-drama I've ever seen, it's also on the list of <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade" target="blank">Top 10 best korean drama of the decade</a> what can i say, everything would be understatement, the acting, complex plot, sudden twists and turns, characters, OSTs and above all JI CHANG-WOOK, every damn thing is top notch in this show. The story set as a decade ago, an incident took place. It involves 5 friends who ran an illegal Citizens Radio Station. This incident brings back three different people together
+For Best Korean Drama 2014 we have Healer,When it comes to this drama Seems like I can't find enough words to describe the one of the best k-drama I've ever seen, it's also on the list of <a href="/top-10-best-korean-drama-of-the-decade" target="blank">Top 10 best korean drama of the decade</a> what can i say, everything would be understatement, the acting, complex plot, sudden twists and turns, characters, OSTs and above all JI CHANG-WOOK, every damn thing is top notch in this show. The story set as a decade ago, an incident took place. It involves 5 friends who ran an illegal Citizens Radio Station. This incident brings back three different people together
 Kim Mun-ho, a prominent reporter who had only one aim to find a girl who is probably a dead child and whom he doubted to be still alive.<button id="more6" onclick="MORE('more6', 'read6')" name="data" type="button" formnovalidate>Read more</button> <span id="read6" style="display: none"> He wanted to protect that girl, so he ask Jung-hu(Healer) to find her and had to become a shield for her as some people want to kill her. Jung-hu is an illegal night courier who works under the pseudonym of “Healer”. He was known best in his field, not only he had the best hacker by his side and advanced technology but also had mind-blowing fighting skills. His supreme goal is to save money and buy an island off the coast and live there alone. But when he agrees to Kim Mun-ho to undertake his plan, he ultimately falls in love with Oh Ji Ha, whom he had to protect. Oh, Ji Ha was a quirky internet columnist who always dreamt to become a fabled reporter of all the time. But due to his abusive past, she traumatized and bears panic attacks whenever she saw violence around her.
 It was the KBS2 drama aired from Dec 2014 to Feb 2015 from 20 episodes. Nonetheless, this drama received modest ratings in the domestic region but also obtained so much love overseas. It made Ji Chang Wook even more popular overseas. <button id="less6" onclick="MORE('less6', 'read6')" name="data" type="button" formnovalidate>Read less</button> </span></span><br><span style="color:#e4405f">"People don’t have a long memory when it comes to other people’s affairs."<span style="color:coral;text-decoration:underline"> Healer</span></span>
        
@@ -280,7 +281,7 @@ It was the KBS2 drama aired from Dec 2014 to Feb 2015 from 20 episodes. Nonethel
 <div class="row">       
      <h2>&nbsp; &nbsp; Reply 1988 [2015]</h2>
 <div class="col-md-7">
-      <img src="reply1988.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/reply1988.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -301,7 +302,7 @@ It was the KBS2 drama aired from Dec 2014 to Feb 2015 from 20 episodes. Nonethel
         <div class="col-md-11" style="font-size: 16px;">
           <br>
 <h3>
-          For Best Korean Drama 2016 it's not a surprise that Reply 1998 is the Best drama of 2015 as this drama comes under most high rated drama ever made in korean drama history and it's also on the list of <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade" target="blank">Top 10 best korean drama of the decade</a>.This is one of the best drama.Complete package of family, friendship, childhood friends, school love life, financial crisis, neighbours, life lessons.
+          For Best Korean Drama 2016 it's not a surprise that Reply 1998 is the Best drama of 2015 as this drama comes under most high rated drama ever made in korean drama history and it's also on the list of <a href="/top-10-best-korean-drama-of-the-decade" target="blank">Top 10 best korean drama of the decade</a>.This is one of the best drama.Complete package of family, friendship, childhood friends, school love life, financial crisis, neighbours, life lessons.
        The story sets In 1988, five childhood friends who are also neighbors named Duk-Sun, Jung-Hwan, Sun-Woo, and Dong-Ryong are high school students and Taek is a genius go, player. All five of them have been together since their childhood. They all grew up playing and enjoying together and are neighbors to this day and also their families are very close to each other. They always enjoy and spend their time in Taek's room. Now for characters and cast Duk-Sun is the only girl in the five friend group and has a younger brother and an elder sister, her family is poor and they have been living in a semi-basement house. <button id="more5" onclick="MORE('more5', 'read5')" name="data" type="button" formnovalidate>Read more</button><span id="read5" style="display:none;">Duk-Sun's father Dong-Il lost money due to paying for someone's debt and now working as a manager in the bank. Nevertheless, Duk-Sun is a cheerful girl with a bright personality who enjoys everything except for studies and She always gets into fights with her older sister Bo-Ra who is my crush.
 Jung-Hwan's family is having plot they became rich overnight buy winning some lottery which Jung-Hwan's brother has purchased to try his luck and as for Jung-Hwan he really loved to play have a really family soccer. Sun-Woo is a perfect student at school, good at everything from study to sports he is a good son and good brother. Sun-Woo's father passed away when he was young and now he lives with his younger sister and mother. Dong-Ryong is the most amazing character I really loved him. He shares the same personality as Duk-Sun's and will surely make you laugh, his father is principal at the school in which Jung-Hwan, Sun-Woo, and Doog-Ryong studies. Taek is a famous go player known as God of the go and is well known in china, japan, and Korea. he dropped out of school so that he can play and focus on the go and due to this Duk-Sun, Jung-Hwan, Sun-Woo, and Dong-Ryong are his only friends. He is quite shy and only talks with his friends<button id="less5" onclick="MORE('less5', 'read5')" name="data" type="button" formnovalidate>Read less</button></span><br><span style="color:#e4405f">"Even in moments of the deepest despair… I guess we can still find hope, huh?"</span>
 </h3>
@@ -311,7 +312,7 @@ Jung-Hwan's family is having plot they became rich overnight buy winning some lo
     <div class="row" id="2016">      
     <h2>&nbsp; &nbsp; Moon Lovers [2016]</h2>
 <div class="col-md-7">
-      <img src="moon.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/moon.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -331,7 +332,7 @@ Jung-Hwan's family is having plot they became rich overnight buy winning some lo
 <div class="row">
         <div class="col-md-11" style="font-size: 16px;">
         <br><h3>
-        For Best Korean Drama 2016 really this is the hard one to choose as 2016 is the year is which many super hit dramas came out, 2016 can also be called as the golden year of K-drama, Drama like Goblin, Descendents of the sun, Legend of Blue sea and many more that are a mega hit are aired in 2016 but the drama that hooked me so much is Moon Lovers: Scarlet Heart Ryeo.It's also on the list of <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade" target="blank">Top 10 best korean drama of the decade</a>
+        For Best Korean Drama 2016 really this is the hard one to choose as 2016 is the year is which many super hit dramas came out, 2016 can also be called as the golden year of K-drama, Drama like Goblin, Descendents of the sun, Legend of Blue sea and many more that are a mega hit are aired in 2016 but the drama that hooked me so much is Moon Lovers: Scarlet Heart Ryeo.It's also on the list of <a href="/top-10-best-korean-drama-of-the-decade" target="blank">Top 10 best korean drama of the decade</a>
         This drama holds a best storyline and concept even script and dialogues were so mesmerising and each dialogue teaches  us the lesson in our daily life issues. This drama is a pure example about the darkest and poisonous truth of this world that how cruel this world tends to be , even blood relations turns against you  and deceives you in order to cover up their bad deeds.A 25-year-old 21st-century woman, Go Ha-jin, is transported back in time to the Goryeo Dynasty. She wakes up in the year of 941 in Goreyo inside the body of a girl named Hae Soo which looks the same as her, who is a part of the family of the 8th prince of Goreyo.<button id="more3" onclick="MORE('more3', 'read3')" name="data" type="button" formnovalidate>Read more</button><span id="read3" style="display:none;">
        She initially falls in love with the gentle and warm-hearted 8th Prince Wang Wook (Kang Ha-neul), and later Wang So, the fearsome 4th Prince who hides his face behind a mask and due to which he is known as "wolf dog." As the story moves further, Hae Soo finds herself caught between the rivalry and politics among the princes who fight for the throne.<button id="less3" onclick="MORE('less3', 'read3')" name="data" type="button" formnovalidate>Read less</button> </span></span><br><span style="color:#e4405f">"Even if we are not from the same world, I will find you, my soo"<span style="color:coral;text-decoration:underline"> Moon Lovers</span></span>
        
@@ -341,7 +342,7 @@ Jung-Hwan's family is having plot they became rich overnight buy winning some lo
     <div class="row">
     <h2>&nbsp; &nbsp; Strong girl Bong-soon [2017]</h2>
 <div class="col-md-7">
-      <img src="bong.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/bong.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -368,7 +369,7 @@ Jung-Hwan's family is having plot they became rich overnight buy winning some lo
     <div class="row">       
      <h2>&nbsp; &nbsp; Are You Human? [2018]</h2>
 <div class="col-md-7">
-      <img src="human.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/human.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -401,7 +402,7 @@ Kang So-bong who is a member of Nam Shin's security team becomes Nam Shin III's 
        <div class="row" id="2016">      
     <h2>&nbsp; &nbsp; Hotel Del Luna [2019]</h2>
 <div class="col-md-7">
-      <img src="hotel.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/hotel.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -430,7 +431,7 @@ Kang So-bong who is a member of Nam Shin's security team becomes Nam Shin III's 
     <div class="row" id="2016">      
     <h2>&nbsp; &nbsp; Flower Of Evil [2020]</h2>
 <div class="col-md-7">
-      <img src="evil-flower.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/evil-flower.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>

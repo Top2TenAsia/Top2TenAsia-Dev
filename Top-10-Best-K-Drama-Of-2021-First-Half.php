@@ -28,8 +28,8 @@ amazing dramas in upcoming year as 2021 is not over yet. So
 let’s begin the thrilling journey of most hit k-dramas of first half
 of 2021." />
 <meta property="og:url" content="https://www.top2tenasia.xyz/Top-10-Best-K-Drama-Of-2021-First-Half" />
-<meta property="og:image" content="https://www.top2tenasia.xyz/k-dramas-2021.jpg" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Top-10-Best-K-Drama-Of-2021-First-Half" />
+<meta property="og:image" content="https://www.top2tenasia.xyz/assets/k-dramas-2021.jpg" />
+<link rel="canonical" href="/Top-10-Best-K-Drama-Of-2021-First-Half" />
   <meta name="description" content="The year of 2021 is full of thrilling and amazing dramas which
 will make it difficult to choose the best 10 dramas among all hit
 and impactful dramas in half 2021. We can expect more
@@ -84,9 +84,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -107,7 +107,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2>
 <p><i class="fa fa-clock-o"></i> 8:00 PM 8 Jul, 2021</p>
-
+<?php $article_slug = 'Top-10-Best-K-Drama-Of-2021-First-Half'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 

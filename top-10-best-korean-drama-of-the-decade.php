@@ -21,7 +21,7 @@
   
    <meta property="og:site_name" content="Top2Ten"/>
    <meta property="og:title" content="Top 10 Best korean drama of the decade"/>
-<link rel="canonical" href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade" />
+<link rel="canonical" href="/top-10-best-korean-drama-of-the-decade" />
   <meta name="description" content="Top 10 best korean drama of the decade from 2010-2020 that must be watched by a korean drama fan. The list is based on IMDB ratings, Audience ratings , MyDramaList and my personal opinion combined.">
 <meta name="keywords" content="top 10 korean drama of the decade,korean drama of the decade,top 10 korean drama of the decade, best korean drama of the decade to watch, best korean drama of the decade,top korean drama of the decade from 2010 to 2020, best korean drama of the decade from 2010 to 2020, top korean drama from 2010 to 2020, good korean drama to watch from 2010 t0 2020, best korean drama to watch from 2010 to 2020, best korean drama of all time, most popular korean drama of the decade, best korean drama on hulu, studio ghibli collection, dragon ball super, most popular korean drama movie of all time, dragon ball super broly, good korean drama to watch, top korean drama 2018, good korean drama to watch 2019, best korean drama ever, top 10 korean drama of 2010, gtop 10 korean drama of 2011, top 10 korean drama of 2012, top 10 korean drama of 2011,top 10 korean drama of 2013, most popular korean dramas, top 10 korean drama of 2014, top 10 korean drama of 2015,top 10 korean drama of 2016, best 2019 korean drama, best korean drama of the decade, great korean drama movie to watch, best new korean drama movie 2019, top 10 korean drama movie 2019, top korean drama movies of all time, korean drama movies, top 10 korean drama movies, Reply 1998, Scarlet heart reyo, Moon lovers, The legend of blue sea, My ID is Gangnam Beauty, Strong girl Bong-soon, City hunter, My love from the star, Descendants of the sun, Weightlifting fairy Kim Bok-joo, Descendants of the sun">           
   <meta name="owner" content="Harish Panwar">
@@ -71,9 +71,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -94,7 +94,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2>
 <p><i class="fa fa-clock-o"></i> 5:00 PM 27 Feb, 2021</p>
-
+<?php $article_slug = 'top-10-best-korean-drama-of-the-decade'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
   <div style="font-size: 12px;">
 <a href="#2011" style="color: coral">K-Drama</a> > <a href="#2011">korean drama 2011</a>, <a href="#2013">korean drama 2013</a>, <a href="#2015"> korean drama 2015</a>, <a href="#2016">korean drama 2016</a>, <a href="#2017">korean drama 2017</a>, <a href="#2018">korean drama 2018</a> [Best Recommendations]</div>
 <br>
@@ -115,7 +115,7 @@ Criteria For Judgement-
     <div class="row" id="2011">       
      <h2>&nbsp; &nbsp;10. City hunter</h2>
 <div class="col-md-7">
-      <img src="city.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/city.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -147,7 +147,7 @@ Criteria For Judgement-
       <div class="row" id="2017">
     <h2>&nbsp; &nbsp;9. The Legend Of Blue Sea </h2>
 <div class="col-md-7">
-      <img src="legend.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/legend.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -177,7 +177,7 @@ Criteria For Judgement-
     <div class="row" id="2013">
     <h2>&nbsp; &nbsp;8. Descendants of the sun </h2>
 <div class="col-md-7">
-      <img src="des.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/des.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -212,7 +212,7 @@ Criteria For Judgement-
     <div class="row">      
     <h2>&nbsp; &nbsp;7. My Love From The Star </h2>
 <div class="col-md-7">
-<img src="mylove.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/mylove.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -242,7 +242,7 @@ Total episodes: 21 *Highly Recommended*<br><br>
     <div class="row">      
     <h2>&nbsp; &nbsp;6. Weightlifting fairy Kim Bok-joo </h2>
 <div class="col-md-7">
-<img src="fairy.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/fairy.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -273,7 +273,7 @@ Total episodes: 21 *Highly Recommended*<br><br>
       <div class="row" id="2013">
     <h2>&nbsp; &nbsp;5.Healer</h2>
 <div class="col-md-7">
-      <img src="healer.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/healer.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -303,7 +303,7 @@ It was the KBS2 drama aired from Dec 2014 to Feb 2015 from 20 episodes. Nonethel
     <div class="row">       
      <h2>&nbsp; &nbsp;4. Goblin</h2>
 <div class="col-md-7">
-      <img src="goblin.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/goblin.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -333,7 +333,7 @@ It was the KBS2 drama aired from Dec 2014 to Feb 2015 from 20 episodes. Nonethel
        <div class="row" id="2016">      
     <h2>&nbsp; &nbsp;3. Moon Lovers </h2>
 <div class="col-md-7">
-      <img src="moon.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/moon.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -365,7 +365,7 @@ It was the KBS2 drama aired from Dec 2014 to Feb 2015 from 20 episodes. Nonethel
     <div class="row" id="2015">       
      <h2>&nbsp; &nbsp;2. Crash Landing On You  </h2>
 <div class="col-md-7">
-      <img src="test.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/test.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -399,7 +399,7 @@ It was the KBS2 drama aired from Dec 2014 to Feb 2015 from 20 episodes. Nonethel
     <div class="row" id="2015">       
      <h2>&nbsp; &nbsp;1. Reply 1988  </h2>
 <div class="col-md-7">
-      <img src="reply1988.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/reply1988.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>

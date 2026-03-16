@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/Kim-Hyun-Joong-is-gettin-married.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Kim-Hyun-Joong-is-getting-married" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Kim-Hyun-Joong-is-getting-married" />
+		<link rel="canonical" href="/article/Kim-Hyun-Joong-is-getting-married" />
 		<!-- Post Description -->
 		<meta property="og:description" content="ctor Kim Hyun Joong has decided to officially tie the knot and
 settle down with his non-celebrity girlfriend. Actor Kim Hyun

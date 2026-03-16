@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,7 +32,7 @@ broken" />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/gfriend.webp" />
 <meta property="og:site_name" content="Top2Ten Asia"/>
   
-<link rel="canonical" href="https://www.top2tenasia.xyz/https://www.top2tenasia.xyz/g-friend-is-being-disbanded-as-they-fail-to-agree-on-contract-renewals" />
+<link rel="canonical" href="/https://www.top2tenasia.xyz/g-friend-is-being-disbanded-as-they-fail-to-agree-on-contract-renewals" />
   <meta name="description" content="According to sources GFRIEND group has decided not to
 renew their contracts as they fail to agree on terms of agency.
 Source media has submitted an application to own the
@@ -105,9 +105,9 @@ html {
 }
 
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -419,7 +419,7 @@ looking forward to their all activities.</h3>
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

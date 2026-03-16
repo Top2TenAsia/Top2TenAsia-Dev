@@ -53,9 +53,9 @@ position:sticky;
 
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -84,9 +84,9 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 <div class="col-md-4">
 <h3 style="color:coral;text-decoration:underline"><center>Guess The K-Drama & Actors Quiz</center></h3>
 <h3 style="color:#3b5998"><center>From FEB-28-2021 to MAR-01-2021</center></h3>
-<a href="https://www.top2tenasia.xyz/Guess-The-K-Drama-And-Actor-Quiz">
+<a href="/Guess-The-K-Drama-And-Actor-Quiz">
 
-<img src="Top2Ten Quiz.webp" class="img-thumbnail ">
+<img src="assets/Top2Ten Quiz.webp" class="img-thumbnail ">
 <br>
 <br>
 <center><button class="btn softo-solid-btn" style="background-color:coral;color:white">PLAY QUIZ</button></center></a>
@@ -96,7 +96,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 <div class="col-md-4">
 <h3 style="color:coral;text-decoration:underline"><center>Guess The K-Drama By OST Quiz</center></h3>
 <h3 style="color:#3b5998"><center>Coming Soon</center></h3>
-<img src="Top2Ten Quiz.webp" class="img-thumbnail "style="filter: brightness(20%);" >
+<img src="assets/Top2Ten Quiz.webp" class="img-thumbnail "style="filter: brightness(20%);" >
 <h3>
 <div class="carousel-caption" style="width: 75%;height: 10%">
 <p style="margin-top: -25ex;">Coming Soon</p>
@@ -107,7 +107,7 @@ Follow us on Instagram <i class="fa fa-instagram"></i>
 <div class="col-md-4">
 <h3 style="color:coral;text-decoration:underline"><center>Guess The K-Drama Actor/Actress</center></h3>
 <h3 style="color:#3b5998"><center>Coming Soon</center></h3>
-<img src="Top2Ten Quiz.webp" class="img-thumbnail " style="filter: brightness(20%);">
+<img src="assets/Top2Ten Quiz.webp" class="img-thumbnail " style="filter: brightness(20%);">
 <h3>
 <div class="carousel-caption" style="width: 75%;height: 10%">
 <p style="margin-top: -25ex;">Coming Soon</p>

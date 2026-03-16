@@ -28,8 +28,8 @@ again to amaze you with our top 10 best action k-drama. If you
 also got amazed with action then you must watch these dramas
 with full action packed , thriller and many more." />
 <meta property="og:url" content="https://www.top2tenasia.xyz/top-10-best-action-korean-dramas" />
-<meta property="og:image" content="https://www.top2tenasia.xyz/des.jpg" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/top-10-best-action-korean-dramas" />
+<meta property="og:image" content="https://www.top2tenasia.xyz/assets/des.jpg" />
+<link rel="canonical" href="/top-10-best-action-korean-dramas" />
   <meta name="description" content="While talking about variety, we have everything in k-dramas.
 We have of course romance, thrill ,action ,comedy, suspense,
 mystery, fiction, fantasy, drama and many more. Now we are here
@@ -84,9 +84,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -107,7 +107,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2>
 <p><i class="fa fa-clock-o"></i> 5:00 PM 14 May, 2021</p>
-
+<?php $article_slug = 'top-10-best-action-korean-dramas'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <p  style="float:right"> By <a href="https://www.instagram.com/art_lover_2307/">art_lover_2307</a></p><br>
 <br>
 
@@ -169,7 +169,7 @@ comedy.
      <div class="row" id="2017">
     <h2>&nbsp; &nbsp;9. K2 (2016) </h2>
 <div class="col-md-7">
-      <img src="k2.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/k2.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -269,7 +269,7 @@ directed by Kim sung-su. </h4>
  <div class="row" id="2017">
 <h2>&nbsp; &nbsp;6. City Hunter(2011) </h2>
 <div class="col-md-7">
-<img src="city.jpg"  class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/city.jpg"  class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -367,7 +367,7 @@ experience emotion based action with thrill of romance.
 <div class="row">
 <h2>&nbsp; &nbsp;3. Descendants of the sun(2016)</h2>
 <div class="col-md-7">
-<img src="des.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/des.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
 <h3 style="font-family:times new roman;text-align:center">
 <span class="fa fa-star checked"></span>
@@ -436,7 +436,7 @@ comedy then this drama is best for you.<br>
     <div class="row" id="2015">   
      <h2>&nbsp; &nbsp;1. Signal(2016) </h2>
 <div class="col-md-7">
-      <img src="signal.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/signal.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>

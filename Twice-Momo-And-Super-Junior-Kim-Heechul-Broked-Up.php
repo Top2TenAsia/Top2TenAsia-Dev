@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,7 +28,7 @@
 who were cheering for Momo and Kim Heechul for their
 relationship. But unfortunately it was recently confirmed by
 their agencies that they two broke up" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Twice-Momo-And-Super-Junior-Kim-Heechul-Broked-Up" />
+<link rel="canonical" href="/Twice-Momo-And-Super-Junior-Kim-Heechul-Broked-Up" />
   <meta name="description" content="Here we have very heart breaking news for all the fans
 who were cheering for Momo and Kim Heechul for their
 relationship. But unfortunately it was recently confirmed by
@@ -103,9 +103,9 @@ hr{
 }
 
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -181,7 +181,7 @@ update. So stay tuned to get updated.</h3>
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

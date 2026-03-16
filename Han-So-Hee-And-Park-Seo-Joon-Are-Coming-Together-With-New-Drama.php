@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -26,7 +26,7 @@
 <meta property="og:url" content="https://www.top2tenasia.xyz/Han-So-Hee-And-Park-Seo-Joon-Are-Coming-Together-With-New-Drama" />
 <meta property="og:description" content="Han So Hee And Park Seo Joon Are Coming Together With New Drama" />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/han-seo.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Han-So-Hee-And-Park-Seo-Joon-Are-Coming-Together-With-New-Drama" />
+<link rel="canonical" href="/Han-So-Hee-And-Park-Seo-Joon-Are-Coming-Together-With-New-Drama" />
   <meta name="description" content="Han So Hee And Park Seo Joon Are Coming Together With New Drama" />
 <meta name="keywords" content="IU, Bts, lee jong gi new drama, scarlet heart reyo,TVN's new drama, Park seo joon, park boo young, Korean movie, Park Seo Joon,What’s wrong with secretary Kim ">           
   <meta name="owner" content="Harish Panwar">
@@ -103,9 +103,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -196,7 +196,7 @@ details.
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

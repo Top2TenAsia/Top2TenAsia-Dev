@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +26,7 @@
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/btsbutter.webp" />
 <meta property="og:site_name" content="Top2Ten Asia"/>
   
-<link rel="canonical" href="https://www.top2tenasia.xyz/BTS-Broke-Their-Own-World-Record-On-Youtube-With-Their-New-Butter-MV" />
+<link rel="canonical" href="/BTS-Broke-Their-Own-World-Record-On-Youtube-With-Their-New-Butter-MV" />
   <meta name="description" content="BTS Butter Reachs 113 Million Views In first 24 Hours " />
 <meta name="keywords" content="BTS, Dynamite, BTS Butter, BTS Butter, Bae Suzy, Park Bo Gum, park min young, lee jong suk, song kang, office romance cruelity, IU, Bts, lee jong gi new drama, scarlet heart reyo,TVN's new drama, new drama, pachinkom, lee min ho new drama, Park seo joon, park boo young, Korean movie, Park Seo Joon,What’s wrong with secretary Kim ">           
   <meta name="owner" content="Harish Panwar">
@@ -93,9 +93,9 @@ html {
 }
 
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -145,7 +145,7 @@ Speaking about the song, it is a dance-pop track with the band's crisp synth sou
 "We hope that 'Butter' can be really the summer song for 2021. So we'll try to do the best we can, work hard on our promos and our activities," said group leader RM in a global press conference from Seoul.
 
   <br><br>
-  <h3>Also, There is sad news that G-Friend is disbanding <a href="https://www.top2tenasia.xyz/g-friend-is-being-disbanded-as-they-fail-to-agree-on-contract-renewals">“G-Friend Is Being Disbanded As They Fail To Agree On Contract Renewals”.</a>
+  <h3>Also, There is sad news that G-Friend is disbanding <a href="/g-friend-is-being-disbanded-as-they-fail-to-agree-on-contract-renewals">“G-Friend Is Being Disbanded As They Fail To Agree On Contract Renewals”.</a>
 </h3>
 <h3>
 
@@ -165,7 +165,7 @@ Speaking about the song, it is a dance-pop track with the band's crisp synth sou
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

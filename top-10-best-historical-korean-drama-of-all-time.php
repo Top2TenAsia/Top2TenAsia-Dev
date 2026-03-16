@@ -20,7 +20,7 @@
   
    <meta property="og:site_name" content="Top2Ten Asia"/>
    <meta property="og:title" content="Top 10 Best Historical Korean Drama Of All Time"/>
-<link rel="canonical" href="https://www.top2tenasia.xyz/top-10-best-historical-korean-drama-of-all-time" />
+<link rel="canonical" href="/top-10-best-historical-korean-drama-of-all-time" />
   <meta name="description" content="Top 10 Best Historical Korean Drama Of All Time That Every Historical K-Drama Fan Must Watch">
 <meta name="keywords" content="top 10 korean historical drama of all time,korean historical drama of all time,top 10 korean historical drama of all time, best korean historical drama of all time to watch, best korean historical drama of all time,top korean historical drama of all time from 2010 to 2020, best korean historical drama of all time from 2010 to 2020, top korean drama from 2010 to 2020, good korean drama to watch from 2010 t0 2020, best korean drama to watch from 2010 to 2020, best korean drama of all time, most popular korean historical drama of all time, best korean drama on hulu, studio ghibli collection, dragon ball super, most popular korean drama movie of all time, dragon ball super broly, good korean drama to watch, top korean drama 2018, good korean drama to watch 2019, best korean drama ever, top 10 korean drama of 2010, gtop 10 korean drama of 2011, top 10 korean drama of 2012, top 10 korean drama of 2011,top 10 korean drama of 2013, most popular korean dramas, top 10 korean drama of 2014, top 10 korean drama of 2015,top 10 korean drama of 2016, best 2019 korean drama, best korean historical drama of all time, great korean drama movie to watch, best new korean drama movie 2019, top 10 korean drama movie 2019, top korean drama movies of all time, korean drama movies, top 10 korean drama movies, Reply 1998, Scarlet heart reyo, Moon lovers, The legend of blue sea, My ID is Gangnam Beauty, Strong girl Bong-soon, City hunter, My love from the star, Descendants of the sun, Weightlifting fairy Kim Bok-joo, Descendants of the sun">           
   <meta name="owner" content="Harish Panwar">
@@ -71,9 +71,9 @@ html {
      color:black;
  }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -94,7 +94,7 @@ html {
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span></h2>
 <p><i class="fa fa-clock-o"></i> 5:00 PM 7 Mar, 2021</p>
-
+<?php $article_slug = 'top-10-best-historical-korean-drama-of-all-time'; include __DIR__ . '/includes/article-stats-bar.php'; ?>
 <br>
 <h3 style="font-family: Times new roman;text-align: justify;">
  The historical genere of Korean Drama is among the most beloved genere between the K-Drama fans. Are you one of historical K-Drama fans? or a newbie who are bored from other generes and starting to look out for your first historical drama If yes then this list is perfect for you.</h3><br>
@@ -113,7 +113,7 @@ html {
 <div class="row" id="2011">       
      <h2>&nbsp; &nbsp;10. 100 Days My Prince</h2>
 <div class="col-md-7">
-      <img src="100day.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/100day.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -142,7 +142,7 @@ html {
     <div class="row" id="2011">       
      <h2>&nbsp; &nbsp;9. Faith</h2>
 <div class="col-md-7">
-      <img src="faith.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/faith.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -178,7 +178,7 @@ The series follows how Choi Young and Eun-soo evade and overcome impending probl
       <div class="row" id="2017">
     <h2>&nbsp; &nbsp;8. Love In Moonlight </h2>
 <div class="col-md-7">
-      <img src="moonlight.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/moonlight.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -212,7 +212,7 @@ The series follows how Choi Young and Eun-soo evade and overcome impending probl
     <div class="row" id="2013">
     <h2>&nbsp; &nbsp;7. Tale Of Nokdu </h2>
 <div class="col-md-7">
-      <img src="nokdu.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/nokdu.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -242,7 +242,7 @@ The series follows how Choi Young and Eun-soo evade and overcome impending probl
     <div class="row">      
     <h2>&nbsp; &nbsp;6. Gu Family Book </h2>
 <div class="col-md-7">
-<img src="Gu-family.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/Gu-family.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -279,7 +279,7 @@ They met at the Hundred Years Inn, the most popular inn in the region, and fell 
     <div class="row">      
     <h2>&nbsp; &nbsp;5. Iljimae: The Phantom Theif </h2>
 <div class="col-md-7">
-<img src="iljimae.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/iljimae.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
        <h3 style="font-family:times new roman;text-align:center">
        <span class="fa fa-star checked"></span>
@@ -310,7 +310,7 @@ They met at the Hundred Years Inn, the most popular inn in the region, and fell 
       <div class="row">
 <h2>&nbsp; &nbsp;4. Moon Embracing The Sun</h2>
 <div class="col-md-7">
-<img src="sun.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/sun.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
 <h3 style="font-family:times new roman;text-align:center">
 <span class="fa fa-star checked"></span>
@@ -341,7 +341,7 @@ It was the MBC drama aired from Jan 2012 to Mar 2012 fror 20 episodes. The drama
    <div class="row">
 <h2>&nbsp; &nbsp;3. Hwarang: The Poet Warrior Youth</h2>
 <div class="col-md-7">
-<img src="hwarang.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+<img src="assets/hwarang.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
 <div class="col-md-5">
 <h3 style="font-family:times new roman;text-align:center">
 <span class="fa fa-star checked"></span>
@@ -375,7 +375,7 @@ In order to break the power of the nobles, who are become more and more power hu
     <div class="row" id="2015">       
      <h2>&nbsp; &nbsp;2. Empress Ki  </h2>
 <div class="col-md-7">
-      <img src="empresski.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/empresski.webp" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>
@@ -407,7 +407,7 @@ In order to break the power of the nobles, who are become more and more power hu
     </div>
      <h2>&nbsp; &nbsp;1. Moon Lovers </h2>
 <div class="col-md-7">
-      <img src="moon.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
+      <img src="assets/moon.jpg" class="img-thumbnail" style="border-radius: 1ex;"></div>
       <div class="col-md-5">
         <h3 style="font-family:times new roman;text-align:center">
         <span class="fa fa-star checked"></span>

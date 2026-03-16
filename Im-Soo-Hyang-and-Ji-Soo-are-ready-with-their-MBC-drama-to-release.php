@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -11,7 +11,7 @@
     <meta property="og:site_name" content="Top2Ten Asia" />
     <meta property="og:title" content="Im Soo Hyang and Ji Soo are ready with their MBC drama to release" />
     <link rel="canonical"
-        href="https://www.top2tenasia.xyz/Im-Soo-Hyang-and-Ji-Soo-are-ready-with-their-MBC-drama-to-release" />
+        href="/Im-Soo-Hyang-and-Ji-Soo-are-ready-with-their-MBC-drama-to-release" />
     <meta name="description" content="Im Soo Hyang and Ji Soo are ready with their MBC drama to release" />
     <meta name="keywords" content="Im Soo Hyang, Ji Soo, new drama, cha eun woo , My Id is gangnam beauty, new drama, new korean drama,My Prettiest Moments, When I was the prettiest
 ">
@@ -93,9 +93,9 @@
         height: 100%;
     }
     </style>
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
 </head>
 
@@ -107,7 +107,7 @@
                 <center style="background-color: coral;margin-top:-2.6ex;">
                     <p id="demo" style="color: white;font-size: 25px;"></p>
                 </center>
-                <center><img src="pretty.webp" class="img-thumbnail test"></center>
+                <center><img src="assets/pretty.webp" class="img-thumbnail test"></center>
                 <center>
                     <h1>Im Soo Hyang and Ji Soo are ready with their MBC drama to release</h1>
                 </center>
@@ -250,7 +250,7 @@
                         </button></center>
                 </a>
                 <br>
-                <a href="https://www.top2tenasia.xyz/trending">
+                <a href="/trending">
                     <center><button type="button" name="submit" class="btn softo-solid-btn" id="btnContactUs"
                             style="background-color: #3b5998;color: white">
                             Check Out Upcoming Dramas
@@ -266,12 +266,12 @@
                 <h2>Popular Posts</h2>
                 <div class="row" style="margin-top:2.5ex;border: 1px solid #ccc;border-radius: 4px;">
                     <div class="col-md-5">
-                        <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">
-                            <img src="k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+                        <a href="/top-10-best-korean-drama-of-the-decade">
+                            <img src="assets/k-drama.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
                         </a>
                     </div>
                     <div class="col-md-7">
-                        <a href="https://www.top2tenasia.xyz/top-10-best-korean-drama-of-the-decade">
+                        <a href="/top-10-best-korean-drama-of-the-decade">
                             <h2>
                                 Top 10 best Korean drama of decade</h2>
                         </a>
@@ -281,12 +281,12 @@
                 </div>
                 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
                     <div class="col-md-5">
-                        <a href="https://www.top2tenasia.xyz/best-korean-drama-from-each-year">
-                            <img src="king.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+                        <a href="/best-korean-drama-from-each-year">
+                            <img src="assets/king.jpg" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
                         </a>
                     </div>
                     <div class="col-md-7">
-                        <a href="https://www.top2tenasia.xyz/best-korean-drama-from-each-year">
+                        <a href="/best-korean-drama-from-each-year">
                             <h2>
                                 Best korean drama from each year</h2>
                         </a>
@@ -297,13 +297,13 @@
                 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
                     <div class="col-md-5">
                         <a
-                            href="https://www.top2tenasia.xyz/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
-                            <img src="min-ho.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+                            href="/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
+                            <img src="assets/min-ho.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
                         </a>
                     </div>
                     <div class="col-md-7">
                         <a
-                            href="https://www.top2tenasia.xyz/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
+                            href="/Lee-Min-Ho-Donates-350-Million-Won-to-COVID-19-funds-to-help-children">
                             <h2>
                                 Lee Min Ho Donates 350 Million Won to COVID-19 funds to help children</h2>
                         </a>
@@ -313,13 +313,13 @@
                 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
                     <div class="col-md-5">
                         <a
-                            href="https://www.top2tenasia.xyz/Yang-Yang-and-Zheng-Shuang-are-going-to-be-together-in-their-new-drama">
-                            <img src="loveo20.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+                            href="/Yang-Yang-and-Zheng-Shuang-are-going-to-be-together-in-their-new-drama">
+                            <img src="assets/loveo20.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
                         </a>
                     </div>
                     <div class="col-md-7">
                         <a
-                            href="https://www.top2tenasia.xyz/Yang-Yang-and-Zheng-Shuang-are-going-to-be-together-in-their-new-drama">
+                            href="/Yang-Yang-and-Zheng-Shuang-are-going-to-be-together-in-their-new-drama">
                             <h2>
                                 Yang Yang and Zhen Shuang is coming together once again in their new drama</h2>
                         </a>
@@ -329,13 +329,13 @@
                 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
                     <div class="col-md-5">
                         <a
-                            href="https://www.top2tenasia.xyz/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
-                            <img src="flower.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+                            href="/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
+                            <img src="assets/flower.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
                         </a>
                     </div>
                     <div class="col-md-7">
                         <a
-                            href="https://www.top2tenasia.xyz/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
+                            href="/Lee-Joon-Gi-Is-Back-With-His-New-Upcoming-tvN-Thriller-Drama">
                             <h2>
                                 Lee Joon Gi Is Back With His New Upcoming tvN Thriller Drama </h2>
                         </a>
@@ -345,13 +345,13 @@
                 <div class="row" style="margin-top:5ex;border: 1px solid #ccc;border-radius: 4px;">
                     <div class="col-md-5">
                         <a
-                            href="https://www.top2tenasia.xyz/Nam-Joo-Hyuk-and-Bae-Suzy-will-be-together-in-the-TVN's-new-upcoming-drama-Start-Up">
-                            <img src="head.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
+                            href="/Nam-Joo-Hyuk-and-Bae-Suzy-will-be-together-in-the-TVN's-new-upcoming-drama-Start-Up">
+                            <img src="assets/head.webp" class="img-thumbnail" style="border-radius: 1ex;margin-top:1.5ex;">
                         </a>
                     </div>
                     <div class="col-md-7">
                         <a
-                            href="https://www.top2tenasia.xyz/Nam-Joo-Hyuk-and-Bae-Suzy-will-be-together-in-the-TVN's-new-upcoming-drama-Start-Up">
+                            href="/Nam-Joo-Hyuk-and-Bae-Suzy-will-be-together-in-the-TVN's-new-upcoming-drama-Start-Up">
                             <h2>
                                 Nam-Joo-Hyuk and-Bae Suzy will be together in the TVN's new upcoming drama Start-Up
                             </h2>

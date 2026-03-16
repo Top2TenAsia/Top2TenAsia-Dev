@@ -18,8 +18,10 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <link rel="canonical" href="https://www.top2tenasia.xyz/" />
+    <link rel="canonical" href="/" />
     <link rel="stylesheet" href="article/assets/css/main.css" />
+    <?php require_once __DIR__ . '/includes/config.php'; ?>
+    <script>window.BASE_PATH = '<?php echo addslashes(base_path()); ?>';</script>
     <script src="type.js"></script>
     <script src="mainScript.js"></script>
     <meta name="description"

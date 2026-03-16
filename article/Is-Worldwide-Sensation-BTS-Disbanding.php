@@ -24,7 +24,7 @@
 		<meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/BTS-Disbanding.webp" />
 		<!-- Post Url -->
 		<meta property="og:url" content="https://www.top2tenasia.xyz/article/Is-Worldwide-Sensation-BTS-Disbanding" />
-		<link rel="canonical" href="https://www.top2tenasia.xyz/article/Is-Worldwide-Sensation-BTS-Disbanding" />
+		<link rel="canonical" href="/article/Is-Worldwide-Sensation-BTS-Disbanding" />
 		<!-- Post Description -->
 		<meta property="og:description" content="Worldwide famous South Korean boyband BTS who made their debut in
         2013 rule over millions of hearts in the world. BTS became famous

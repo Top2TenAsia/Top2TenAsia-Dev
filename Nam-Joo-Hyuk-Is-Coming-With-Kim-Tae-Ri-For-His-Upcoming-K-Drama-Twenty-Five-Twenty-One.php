@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -35,7 +35,7 @@ casted against very beautiful Kim Tae Ri. She is popular for her
 roles in many shows like “Mr.Sunshine” and her latest series
 “Space Sweepers” was also quite exciting" />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/Twenty-Five-Twenty-One.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Nam-Joo-Hyuk-Is-Coming-With-Kim-Tae-Ri-For-His-Upcoming-K-Drama-Twenty-Five-Twenty-One" />
+<link rel="canonical" href="/Nam-Joo-Hyuk-Is-Coming-With-Kim-Tae-Ri-For-His-Upcoming-K-Drama-Twenty-Five-Twenty-One" />
   <meta name="description" content="“After giving dazzling performance in his last hit series “Start-
 up”, Nam Joo-Hyuk’s fans haven’t got to see him much on the
 screen even he appeared in “The school Nurse files” , but it
@@ -123,9 +123,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
@@ -225,7 +225,7 @@ is going to be a huge success of 2022.
 </div>
  <h3 style="color:coral;font-weight:bold;border;text-align:center">Loved Our Content?</h3>
    <center><form action="https://www.paypal.me/harishpanwar1998">
-<img src="kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
+<img src="assets/kimchi.png"> <input type="submit" value="Buy us a kimchi" class="btn btn-success"/>
 </form></center>
 <div class="col-md-4">
 <hr>

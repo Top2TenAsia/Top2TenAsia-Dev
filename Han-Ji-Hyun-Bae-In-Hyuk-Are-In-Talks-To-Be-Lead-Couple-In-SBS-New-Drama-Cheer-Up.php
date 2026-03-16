@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -33,7 +33,7 @@ In Hyuk, he is very handsome and one of my favorite actors.
 He is known for his roles in dramas such as My Roommate Is
 a Gumiho, XX and The Spies Who Loved Me and many more." />
 <meta property="og:image" content="https://www.top2tenasia.xyz/assets/Cheer-Up.webp" />
-<link rel="canonical" href="https://www.top2tenasia.xyz/Han-Ji-Hyun-Bae-In-Hyuk-Are-In-Talks-To-Be-Lead-Couple-In-SBS-New-Drama-Cheer-Up" />
+<link rel="canonical" href="/Han-Ji-Hyun-Bae-In-Hyuk-Are-In-Talks-To-Be-Lead-Couple-In-SBS-New-Drama-Cheer-Up" />
   <meta name="description" content="Good news for K-Drama lovers. According to recent sources
 Han Ji Hyun and Bae In Hyuk are going to appear in SBS’s
 upcoming show “Cheer Up”. Han Ji-hyun is a South Korean
@@ -121,9 +121,9 @@ html {
   height: 100%;
 }
 </style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>

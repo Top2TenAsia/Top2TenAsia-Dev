@@ -2,11 +2,35 @@
     "1":{
        "articles":[
          {
+           "title":"Top 10 Most Followed K-Drama Actresses On Instagram",
+           "date": "Mar 16, 2026",
+           "author": "Top2Ten Asia",
+           "category": "K-Drama Top 10 List",
+           "link":"/top-10-most-followed-kdrama-actresses-on-instagram",
+           "postImage": "article/assets/top-10-list/most-followed-actresses.webp"
+         },
+         {
+           "title":"Top 10 Most Followed K-Drama Actors On Instagram",
+           "date": "Mar 16, 2026",
+           "author": "Top2Ten Asia",
+           "category": "K-Drama Top 10 List",
+           "link":"/top-10-most-followed-kdrama-actors-on-instagram",
+           "postImage": "assets/top 10 most followed kdrama actors on instagram.webp"
+         },
+         {
+           "title":"Top 10 Most Viewed K-Drama OSTs On YouTube",
+           "date": "2021",
+           "author": "art_lover",
+           "category": "K-Drama Top 10 List",
+           "link":"/Top-10-Most-Viewed-K-Drama-OSTs-On-Youtube",
+           "postImage": "assets/k-drama.png"
+         },
+         {
            "title":"Top 10 Best Comedy Korean Drama Of All Time",
            "date": "8 Jul, 2021",
            "author": "art_lover",
            "category": "K-Drama Top 10 List",
-           "link":"https://www.top2tenasia.xyz/Top-10-Best-Comedy-Korean-Drama-Of-All-Time",
+           "link":"/Top-10-Best-Comedy-Korean-Drama-Of-All-Time",
            "postImage": "assets/okaylove.webp"
          },
           {
@@ -14,15 +38,15 @@
            "date": "14 May, 2021",
            "author": "art_lover",
            "category": "K-Drama Top 10 List",
-           "link":"https://www.top2tenasia.xyz/top-10-best-action-korean-dramas",
-           "postImage": "des.jpg"
+           "link":"/top-10-best-action-korean-dramas",
+           "postImage": "assets/des.jpg"
          },
           {
            "title":"Top 10 Best Korean Dramas On Netflix",
            "date": "14 Jun, 2021",
            "author": "art_lover",
            "category": "K-Drama Top 10 List",
-           "link":"https://www.top2tenasia.xyz/top-10-best-korean-dramas-on-netflix",
+           "link":"/top-10-best-korean-dramas-on-netflix",
            "postImage": "assets/vincenzo.webp"
          },
           {
@@ -30,23 +54,89 @@
            "date": "26 Jun, 2021",
            "author": "art_lover",
            "category": "K-Drama Top 10 List",
-           "link":"https://www.top2tenasia.xyz/top-10-best-rom-com-k-dramas",
+           "link":"/top-10-best-rom-com-k-dramas",
            "postImage": "assets/robot.webp"
+         },
+         {
+           "title":"Top 10 Best Science-Fiction (Sci-Fi) K-Dramas Of All Time",
+           "date": "8 Aug, 2021",
+           "author": "art_lover",
+           "category": "K-Drama Top 10 List",
+           "link":"/Top-10-Best-Science-Fiction-K-Dramas-Of-All-Time",
+           "postImage": "assets/alice.webp"
+         },
+         {
+           "title":"Top 10 Best Korean Dramas Of 2018",
+           "date": "13 Jun, 2021",
+           "author": "Top2Ten Asia",
+           "category": "K-Drama Top 10 List",
+           "link":"/top-10-best-korean-dramas-of-2018",
+           "postImage": "assets/2018-K-Drama.webp"
+         },
+         {
+           "title":"Top 10 Best Korean Dramas Of 2020",
+           "date": "9 Jun, 2020",
+           "author": "Top2Ten Asia",
+           "category": "K-Drama Top 10 List",
+           "link":"/top-10-best-korean-dramas-of-2020",
+           "postImage": "assets/2020-K-Dramas.webp"
+         },
+         {
+           "title":"Top 10 Best Korean Drama Of 2016",
+           "date": "9 Mar, 2021",
+           "author": "Top2Ten Asia",
+           "category": "K-Drama Top 10 List",
+           "link":"/top-10-best-korean-drama-of-2016",
+           "postImage": "assets/moonlight.webp"
+         },
+         {
+           "title":"Top 10 Best Historical Korean Drama of All Time",
+           "date": "7 Mar, 2021",
+           "author": "Top2Ten Asia",
+           "category": "K-Drama Top 10 List",
+           "link":"/top-10-best-historical-korean-drama-of-all-time",
+           "postImage": "assets/hwarang.webp"
+         },
+         {
+           "title":"Best Korean Drama From Each Year",
+           "date": "28 Feb, 2021",
+           "author": "Top2Ten Asia",
+           "category": "K-Drama Top 10 List",
+           "link":"/best-korean-drama-from-each-year",
+           "postImage": "assets/king.jpg"
+         },
+         {
+           "title":"Top 10 Best Korean Drama Of The Decade",
+           "date": "8 Apr, 2020",
+           "author": "Top2Ten Asia",
+           "category": "K-Drama Top 10 List",
+           "link":"/top-10-best-korean-drama-of-the-decade",
+           "postImage": "assets/k-drama.jpg"
+         },
+         {
+           "title":"Top 10 Best Business Korean Dramas",
+           "date": "2021",
+           "author": "art_lover",
+           "category": "K-Drama Top 10 List",
+           "link":"/top-10-best-business-korean-dramas",
+           "postImage": "assets/des.jpg"
+         },
+         {
+           "title":"Top 10 Best Thriller Korean Dramas",
+           "date": "2021",
+           "author": "art_lover",
+           "category": "K-Drama Top 10 List",
+           "link":"/top-10-best-thriller-korean-dramas",
+           "postImage": "assets/signal.webp"
+         },
+         {
+           "title":"Top 10 Best K-Drama Of 2021 First Half",
+           "date": "2021",
+           "author": "art_lover",
+           "category": "K-Drama Top 10 List",
+           "link":"/Top-10-Best-K-Drama-Of-2021-First-Half",
+           "postImage": "assets/k-drama.png"
          }
-         
        ]
-    },
-    "2":{
-      "articles":[
-        {
-         "title":"Top 10 Best Science-Fiction (Sci-Fi) K-Dramas Of All Time",
-         "date": "8 August, 202",
-         "author": "art_lover",
-         "category": "K-Drama Top 10 List",
-         "link":"https://www.top2tenasia.xyz/Top-10-Best-Science-Fiction-K-Dramas-Of-All-Time",
-         "postImage": "assets/alice.webp"
-       }
-        
-      ]
-   }
+    }
   }
