@@ -41,6 +41,7 @@ Their Feet”." />
 
 				<!-- Header -->
 <?php include 'header.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-start.php'; ?>
 				<!-- Main -->
 					<div id="main">
 
@@ -110,7 +111,9 @@ revealed yet. Stay tuned to get more updates.</p>
 <script>
  (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-					<?php include 'mini-post.php';?>
+					<?php include __DIR__ . '/includes/single-article-layout-split.php'; ?>
+<?php include 'mini-post.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-end.php'; ?>
 
 
 				<!-- Footer -->

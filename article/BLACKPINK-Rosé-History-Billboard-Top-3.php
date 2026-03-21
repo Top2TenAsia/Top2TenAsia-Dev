@@ -47,6 +47,7 @@
 
         <!-- Header -->
         <?php include 'header.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-start.php'; ?>
         <!-- Main -->
         <div id="main">
 
@@ -127,7 +128,9 @@
         (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
     </div>
-    <?php include 'mini-post.php';?>
+    <?php include __DIR__ . '/includes/single-article-layout-split.php'; ?>
+<?php include 'mini-post.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-end.php'; ?>
 
     <!-- Footer -->
     <section id="footer">

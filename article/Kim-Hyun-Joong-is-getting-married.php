@@ -43,6 +43,7 @@ girlfriend" />
 
 				<!-- Header -->
 <?php include 'header.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-start.php'; ?>
 				<!-- Main -->
 					<div id="main">
 
@@ -125,7 +126,9 @@ precious relationship in a difficult time.&quot;<br><br>
 <script>
  (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-					<?php include 'mini-post.php';?>
+					<?php include __DIR__ . '/includes/single-article-layout-split.php'; ?>
+<?php include 'mini-post.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-end.php'; ?>
 
 
 				<!-- Footer -->

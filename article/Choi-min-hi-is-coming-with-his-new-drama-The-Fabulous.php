@@ -42,6 +42,7 @@ upcoming Netflix&#39;s drama is going to be aired in 2022." />
 
 				<!-- Header -->
 <?php include 'header.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-start.php'; ?>
 
 				<!-- Main -->
 					<div id="main">
@@ -113,7 +114,9 @@ exact dates are not revealed yet but soon will be disclosed.</p>
  (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 					<!-- Mini Posts -->
-								<?php include 'mini-post.php';?>
+								<?php include __DIR__ . '/includes/single-article-layout-split.php'; ?>
+<?php include 'mini-post.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-end.php'; ?>
 
 
 				<!-- Footer -->

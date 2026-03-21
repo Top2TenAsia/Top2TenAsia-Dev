@@ -41,6 +41,7 @@
 			<div id="wrapper">
 
 <?php include 'header.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-start.php'; ?>
 
 				<!-- Main -->
 					<div id="main">
@@ -117,7 +118,9 @@ soon be aired in 2022.</p>
  (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 					<!-- Mini Posts -->
-								<?php include 'mini-post.php';?>
+								<?php include __DIR__ . '/includes/single-article-layout-split.php'; ?>
+<?php include 'mini-post.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-end.php'; ?>
 
 
 				<!-- Footer -->

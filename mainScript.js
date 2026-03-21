@@ -9,6 +9,33 @@ function applyBasePath(url) {
   return url;
 }
 
+/** Strip base path, trailing slash, .php — for comparing current page to article links */
+function normalizePathKey(path) {
+  if (!path) return '/';
+  var p = path;
+  if (BASE_PATH && p.indexOf(BASE_PATH) === 0) {
+    p = p.substring(BASE_PATH.length) || '/';
+  }
+  p = p.replace(/\/$/, '').replace(/\.php$/i, '').toLowerCase();
+  if (p === '') p = '/';
+  return p;
+}
+
+/** True if this article link is the page the user is currently viewing */
+function isSamePageAsCurrent(articleLink) {
+  var cur = normalizePathKey(window.location.pathname);
+  var raw = articleLink || '';
+  if (raw.indexOf('http') === 0) {
+    try {
+      raw = new URL(raw).pathname;
+    } catch (e) {
+      return false;
+    }
+  }
+  var key = normalizePathKey(raw);
+  return cur === key;
+}
+
 //Fetch Main article code
 fetch_articles();
 fetch_trending_articles();
@@ -23,12 +50,16 @@ function fetch_articles() {
       if (!jsonData) jsonData = json;
       if (json[page] && json[page].articles && json[page].articles.length > 0) {
         let element = document.getElementById("main");
+        if (!element) return;
         element.innerHTML = "";
         for (
           let noOfArticles = 0;
           noOfArticles < json[page].articles.length;
           noOfArticles++
         ) {
+          if (isSamePageAsCurrent(json[page].articles[noOfArticles].link)) {
+            continue;
+          }
           var link = applyBasePath(json[page].articles[noOfArticles].link);
           var postImg = applyBasePath(json[page].articles[noOfArticles].postImage);
           element.innerHTML +=
@@ -114,11 +145,15 @@ function fetch_trending_articles() {
       console.log(json[1].articles);
       if (json[1] && json[1].articles && json[1].articles.length > 0) {
         let trendingElement = document.querySelector(".mini-posts");
+        if (!trendingElement) return;
         for (
           let noOfTArticles = 0;
           noOfTArticles < json[1].articles.length;
           noOfTArticles++
         ) {
+          if (isSamePageAsCurrent(json[1].articles[noOfTArticles].link)) {
+            continue;
+          }
           var tLink = applyBasePath(json[1].articles[noOfTArticles].link);
           var tImg = applyBasePath(json[1].articles[noOfTArticles].postImage);
           trendingElement.innerHTML +=
@@ -153,11 +188,15 @@ function fetch_topten_articles() {
       console.log(json[1].articles);
       if (json[1] && json[1].articles && json[1].articles.length > 0) {
         let topElement = document.querySelector(".posts");
+        if (!topElement) return;
         for (
           let noOfTArticles = 0;
           noOfTArticles < json[1].articles.length;
           noOfTArticles++
         ) {
+          if (isSamePageAsCurrent(json[1].articles[noOfTArticles].link)) {
+            continue;
+          }
           var pLink = applyBasePath(json[1].articles[noOfTArticles].link);
           var pImg = applyBasePath(json[1].articles[noOfTArticles].postImage);
           topElement.innerHTML +=

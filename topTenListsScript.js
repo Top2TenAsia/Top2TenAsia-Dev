@@ -9,6 +9,33 @@ function applyBasePath(url) {
   return url;
 }
 
+function normalizePathKey(path) {
+  if (!path) return '/';
+  var p = path;
+  if (BASE_PATH && p.indexOf(BASE_PATH) === 0) {
+    p = p.substring(BASE_PATH.length) || '/';
+  }
+  p = p.replace(/\/$/, '').replace(/\.php$/i, '').toLowerCase();
+  if (p === '') p = '/';
+  return p;
+}
+
+function isSamePageAsCurrent(articleLink) {
+  var cur = normalizePathKey(window.location.pathname);
+  var raw = articleLink || '';
+  if (raw.indexOf('http') === 0) {
+    try {
+      raw = new URL(raw).pathname;
+    } catch (e) {
+      return false;
+    }
+  }
+  return cur === normalizePathKey(raw);
+}
+
+function fetch_trending_articles() {}
+function fetch_topten_articles() {}
+
 //Fetch Main article code
 fetch_articles();
 fetch_trending_articles();
@@ -24,12 +51,16 @@ function fetch_articles() {
         jsonData = json;
         if(json[page] && json[page].articles && json[page].articles.length > 0){
         let element = document.getElementById("main");
+        if (!element) return;
         element.innerHTML = "";
       for (
         let noOfArticles = 0;
         noOfArticles < json[page].articles.length;
         noOfArticles++
       ) {
+        if (isSamePageAsCurrent(json[page].articles[noOfArticles].link)) {
+          continue;
+        }
         var link = applyBasePath(json[page].articles[noOfArticles].link);
         var postImg = applyBasePath(json[page].articles[noOfArticles].postImage);
         element.innerHTML +=

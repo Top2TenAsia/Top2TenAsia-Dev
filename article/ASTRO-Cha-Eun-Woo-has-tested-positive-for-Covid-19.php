@@ -43,6 +43,7 @@ list. Recently it is revealed that our loving Cha Eun Woo also tested positive f
 
 				<!-- Header -->
 <?php include 'header.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-start.php'; ?>
 				<!-- Main -->
 					<div id="main">
 
@@ -114,7 +115,9 @@ Thank you.</p>
 <script>
  (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-					<?php include 'mini-post.php';?>
+					<?php include __DIR__ . '/includes/single-article-layout-split.php'; ?>
+<?php include 'mini-post.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-end.php'; ?>
 
 
 				<!-- Footer -->

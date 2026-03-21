@@ -42,6 +42,7 @@ upcoming drama “My Liberation Diary." />
 
 				<!-- Header -->
 <?php include 'header.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-start.php'; ?>
 
 				<!-- Main -->
 					<div id="main">
@@ -124,7 +125,9 @@ for release of the drama is not revealed yet.</p>
  (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 					<!-- Mini Posts -->
-							<?php include 'mini-post.php';?>
+							<?php include __DIR__ . '/includes/single-article-layout-split.php'; ?>
+<?php include 'mini-post.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-end.php'; ?>
 
 
 				<!-- Footer -->

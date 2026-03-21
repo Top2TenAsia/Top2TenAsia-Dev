@@ -42,6 +42,7 @@ amazingly talented and beautiful cast." />
 
 				<!-- Header -->
 <?php include 'header.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-start.php'; ?>
 				<!-- Main -->
 					<div id="main">
 
@@ -116,7 +117,9 @@ expected to be released soon in second half of 2022.</p>
 <script>
  (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-					<?php include 'mini-post.php';?>
+					<?php include __DIR__ . '/includes/single-article-layout-split.php'; ?>
+<?php include 'mini-post.php';?>
+<?php include __DIR__ . '/includes/single-article-layout-end.php'; ?>
 
 
 				<!-- Footer -->
