@@ -78,16 +78,16 @@
 
 				<!-- Main -->
 					<div id="main">
-            <div class="title"><h1>About Us<h1></div>
+            <div class="title"><h1>About Us</h1></div>
 						<p>Top2Ten Asia is a Korean entertainment media website providing complete coverage of Korean Drama and pop culture.
-            Founded in March 21, 2020, Top2TenAsia has become one of the famous entertainment website for all the latest news on Korean celebrities, 
-            music, TV shows, movies, and style with bringing you exclusive content.</p><br>
+            Founded on <strong>March 21, 2020</strong>, Top2Ten Asia has become one of the famous entertainment websites for all the latest news on Korean celebrities, 
+            music, TV shows, movies, and style, bringing you exclusive content.</p><br>
 
 						<h2>OUR STORY</h2>
-						<p>Top2Ten Asia Journey began in 2020 when a lonely fan created a Korean Drama and pop music Instagram page named as "top2ten.asia" and after few months on 16, Jun 2020 created a fan site top2tenasia.xyz from his home in New Delhi. As a fan of a K-Drama and K-pop, “Harish Panwar” (Founder of Top2Ten Asia) initially started his site and Instagram page with his brother and Co-Founder “Manish Panwar” with the goal of providing a place where he and his Indian K-Drama and K-pop friends could share their love for the Korean content and their counterparts. However, Top2TenAsia quickly gained attractionin the Korean pop culture fan world and has grown into one of the most distinct media with over 70,000 people following the Instagram and regularly visiting the website.<p>
+						<p>Top2Ten Asia&rsquo;s journey began in 2020 when a lonely fan created a Korean drama and pop music Instagram page named &ldquo;top2ten.asia&rdquo; and, after a few months, on 16 June 2020, created the fan site top2tenasia.xyz from his home in New Delhi. As a fan of K-Drama and K-pop, <strong>Harish Panwar</strong> (Founder of Top2Ten Asia) initially started his site and Instagram page with his brother and Co-Founder, <strong>Manish Panwar</strong>, with the goal of providing a place where he and his Indian K-Drama and K-pop friends could share their love for Korean content and their counterparts. However, Top2Ten Asia quickly gained attraction in the Korean pop culture fan world and has grown into one of the most distinct media, with <strong>128K+ followers on Instagram</strong> and <strong>65K+ on Facebook</strong>, plus readers regularly visiting the website.</p>
+						<p>Facebook: <a href="https://www.facebook.com/top2ten.asia/">facebook.com/top2ten.asia</a> &nbsp;|&nbsp; Instagram: <a href="https://www.instagram.com/top2ten.asia/">@top2ten.asia</a></p>
 						<h2>CONTACT US</h2>
-						Email:
-						Press and Media Inquiries: top2tenasia@gmail.com
+						<p>Email &mdash; Press and media inquiries: <a href="mailto:top2tenasia@gmail.com">top2tenasia@gmail.com</a></p>
 					</div>
 
 			</div>
