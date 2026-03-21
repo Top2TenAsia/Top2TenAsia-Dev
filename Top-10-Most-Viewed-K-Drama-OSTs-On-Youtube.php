@@ -158,8 +158,8 @@
                         <p>Top 10 List: K-Drama OSTs by YouTube views</p>
                     </div>
                     <div class="meta">
-                        <time class="published" datetime="2026-03-16">Mar 16, 2026</time>
-                        <a href="https://www.instagram.com/art_lover_2307/" class="author"><span class="name">art_lover_2307</span><img src="article/images/avatar.jpg" alt="" /></a>
+                        <time class="published" datetime="2026-03-16">Mar 21, 2026</time>
+                        <a href="https://www.instagram.com/top2ten.asia/" class="author"><span class="name">Top2Ten Asia</span><img src="article/images/avatar.jpg" alt="" /></a>
                     </div>
                 </header>
                 <?php
