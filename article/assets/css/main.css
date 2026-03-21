@@ -4036,8 +4036,14 @@ input, select, textarea {
 	justify-content: space-between;
 	gap: 0.5em;
 	padding: 0.4em 0;
+	margin-top: 0;
 	margin-bottom: 0.5em;
 	font-size: 0.9em;
+}
+/* Space below stats row lives on the hero image, not on the views/like/love row */
+article.post:has(> .article-stats-bar) > span.image.featured:first-of-type {
+	display: block;
+	margin-top: 1.25em;
 }
 .article-stats-bar .article-stats-views {
 	color: #666;
@@ -4052,22 +4058,53 @@ input, select, textarea {
 	gap: 0.5em;
 	margin-left: auto;
 }
+/* Reaction buttons: reset global theme `button` (inset box-shadow border, fixed height, teal hover) */
+button.article-reaction-btn,
 .article-reaction-btn {
 	display: inline-flex;
 	align-items: center;
-	gap: 0.3em;
-	padding: 0.25em 0.45em;
-	background: transparent;
-	border: none;
-	border-radius: 4px;
+	gap: 0.35em;
+	padding: 0 !important;
+	margin: 0;
+	min-height: 0 !important;
+	height: auto !important;
+	line-height: 1.2 !important;
+	background: transparent !important;
+	border: none !important;
+	border-radius: 0 !important;
+	box-shadow: none !important;
+	-webkit-appearance: none;
+	appearance: none;
 	cursor: pointer;
-	font-size: 1em;
-	font-weight: 500;
-	transition: background 0.15s ease, color 0.15s ease;
-	color: #999;
+	font-family: inherit !important;
+	font-size: 1em !important;
+	font-weight: 500 !important;
+	letter-spacing: normal !important;
+	text-transform: none !important;
+	text-align: left;
+	white-space: nowrap;
+	transition: color 0.15s ease, opacity 0.15s ease;
+	color: #666;
+}
+.article-reaction-btn:hover,
+.article-reaction-btn:hover:not(.reacted),
+.article-reaction-btn:focus {
+	box-shadow: none !important;
+	background: transparent !important;
 }
 .article-reaction-btn:hover:not(.reacted) {
-	background: rgba(0, 0, 0, 0.05);
+	opacity: 0.85;
+}
+.article-reaction-btn:focus {
+	outline: none;
+}
+.article-reaction-btn:focus-visible {
+	outline: 2px solid rgba(46, 186, 174, 0.45);
+	outline-offset: 3px;
+}
+.article-reaction-btn:active {
+	box-shadow: none !important;
+	background: transparent !important;
 }
 .article-reaction-btn .article-reaction-icon {
 	display: inline-flex;
@@ -4083,11 +4120,11 @@ input, select, textarea {
 	display: block;
 	fill: currentColor;
 }
-.article-reaction-btn[data-reaction="like"]:not(.reacted):hover { color: #1877f2; background: rgba(24, 119, 242, 0.1); }
-.article-reaction-btn[data-reaction="like"].reacted { color: #1877f2; }
+.article-reaction-btn[data-reaction="like"]:not(.reacted):hover { color: #1877f2; opacity: 1; }
+.article-reaction-btn[data-reaction="like"].reacted { color: #1877f2; opacity: 1; }
 .article-reaction-btn[data-reaction="like"].reacted .article-reaction-icon svg { fill: #1877f2; }
-.article-reaction-btn[data-reaction="love"]:not(.reacted):hover { color: #e53935; background: rgba(229, 57, 53, 0.1); }
-.article-reaction-btn[data-reaction="love"].reacted { color: #e53935; }
+.article-reaction-btn[data-reaction="love"]:not(.reacted):hover { color: #c62828; opacity: 1; }
+.article-reaction-btn[data-reaction="love"].reacted { color: #e53935; opacity: 1; }
 .article-reaction-btn[data-reaction="love"].reacted .article-reaction-icon svg { fill: #e53935; }
 .article-reaction-btn.reacted { cursor: pointer; }
 

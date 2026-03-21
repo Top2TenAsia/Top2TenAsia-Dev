@@ -26,12 +26,13 @@ $base = function_exists('base_path') ? base_path() : '';
 $formatted_views = $view_count >= 1000 ? (round($view_count / 1000, 1) . 'k') : (string) $view_count;
 ?>
 <style>
-.article-stats-bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:0.5em;padding:0.4em 0;margin-bottom:0.75em;font-size:0.9em}
+.article-stats-bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:0.5em;padding:0.4em 0;margin-top:0;margin-bottom:0.75em;font-size:0.9em}
 .article-stats-bar .article-stats-views{color:#666}
 .article-stats-bar .article-stats-views i{margin-right:0.3em;opacity:0.8}
 .article-stats-reactions{display:flex;align-items:center;gap:0.4em;margin-left:auto}
-.article-reaction-btn{display:inline-flex;align-items:center;gap:0.25em;padding:0.15em 0.35em;background:transparent;border:none;border-radius:999px;cursor:pointer;font-size:0.95em;font-weight:500;transition:background 0.15s ease, color 0.15s ease;color:#777}
-.article-reaction-btn:hover:not(.reacted){background:rgba(0,0,0,0.04)}
+.article-reaction-btn{display:inline-flex;align-items:center;gap:0.35em;padding:0!important;margin:0;min-height:0!important;height:auto!important;line-height:1.2!important;background:transparent!important;border:none!important;border-radius:0!important;box-shadow:none!important;-webkit-appearance:none;appearance:none;cursor:pointer;font:inherit;font-size:0.95em!important;font-weight:500!important;letter-spacing:normal!important;text-transform:none!important;color:#666;transition:color .15s ease,opacity .15s ease}
+.article-reaction-btn:hover,.article-reaction-btn:focus{box-shadow:none!important;background:transparent!important}
+.article-reaction-btn:hover:not(.reacted){opacity:.85}
 .article-reaction-btn .article-reaction-icon{display:inline-flex;align-items:center;justify-content:center;width:1.3em;height:1.3em;flex-shrink:0}
 .article-reaction-btn .article-reaction-icon svg{width:100%;height:100%;display:block;fill:currentColor}
 .article-reaction-btn[data-reaction="like"].reacted{color:#1877f2}
