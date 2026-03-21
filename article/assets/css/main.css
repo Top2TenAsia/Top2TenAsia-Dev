@@ -4094,9 +4094,11 @@ input, select, textarea {
 /* =============================================================================
    Mobile + Facebook / Instagram in-app browsers: stop left-shifted articles.
    Theme .post uses negative left + calc(width) — WebViews mis-measure parent
-   width and content hugs the left. This block loads last and resets offsets.
+   width and content hugs the left. Sidebar .mini-posts uses width: calc(100%+2em)
+   which also overflows. This block loads last and resets offsets up to 1280px
+   so tablet / in-app browser widths (often 980–1024px) are covered.
    ============================================================================= */
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 1280px) {
 
 	html {
 		overflow-x: hidden;
@@ -4105,6 +4107,13 @@ input, select, textarea {
 		-moz-text-size-adjust: 100%;
 		-webkit-text-size-adjust: 100%;
 		text-size-adjust: 100%;
+	}
+
+	body {
+		overflow-x: hidden;
+		width: 100%;
+		max-width: 100%;
+		position: relative;
 	}
 
 	#wrapper {
@@ -4122,8 +4131,39 @@ input, select, textarea {
 	.single-article-main {
 		width: 100% !important;
 		max-width: 100% !important;
-		margin-left: auto;
-		margin-right: auto;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		box-sizing: border-box;
+	}
+
+	/* All .post cards: kill theme "bleed" offsets (980px / 736px breakpoints) */
+	.post {
+		position: relative !important;
+		left: 0 !important;
+		right: auto !important;
+		width: 100% !important;
+		max-width: 100% !important;
+		margin-left: 0 !important;
+		margin-right: auto !important;
+		box-sizing: border-box !important;
+		transform: none !important;
+	}
+
+	.post > header {
+		position: relative !important;
+		left: 0 !important;
+		right: auto !important;
+		width: 100% !important;
+		max-width: 100% !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		box-sizing: border-box !important;
+	}
+
+	.post > header .meta {
+		min-width: 0 !important;
+		max-width: 100% !important;
+		width: auto !important;
 	}
 
 	#main .post,
@@ -4150,26 +4190,66 @@ input, select, textarea {
 
 	#main .post > .image.featured,
 	#main_other .post > .image.featured,
+	#main .post > a.image.featured,
+	#main_other .post > a.image.featured,
 	#main .post > span.image.featured,
 	#main_other .post > span.image.featured,
 	body.single .single-article-main .post > .image.featured,
+	body.single .single-article-main .post > a.image.featured,
 	body.single .single-article-main .post > span.image.featured {
 		margin-left: 0 !important;
 		margin-right: 0 !important;
 		width: 100% !important;
 		max-width: 100% !important;
+		left: 0 !important;
+		position: relative !important;
+		box-sizing: border-box !important;
 	}
 
 	#main .post > .image.featured img,
 	#main_other .post > .image.featured img,
+	#main .post > a.image.featured img,
+	#main_other .post > a.image.featured img,
 	#main .post > span.image.featured img,
 	#main_other .post > span.image.featured img,
-	body.single .single-article-main .post span.image.featured img {
+	body.single .single-article-main .post span.image.featured img,
+	body.single .single-article-main .post a.image.featured img {
 		max-width: 100% !important;
 		height: auto !important;
 		margin-left: auto !important;
 		margin-right: auto !important;
 		display: block;
+	}
+
+	/* Sidebar: Trending + Top 10 list — parent was calc(100% + 2em) → overflow */
+	#sidebar {
+		width: 100% !important;
+		max-width: 100% !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		box-sizing: border-box !important;
+		overflow-x: hidden !important;
+	}
+
+	#sidebar .mini-posts {
+		width: 100% !important;
+		max-width: 100% !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		box-sizing: border-box !important;
+	}
+
+	#sidebar ul.posts {
+		width: 100% !important;
+		max-width: 100% !important;
+		margin-left: 0 !important;
+		padding-left: 0 !important;
+		box-sizing: border-box !important;
+	}
+
+	#sidebar ul.posts article {
+		max-width: 100% !important;
+		box-sizing: border-box !important;
 	}
 
 	.post .intro-section,
