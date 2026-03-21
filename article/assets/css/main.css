@@ -4090,3 +4090,94 @@ input, select, textarea {
 .article-reaction-btn[data-reaction="love"].reacted { color: #e53935; }
 .article-reaction-btn[data-reaction="love"].reacted .article-reaction-icon svg { fill: #e53935; }
 .article-reaction-btn.reacted { cursor: pointer; }
+
+/* =============================================================================
+   Mobile + Facebook / Instagram in-app browsers: stop left-shifted articles.
+   Theme .post uses negative left + calc(width) — WebViews mis-measure parent
+   width and content hugs the left. This block loads last and resets offsets.
+   ============================================================================= */
+@media screen and (max-width: 896px) {
+
+	html {
+		overflow-x: hidden;
+		width: 100%;
+		max-width: 100%;
+		-moz-text-size-adjust: 100%;
+		-webkit-text-size-adjust: 100%;
+		text-size-adjust: 100%;
+	}
+
+	#wrapper {
+		width: 100% !important;
+		max-width: 100% !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		box-sizing: border-box;
+		padding-left: max(0.75em, env(safe-area-inset-left, 0px)) !important;
+		padding-right: max(0.75em, env(safe-area-inset-right, 0px)) !important;
+	}
+
+	#main,
+	#main_other,
+	.single-article-main {
+		width: 100% !important;
+		max-width: 100% !important;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	#main .post,
+	#main_other .post,
+	body.single .single-article-main .post {
+		position: relative !important;
+		left: 0 !important;
+		right: auto !important;
+		width: 100% !important;
+		max-width: 100% !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		transform: none !important;
+	}
+
+	#main .post > header,
+	#main_other .post > header,
+	body.single .single-article-main .post > header {
+		left: 0 !important;
+		width: 100% !important;
+		max-width: 100% !important;
+		margin-left: 0 !important;
+	}
+
+	#main .post > .image.featured,
+	#main_other .post > .image.featured,
+	#main .post > span.image.featured,
+	#main_other .post > span.image.featured,
+	body.single .single-article-main .post > .image.featured,
+	body.single .single-article-main .post > span.image.featured {
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		width: 100% !important;
+		max-width: 100% !important;
+	}
+
+	#main .post > .image.featured img,
+	#main_other .post > .image.featured img,
+	#main .post > span.image.featured img,
+	#main_other .post > span.image.featured img,
+	body.single .single-article-main .post span.image.featured img {
+		max-width: 100% !important;
+		height: auto !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		display: block;
+	}
+
+	.post .intro-section,
+	.post .content-section,
+	.post p {
+		max-width: 100%;
+		box-sizing: border-box;
+		word-wrap: break-word;
+		overflow-wrap: break-word;
+	}
+}
