@@ -25,5 +25,34 @@ li {
 li a { color: white; }
 li a:hover { color: #3b5998; }
 
-#nig, #night, #form, #nav, #navon { display: none; }
+#form, #nav, #navon { display: none; }
+
+/* Root theme toggle: single button, sun (yellow) or moon (light blue) */
+.theme-toggle-root-btn {
+  padding: 0; margin: 0; border: none; background: transparent;
+  font-size: 1.35em; cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+.theme-toggle-root-btn:hover { opacity: 0.9; }
+.theme-toggle-root-btn .theme-sun { color: #f5b041; }
+.theme-toggle-root-btn .theme-moon { display: none; color: #a8d8ea; }
+body.night-read .theme-toggle-root-btn .theme-sun { display: none !important; }
+body.night-read .theme-toggle-root-btn .theme-moon { display: inline !important; }
+.theme-toggle-root-mob { margin-top: 0.3em; }
 .header, .footer { margin: 0; }
+
+/* Night read / dark mode for root layout (header.php pages) */
+body.night-read { background: #1a1a1e !important; color: #d4d4d8 !important; }
+body.night-read .container,
+body.night-read .container-fluid { background: transparent; color: inherit; }
+body.night-read .navbar { background: rgba(30, 30, 34, 0.95) !important; }
+body.night-read #grad { opacity: 0.9; }
+body.night-read h1, body.night-read h2, body.night-read h3,
+body.night-read h4, body.night-read p, body.night-read li { color: #d4d4d8 !important; }
+body.night-read a { color: #7dd9d1 !important; }
+body.night-read a:hover { color: #5dd9d1 !important; }
+body.night-read .img-thumbnail { background: #2a2a2e; border-color: rgba(160,160,160,0.25); }
+body.night-read input, body.night-read .form-control {
+  background: #2a2a2e !important; border-color: rgba(160,160,160,0.25) !important; color: #e4e4e7 !important;
+}
+body.night-read .article-stats-bar .article-stats-views { color: #a0a0a8 !important; }

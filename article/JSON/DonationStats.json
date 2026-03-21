@@ -1,0 +1,105 @@
+{
+    "events": {
+        "inline-view": {
+            "count": 5,
+            "by_source": {
+                "localhost": 5
+            },
+            "by_browser": {
+                "desktop-browser": 4,
+                "android-browser": 1
+            },
+            "by_method": {
+                "paytm": 5
+            },
+            "by_location": {
+                "inline-card": 5
+            },
+            "by_article": {
+                "article-bts-smashes-first-week-sales-record-with-arirang-comeback": 5
+            },
+            "by_variant": {
+                "a": 5
+            },
+            "by_amount": {
+                "99": 5
+            }
+        },
+        "donation-click-client": {
+            "count": 4,
+            "by_source": {
+                "localhost": 4
+            },
+            "by_browser": {
+                "desktop-browser": 2,
+                "android-browser": 2
+            },
+            "by_method": {
+                "paytm": 3,
+                "paypal": 1
+            },
+            "by_location": {
+                "popup-method": 4
+            },
+            "by_article": {
+                "article-bts-smashes-first-week-sales-record-with-arirang-comeback": 4
+            },
+            "by_variant": {
+                "a": 4
+            },
+            "by_amount": {
+                "99": 4
+            }
+        },
+        "donation-click": {
+            "count": 6,
+            "by_source": {
+                "localhost": 6
+            },
+            "by_browser": {
+                "desktop-browser": 6
+            },
+            "by_method": {
+                "paytm": 4,
+                "paypal": 1,
+                "buymeacoffee": 1
+            },
+            "by_location": {
+                "popup-method": 4,
+                "support-page": 2
+            },
+            "by_article": {
+                "article-bts-smashes-first-week-sales-record-with-arirang-comeback": 4,
+                "support-us": 2
+            },
+            "by_variant": {
+                "a": 5,
+                "control": 1
+            },
+            "by_amount": {
+                "99": 5,
+                "499": 1
+            }
+        }
+    },
+    "totals": {
+        "inline-view": 5,
+        "donation-click-client": 4,
+        "donation-click": 6
+    },
+    "last_event": {
+        "event": "donation-click",
+        "payload": {
+            "source": "localhost",
+            "browser": "desktop_browser",
+            "article": "support-us",
+            "location": "support-page",
+            "method": "paytm",
+            "variant": "control",
+            "amount": "99",
+            "device": "desktop_browser",
+            "page": "/support-us.php",
+            "timestamp": "2026-03-21T11:47:01+00:00"
+        }
+    }
+}

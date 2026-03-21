@@ -50,10 +50,13 @@ $show_actresses = !mini_post_is_current_url($href_actresses);
 $show_actors    = !mini_post_is_current_url($href_actors);
 
 if (!$show_actresses && !$show_actors) {
-	return;
+	$show_related_lists = false;
+} else {
+	$show_related_lists = true;
 }
 ?>
 <!-- Mini Posts: Top 10 Instagram lists only (current page excluded) -->
+<?php if ($show_related_lists) : ?>
 							<section class="related-articles-section">
 							    <h2 class="related-articles-heading">Top 10 Instagram lists</h2>
 								<div class="mini-posts">
@@ -79,3 +82,4 @@ if (!$show_actresses && !$show_actors) {
 <?php endif; ?>
 								</div>
 							</section>
+<?php endif; ?>

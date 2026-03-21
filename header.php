@@ -1,34 +1,21 @@
 <?php require_once __DIR__ . '/includes/config.php'; ?>
 <script type="text/javascript">
-function day(){
-    document.body.style.background = "black";
-    document.body.style.color = "white";
-    document.getElementById("day").style.display="none";
-    document.getElementById("night").style.display="inline";
-
-}
-function night(){
-   document.body.style.background = "white";
-    document.body.style.color = "black";
-    document.getElementById("day").style.display="inline";
-    document.getElementById("night").style.display="none";
-
-}
-
-function da(){
-    document.body.style.background = "black";
-    document.body.style.color = "white";
-    document.getElementById("da").style.display="none";
-    document.getElementById("nig").style.display="inline";
-
-}
-function nig(){
-   document.body.style.background = "white";
-    document.body.style.color = "black";
-    document.getElementById("da").style.display="inline";
-    document.getElementById("nig").style.display="none";
-
-}
+(function(){
+    var KEY='night-read';
+    function setTheme(dark){
+        if(dark){document.body.classList.add('night-read');}else{document.body.classList.remove('night-read');}
+        try{localStorage.setItem(KEY,dark?'1':'0');}catch(e){}
+    }
+    try{if(localStorage.getItem(KEY)==='1')document.body.classList.add('night-read');}catch(e){}
+    function init(){
+        var btn=document.getElementById('theme-toggle-root'),mob=document.getElementById('theme-toggle-root-mob');
+        function toggle(){var dark=document.body.classList.toggle('night-read');setTheme(dark);}
+        if(btn)btn.onclick=toggle;
+        if(mob)mob.onclick=toggle;
+    }
+    if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init);}
+    else{setTimeout(init,0);}
+})();
 
 function tab(){
      document.getElementById("form").style.display="block";
@@ -73,8 +60,12 @@ function navon(){
         
         </ul>
         <ul class="nav navbar-nav navbar-right">
-        <li id="day"><button type='button' class="fa fa-sun-o" aria-hidden="true" style="margin-top:0.8ex;margin-right:2ex;border:none;background:transparent;font-size:30px;" onclick="day()"  title="Night Mode"></button></li>
-        <li id="night"><button type='button'class="fa fa-moon-o" aria-hidden="true" style="margin-top:0.8ex;border:none;margin-right:2ex;background:transparent;font-size:30px;color:white"  onclick="night()" title="Day Mode"></button></li>
+        <li class="theme-toggle-root-wrap">
+            <button type="button" class="theme-toggle-root-btn" id="theme-toggle-root" aria-label="Toggle theme" title="Toggle theme">
+                <i class="fa fa-sun-o theme-sun"></i>
+                <i class="fa fa-moon-o theme-moon"></i>
+            </button>
+        </li>
       <!--
 <button  style="margin-top:0.5ex;border:none;background:transparent;font-size:30px;color:black"  class="fa fa-user-circle" aria-hidden="true"  onclick="tab()" ></button>
 -->
@@ -92,10 +83,9 @@ function navon(){
 </div>
 <div style="width:100%;height:10ex;" id="grad">
   <center style="text-align:left">
-<div style="float:right;margin-right:2.5ex;">
-<button id="da" type='button' class="fa fa-sun-o" aria-hidden="true" style="margin-top:1.2ex;border:none;background:transparent;font-size:28px;text-align:right;color:white" onclick="da()"  title="Night Mode"></button>
-
-<button id="nig" type='button'class="fa fa-moon-o" aria-hidden="true" style="margin-top:1.3ex;border:none;background:transparent;font-size:28px;color:white;text-align:right;"  onclick="nig()" title="Day Mode"></button>
+<button type="button" class="theme-toggle-root-btn theme-toggle-root-mob" id="theme-toggle-root-mob" aria-label="Toggle theme" title="Toggle theme" style="float:right;margin-right:2.5ex;">
+<i class="fa fa-sun-o theme-sun"></i><i class="fa fa-moon-o theme-moon"></i>
+</button>
 <!--
 <button  style="margin-top:0.5ex;border:none;background:transparent;font-size:30px;color:black"  class="fa fa-user-circle" aria-hidden="true"  onclick="tab()" ></button>
 -->

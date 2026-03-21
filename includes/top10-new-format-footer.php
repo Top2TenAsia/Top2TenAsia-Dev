@@ -4,14 +4,11 @@
                 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
             </div>
             <footer>
-                <ul class="stats">
-                    <li><a href="#">Support us</a></li>
-                    <li><a href="https://www.paypal.me/harishpanwar1998" class="icon solid fa-heart">PayPal</a></li>
-                    <i class="fab fa-google-pay"></i>
-                    <li><a href="https://paytm.me/4-XO7RC" class="icon solid fa-heart">Paytm</a></li>
-                    <li><a href="#" class="icon solid fa-heart">GPay</a></li><i class="fab fa-google-pay"></i>
-                    <li><a href="#" class="icon solid fa-heart">Phone Pay</a></li>
-                </ul>
+                <?php
+                $donation_location = 'top10_new_format_footer';
+                $donation_article = isset($top10_slug) ? $top10_slug : donation_current_article_slug();
+                include __DIR__ . '/donation-support-links.php';
+                ?>
             </footer>
         </article>
     </div>
