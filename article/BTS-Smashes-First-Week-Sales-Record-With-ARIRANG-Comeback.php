@@ -17,7 +17,7 @@
     <meta property="og:site_name" content="Top2Ten Asia" />
     <meta property="og:title" content="BTS Makes Record-Breaking Comeback with ARIRANG, Sells Nearly 4 Million Copies on Day One" />
     <meta property="og:type" content="article" />
-    <meta property="og:image" content="https://www.top2tenasia.xyz/assets/bts.webp" />
+    <meta property="og:image" content="https://www.top2tenasia.xyz/article/assets/articleImage/BTS-Break-Records.webp" />
     <meta property="og:url" content="https://www.top2tenasia.xyz/article/BTS-Smashes-First-Week-Sales-Record-With-ARIRANG-Comeback" />
     <link rel="canonical" href="/article/BTS-Smashes-First-Week-Sales-Record-With-ARIRANG-Comeback" />
     <meta property="og:description" content="BTS's ARIRANG sold nearly 4 million copies on day one, topping iTunes in 80+ countries and streaming charts globally. First full-group comeback after military service." />
@@ -45,7 +45,7 @@
                     </div>
                 </header>
 
-                <span class="image featured"><img src="../assets/bts.webp" alt="BTS ARIRANG Comeback" /></span>
+                <span class="image featured"><img src="assets/articleImage/BTS-Break-Records.webp" alt="BTS ARIRANG Comeback" /></span>
                 <div class="content-ads">
                     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526" crossorigin="anonymous"></script>
                     <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526" data-ad-slot="7971452142" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -100,6 +100,12 @@
                 </ul>
 
                 <p>The lead single &quot;Swim&quot; represents perseverance and moving forward despite challenges.</p>
+
+                <div class="content-ads">
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2272028859368526" crossorigin="anonymous"></script>
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2272028859368526" data-ad-slot="7971452142" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                </div>
 
                 <h3>BTS Comeback Event Streamed Globally</h3>
                 <p>To celebrate the release, BTS hosted <strong>&quot;BTS The Comeback Live: ARIRANG&quot;</strong> on March 21, 2026, at Gwanghwamun Square in Seoul.</p>
